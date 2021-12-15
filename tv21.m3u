@@ -2,10 +2,12 @@
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal26" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-name="axn" tvg-logo="https://www.formulatv.com/images/noticias/49500/49583/1_abba071f13_640.jpg" group-title="cine" axn pinamar
+http://209.91.213.10:8088/play/a011
 #EXTINF:-1 tvg-id="cine.ar" tvg-name="cine.ar" tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg", cine ar | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,  tvg-id="12TV" tvg-logo="https://cdn.eldoce.tv/sites/all/themes/c12t/logo.svg?v1" group-title="argentina" tvg-name="12TV",12TV
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM/live
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
 #EXTINF:-1,Wow TV achoAPPS.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:0,Extrema TV
