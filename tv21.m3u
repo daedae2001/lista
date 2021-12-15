@@ -5,7 +5,7 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cine.ar" tvg-name="cine.ar" tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg", cine ar | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,  tvg-id="12TV" tvg-logo="https://cdn.eldoce.tv/sites/all/themes/c12t/logo.svg?v1" group-title="argentina" tvg-name="12TV",12TV
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU/live
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM/live
 #EXTINF:-1,Wow TV achoAPPS.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:0,Extrema TV
