@@ -8,8 +8,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666591/ei/P
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666680/ei/mP-6YYWCC9S31waTgJXQBA/ip/213.94.16.209/id/jN0TnHxhliA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOGJc6l_Wi1P2W6exPImQ4cfk9IOay63H-G-wzl97O1wCICF9FQ3sPD53dsdFMrYoqY5hylKwPYMcecHLH43TUWec/file/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="TVPublica" tvg-logo="https://n9.cl/rboq0", TVPublica | AR
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666876/ei/XAC7YdDqLMrNxwLy1pXIDg/ip/213.94.16.209/id/BmBHhG-nPzU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKqbUqqqo5Oyei4oehwxH56P1OtkW7CuA6Uot6TtwufzAiEAwMwsElalbdQp3wzs8gjNXLyAKhEAhxRiQmIhTVJU4R0%3D/file/index.m3u8
-
-
 #EXTINF:-1 tvg-id="canal26" tvg-name="Canal 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal26" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
@@ -20,14 +18,16 @@ http://209.91.213.10:8088/play/a011
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,  tvg-id="12TV" tvg-logo="https://cdn.eldoce.tv/sites/all/themes/c12t/logo.svg?v1" group-title="argentina" tvg-name="12TV",12TV
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
-#EXTINF:-1,Wow TV achoAPPS.com
+#EXTINF:-1,Wow TV  logo="https://n9.cl/v7m57" group-title="variedades" tvg-name="Wow TV",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,Extrema TV
+#EXTINF:-1,Extrema TV tvg-logo="https://n9.cl/enepw" group-title="variedades" tvg-name="Extrema TV",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://n9.cl/84964" group-title="Noticias" tvg-name="Rtv.es",Rtv.es
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639667100/ei/PAG7Yf_EE_m8xN8P6tGJkAM/ip/213.94.16.209/id/v4oVXxRuEjg.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJPqx-92idHvsAoPx8TN6yBSce079MdQZ6zGaulIYdG-AiEApYGhadG4M2vUIxHdKItRqBHPZeWlj6xN_ehlfdnSncg%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo="https://n9.cl/fy8uy" group-title="Documental" tvg-name="Encuentro",Encuentro
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
+#EXTINF:-1 tvg-id="20" tvg-logo="https://n9.cl/qf7i74" group-title="variedades" tvg-name="gen",gen
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
