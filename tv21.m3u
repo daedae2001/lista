@@ -16,13 +16,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639705440/ei/A
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639706057/ei/aZm7YZvuNprIsAKvxLgQ/ip/213.94.16.209/id/jN0TnHxhliA.1/source/yt_live_broadcast/requiressl/yes/tx/24129504/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZAw5x-hTMhobP4urIghX1NnzTes1bNeYs2B9uYqrlsQCIQCPrcCjq1b0p62Olx2yylqW_Nvb1zVkJTw597d1b7I7BQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="TVPublica" tvg-logo="https://n9.cl/rboq0", TVPublica | AR
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639706126/ei/rZm7Ye-VPOKwxN8Pz-KsmAc/ip/213.94.16.209/id/BmBHhG-nPzU.1/source/yt_live_broadcast/requiressl/yes/tx/24027686/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJRutExruqdJ_C--IxQNd3UhkAKcVY5_DMXu7xeqPYwACIQDwUo0Ju5c07x1SzmJjOLNDMAhZZbaVZDTKuuMkkv8Nuw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="canal26" tvg-name="Canal 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png", Canal 26 | AR
+#EXTINF:-1 tvg-id="canal 26" tvg-name="Canal 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal26" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
+#EXTINF:-1 tvg-id="Canal 10" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="axn" tvg-name="axn" tvg-logo="https://www.formulatv.com/images/noticias/49500/49583/1_abba071f13_640.jpg" group-title="cine" axn pinamar
-http://209.91.213.10:8088/play/a011
-#EXTINF:-1 tvg-id="cine.ar" tvg-name="cine.ar" tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg", cine ar | AR
+#EXTINF:-1 tvg-id="28" tvg-name="Cronica" tvg-logo="https://www.formulatv.com/images/noticias/49500/49583/1_abba071f13_640.jpg" group-title="Noticiero" Cronica
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639706902/ei/tpy7Yfj5FMOfxN8PquiPkAU/ip/213.94.16.209/id/InSydaLSSlw.6/source/yt_live_broadcast/requiressl/yes/tx/24027691/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSkHcS-ldRfxpp5sJ-0xK_1Mzgn2cwCFas2jHe51R0boCIQCXI843RO7jka6d8KPixYYzl_AJpVs_MDCJC7qzN0f3-A%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="cine.ar" tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg", cine ar | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,  tvg-id="12TV" tvg-logo="https://cdn.eldoce.tv/sites/all/themes/c12t/logo.svg?v1" group-title="argentina" tvg-name="12TV",12TV
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
