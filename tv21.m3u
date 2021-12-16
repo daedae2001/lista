@@ -20,7 +20,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639706126/ei/r
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 10" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="Cronica" tvg-logo="https://www.formulatv.com/images/noticias/49500/49583/1_abba071f13_640.jpg" group-title="Noticiero" Cronica
+#EXTINF:-1 tvg-id="28" tvg-name="Cronica" tvg-logo="https://n9.cl/9qod5" group-title="Noticiero" Cronica
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639706902/ei/tpy7Yfj5FMOfxN8PquiPkAU/ip/213.94.16.209/id/InSydaLSSlw.6/source/yt_live_broadcast/requiressl/yes/tx/24027691/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSkHcS-ldRfxpp5sJ-0xK_1Mzgn2cwCFas2jHe51R0boCIQCXI843RO7jka6d8KPixYYzl_AJpVs_MDCJC7qzN0f3-A%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="cine.ar" tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg", cine ar | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
