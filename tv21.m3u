@@ -1,5 +1,15 @@
 #EXTINF:-1 tvg-id="12" tvg-name="12" tvg-logo="https://n9.cl/mwga4", Canal 12 | AR
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666079/ei/P_26Ye2-L5Sh1wa-lIjACg/ip/213.94.16.209/id/gBbMbqILzXU.62/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEnrR-WTNyybLtbdz98Ohc_HFLMS69cQO39dwhcE71j8CIA6df82eJWlbKdABGHdoeZXgr3hTAN-lQkOhIGZPsPqK/file/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Tn" tvg-logo="https://n9.cl/ry6vg", Tn | AR
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666396/ei/fP66YbOzLYmsW5y-rPgE/ip/213.94.16.209/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUcSl4JGedx5YLERm2_xjH0PVMCvk3JwzVMQK4ay7hBYCIQDT-nSxmyddOuUSkQ4slUr4XYnnIUxkOpQUtxaP9fhMxw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="America" tvg-logo="https://n9.cl/ry6vg", America | AR
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666591/ei/P_-6Ycj5B4j3xN8Pl_2D2AE/ip/213.94.16.209/id/zcWXboTnous.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/es/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgURQhtKsJbf-vjEdU5QEfHHsXWw1f55xXVkYLwrNqLVgCIH-2M0gNaokd5YQ0qdNk9vg4NODvzF9wjjFCOvDu-N2T/file/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="C5n" tvg-logo="https://n9.cl/lqbhd", C5n | AR
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666680/ei/mP-6YYWCC9S31waTgJXQBA/ip/213.94.16.209/id/jN0TnHxhliA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOGJc6l_Wi1P2W6exPImQ4cfk9IOay63H-G-wzl97O1wCICF9FQ3sPD53dsdFMrYoqY5hylKwPYMcecHLH43TUWec/file/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="TVPublica" tvg-logo="https://n9.cl/rboq0", TVPublica | AR
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639666876/ei/XAC7YdDqLMrNxwLy1pXIDg/ip/213.94.16.209/id/BmBHhG-nPzU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKqbUqqqo5Oyei4oehwxH56P1OtkW7CuA6Uot6TtwufzAiEAwMwsElalbdQp3wzs8gjNXLyAKhEAhxRiQmIhTVJU4R0%3D/file/index.m3u8
+
+
 #EXTINF:-1 tvg-id="canal26" tvg-name="Canal 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal26" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
@@ -12,8 +22,13 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
 #EXTINF:-1,Wow TV achoAPPS.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:0,Extrema TV
+#EXTINF:-1,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="https://n9.cl/84964" group-title="Noticias" tvg-name="Rtv.es",Rtv.es
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639667100/ei/PAG7Yf_EE_m8xN8P6tGJkAM/ip/213.94.16.209/id/v4oVXxRuEjg.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJPqx-92idHvsAoPx8TN6yBSce079MdQZ6zGaulIYdG-AiEApYGhadG4M2vUIxHdKItRqBHPZeWlj6xN_ehlfdnSncg%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://n9.cl/fy8uy" group-title="Documental" tvg-name="Encuentro",Encuentro
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
+
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
