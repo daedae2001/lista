@@ -8,7 +8,7 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1,tvg-id=1 tvg-name="101TV MÁLAGA" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="OTROS" ,101TV MÁLAGA
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1,tvg-id=5 tvg-name="LOS SIMPSON" tvg-logo="https://n9.cl/zzrl8w" group-title="ANIMACION" ,LOS SIMPSON
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/6At_EqNGZuc"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/6At_EqNGZuc
 #EXTINF:-1,tvg-id=2 tvg-name="LA 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="VARIEDADES" ,LA 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
 #EXTINF:-1,tvg-id=2 tvg-name="LA 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="VARIEDADES" ,LA 2
@@ -18,29 +18,29 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1,tvg-id=7 tvg-name="7NN NOTICIAS" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="INFORMATIVOS" ,7NN NOTICIAS
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id=8 tvg-name="TELEFE CBA" tvg-logo="https://n9.cl/7ge93" group-title="ARGENTINA" ,TELEFE CBA
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/UXifboiB3f8"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/UXifboiB3f8
 #EXTINF:-1,tvg-id=10 tvg-name="CANAL 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="ARGENTINA" ,CANAL 10
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1,tvg-id=12 tvg-name="CANAL 12" tvg-logo="https://n9.cl/kz5er" group-title="ARGENTINA" ,CANAL 12
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/BK4-S2A0M74"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/BK4-S2A0M74
 #EXTINF:-1,tvg-id=14 tvg-name="TN" tvg-logo="https://n9.cl/ry6vg" group-title="ARGENTINA" ,TN
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/wHn1_QVoXGM"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/wHn1_QVoXGM
 #EXTINF:-1,tvg-id=15 tvg-name="AMERICA" tvg-logo="https://n9.cl/yeiko" group-title="ARGENTINA" ,AMERICA
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/zcWXboTnous"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/zcWXboTnous
 #EXTINF:-1,tvg-id=16 tvg-name="C5N" tvg-logo="https://n9.cl/lqbhd" group-title="ARGENTINA" ,C5N
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/jN0TnHxhliA"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/jN0TnHxhliA
 #EXTINF:-1,tvg-id=17 tvg-name="TVPUBLICA" tvg-logo="https://n9.cl/rboq0" group-title="ARGENTINA" ,TVPUBLICA
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/BmBHhG-nPzU"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/BmBHhG-nPzU
 #EXTINF:-1,tvg-id=18 tvg-name="RTV.ES" tvg-logo="https://n9.cl/84964" group-title="INFORMATIVOS" ,RTV.ES
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/v4oVXxRuEjg"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/v4oVXxRuEjg
 #EXTINF:-1,tvg-id=19 tvg-name="ENCUENTRO" tvg-logo="https://n9.cl/fy8uy" group-title="DOCUMENTALES" ,ENCUENTRO
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/QnsGY0fwAE8"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/QnsGY0fwAE8
 #EXTINF:-1,tvg-id=20 tvg-name="GEN" tvg-logo="https://n9.cl/qf7i74" group-title="VARIEDADES" ,GEN
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1,tvg-id=21 tvg-name="IMAGEN" tvg-logo="https://n9.cl/nfe1r" group-title="VARIEDADES" ,IMAGEN
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/xO9BUTdCwg8"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/xO9BUTdCwg8
 #EXTINF:-1,tvg-id=23 tvg-name="LN+" tvg-logo="https://n9.cl/lg9kp" group-title="INFORMATIVOS" ,LN+
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/taquniX5KO0"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/taquniX5KO0
 #EXTINF:-1,tvg-id=24 tvg-name="24H" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="INFORMATIVOS" ,24H
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639705678/ei/7pe7YbXiBPiwxN8Pib6S4A0/ip/213.94.16.209/id/Sh54vNR2QSo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/es/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKFohWgtFdeB0eYdHVmPXebQjnMM074Xq54vQp1Pg6XfAiEAwHRBkCabsy_064IIG_dfI6JvNbbYT7RMePMBguwuxlU%3D/file/index.m3u8
 #EXTINF:-1,tvg-id=24 tvg-name="24H" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="INFORMATIVOS" ,24H
@@ -56,7 +56,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1,tvg-id=27 tvg-name="25 TV" tvg-logo="https://graph.facebook.com/298335373532952/picture?width=200&height=200" group-title="OTROS" ,25 TV
 https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1,tvg-id=28 tvg-name="CRONICA" tvg-logo="https://n9.cl/9qod5" group-title="INFORMATIVOS" ,CRONICA
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/InSydaLSSlw"
+https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/InSydaLSSlw
 #EXTINF:-1,tvg-id=28 tvg-name="CANALCOSTA" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="" ,CANALCOSTA
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 #EXTINF:-1,tvg-id=29 tvg-name="CINE.AR" tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg" group-title="CINE" ,CINE.AR
