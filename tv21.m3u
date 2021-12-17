@@ -22,7 +22,7 @@ https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/UXifboiB3f
 #EXTINF:-1,tvg-id=10 tvg-name="CANAL 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="ARGENTINA" ,CANAL 10
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1,tvg-id=12 tvg-name="CANAL 12" tvg-logo="https://n9.cl/kz5er" group-title="ARGENTINA" ,CANAL 12
-https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/BK4-S2A0M74
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BK4-S2A0M74
 #EXTINF:-1,tvg-id=14 tvg-name="TN" tvg-logo="https://n9.cl/ry6vg" group-title="ARGENTINA" ,TN
 https://daedae.herokuapp.com/iptv-query?Streaming-ip=https://youtu.be/wHn1_QVoXGM
 #EXTINF:-1,tvg-id=15 tvg-name="AMERICA" tvg-logo="https://n9.cl/yeiko" group-title="ARGENTINA" ,AMERICA
