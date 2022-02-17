@@ -1,52 +1,22 @@
 #EXTM3U
 #EXTINF:-1,tvg-id=1 tvg-name="LA 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="VARIEDADES" ,LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1,tvg-id=1 tvg-name="LA 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="VARIEDADES" ,LA 1
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
-#EXTINF:-1,tvg-id=1 tvg-name="LA 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="VARIEDADES" ,LA 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1,tvg-id=1 tvg-name="101TV MÁLAGA" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="OTROS" ,101TV MÁLAGA
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1,tvg-id=5 tvg-name="LOS SIMPSON" tvg-logo="https://n9.cl/zzrl8w" group-title="ANIMACION" ,LOS SIMPSON
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6At_EqNGZuc
 #EXTINF:-1,tvg-id=2 tvg-name="LA 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="VARIEDADES" ,LA 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
-#EXTINF:-1,tvg-id=2 tvg-name="LA 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="VARIEDADES" ,LA 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1,tvg-id=7 tvg-name="LA 7" tvg-logo="https://graph.facebook.com/cyltv/picture?width=200&height=200" group-title="OTROS" ,LA 7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1,tvg-id=7 tvg-name="7NN NOTICIAS" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="INFORMATIVOS" ,7NN NOTICIAS
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id=8 tvg-name="TELEFE CBA" tvg-logo="https://n9.cl/7ge93" group-title="ARGENTINA" ,TELEFE CBA
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=UXifboiB3f8
 #EXTINF:-1,tvg-id=10 tvg-name="CANAL 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="ARGENTINA" ,CANAL 10
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
-#EXTINF:-1,tvg-id=12 tvg-name="CANAL 12" tvg-logo="https://n9.cl/kz5er" group-title="ARGENTINA" ,CANAL 12
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BK4-S2A0M74
 #EXTINF:-1,tvg-id=14 tvg-name="TN" tvg-logo="https://n9.cl/ry6vg" group-title="ARGENTINA" ,TN
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
-#EXTINF:-1,tvg-id=15 tvg-name="AMERICA" tvg-logo="https://n9.cl/yeiko" group-title="ARGENTINA" ,AMERICA
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=zcWXboTnous
 #EXTINF:-1,tvg-id=16 tvg-name="C5N" tvg-logo="https://n9.cl/lqbhd" group-title="ARGENTINA" ,C5N
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jN0TnHxhliA
-#EXTINF:-1,tvg-id=17 tvg-name="TVPUBLICA" tvg-logo="https://n9.cl/rboq0" group-title="ARGENTINA" ,TVPUBLICA
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BmBHhG-nPzU
-#EXTINF:-1,tvg-id=18 tvg-name="RTV.ES" tvg-logo="https://n9.cl/84964" group-title="INFORMATIVOS" ,RTV.ES
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=v4oVXxRuEjg
-#EXTINF:-1,tvg-id=19 tvg-name="ENCUENTRO" tvg-logo="https://n9.cl/fy8uy" group-title="DOCUMENTALES" ,ENCUENTRO
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=QnsGY0fwAE8
 #EXTINF:-1,tvg-id=20 tvg-name="GEN" tvg-logo="https://n9.cl/qf7i74" group-title="VARIEDADES" ,GEN
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1,tvg-id=21 tvg-name="IMAGEN" tvg-logo="https://n9.cl/nfe1r" group-title="VARIEDADES" ,IMAGEN
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=v-Uk_8xLs_Y
 #EXTINF:-1,tvg-id=23 tvg-name="LN+" tvg-logo="https://n9.cl/lg9kp" group-title="INFORMATIVOS" ,LN+
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=taquniX5KO0
 #EXTINF:-1,tvg-id=24 tvg-name="24H" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="INFORMATIVOS" ,24H
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639705678/ei/7pe7YbXiBPiwxN8Pib6S4A0/ip/213.94.16.209/id/Sh54vNR2QSo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/es/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKFohWgtFdeB0eYdHVmPXebQjnMM074Xq54vQp1Pg6XfAiEAwHRBkCabsy_064IIG_dfI6JvNbbYT7RMePMBguwuxlU%3D/file/index.m3u8
-#EXTINF:-1,tvg-id=24 tvg-name="24H" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="INFORMATIVOS" ,24H
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-#EXTINF:-1,tvg-id=24 tvg-name="24H" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="INFORMATIVOS" ,24H
-https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 #EXTINF:-1,tvg-id=25 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="INFORMATIVOS" ,24
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
 #EXTINF:-1,tvg-id=26 tvg-name="CANAL 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png" group-title="ARGENTINA" ,CANAL 26
@@ -87,8 +57,6 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
 #EXTINF:-1,tvg-id=41 tvg-name="CLAN" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="INFANTIL" ,CLAN
 https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1,tvg-id=42 tvg-name="CLAN" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="INFANTIL" ,CLAN
-https://rtvelivestreamv3.akamaized.net/rtvesec/clan_bkp_dvr.m3u8
 #EXTINF:-1,tvg-id=43 tvg-name="+TDP" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="DEPORTES" ,+TDP
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
 #EXTINF:-1,tvg-id=44 tvg-name="CANCIONERO TV" tvg-logo="https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png" group-title="OTROS" ,CANCIONERO TV
@@ -97,37 +65,16 @@ http://89.140.229.4/hls1/cancionero.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1,tvg-id=46 tvg-name="CANAL 2000" tvg-logo="https://graph.facebook.com/canal2000/picture?width=200&height=200" group-title="OTROS" ,CANAL 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
-#EXTINF:-1,tvg-id=47 tvg-name="TV ARANDA" tvg-logo="https://graph.facebook.com/575943555801687/picture?width=200&height=200" group-title="OTROS" ,TV ARANDA
-https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 #EXTINF:-1,tvg-id=48 tvg-name="TELEGANÉS" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200" group-title="OTROS" ,TELEGANÉS
 https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8
-#EXTINF:-1,tvg-id=49 tvg-name="TV NUEVO TIEMPO" tvg-logo="https://n9.cl/y1zyl" group-title="VARIEDADES" ,TV NUEVO TIEMPO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639716246/ei/NsG7Ye6eK4ba1wa18J3oCg/ip/213.94.16.209/id/2HMTq6KX_t8.25/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBq7CSFjFrrayD3BsFnfme9Hv0nLCwMUakVa2QVPGfEoCIHnjktb-lJ76OAwiUoMOTQ96gXQd6LDi9R6bfevsdC04/file/index.m3u8
 #EXTINF:-1,tvg-id=50 tvg-name="NET TV" tvg-logo="" group-title="VARIEDADES" ,NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,tvg-id=51 tvg-name="A24" tvg-logo="https://n9.cl/em9cw" group-title="ARGENTINA" ,A24
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Sh54vNR2QSo
-#EXTINF:-1,tvg-id=52 tvg-name="CANAL DE LA CIUDAD" tvg-logo="https://n9.cl/pvsbj" group-title="ARGENTINA" ,CANAL DE LA CIUDAD
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Qg19a2IyWwo
-#EXTINF:-1,tvg-id=53 tvg-name="HBO" tvg-logo="https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png" group-title="PREMIUM" ,HBO
-https://vsd78.mycdn.me/hls/1883905264199.m3u8/sig/oWNsMqCK8wQ/expires/1639838548979/srcIp/213.94.16.209/clientType/0/srcAg/CHROME/mid/4929091214919/video.m3u8
-#EXTINF:-1,tvg-id=54 tvg-name="HBO2" tvg-logo="https://1.bp.blogspot.com/--Ta9c8dZP5A/WotiP-fx9LI/AAAAAAAAAaI/BWe4L-23n1UlRdmB3926Zc4WegEYWbrHgCLcBGAs/s1600/hbo2.png" group-title="PREMIUM" ,HBO2
-https://vsd137.mycdn.me/hls/1883903953479.m3u8/sig/9-FvrbzFUM4/expires/1639838731749/srcIp/213.94.16.209/clientType/0/srcAg/CHROME/mid/4929075813959/video.m3u8
-#EXTINF:-1,tvg-id=55 tvg-name="FOX" tvg-logo="https://4.bp.blogspot.com/-Eso7RpiRpvM/Woth_39ESQI/AAAAAAAAAZ0/BZyWU1-vkwE3zT9EPnl1iZ16QXHpP1bngCLcBGAs/s1600/fox-latino.png" group-title="PREMIUM" ,FOX
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vfxrt19x
-#EXTINF:-1,tvg-id=56 tvg-name="FOX ACTION" tvg-logo="https://2.bp.blogspot.com/-2Gi6xTTwu4o/WotiBoXBoBI/AAAAAAAAAZ4/M7f9y3-7ofII9gzN8q1yC4Px5LyD5nAKQCLcBGAs/s1600/fox-premium-action.png" group-title="PREMIUM" ,FOX ACTION
-https://vsd81.mycdn.me/hls/1896564132423.m3u8/sig/FeUgLw9BJKE/expires/1639839082440/srcIp/213.94.16.209/clientType/0/srcAg/CHROME/mid/4982885326407/video.m3u8
-#EXTINF:-1,tvg-id=57 tvg-name="TNT" tvg-logo="https://2.bp.blogspot.com/-Z0UFOb-7k7Y/WotiejuNn6I/AAAAAAAAAa8/tABlYFsm6Z87YF8Gdpo_vP0d7q8A6eoAACLcBGAs/s1600/tntla.png" group-title="PREMIUM" ,TNT
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ntn_95kl
 #EXTINF:-1,tvg-id=58 tvg-name="NAT GEO" tvg-logo="https://3.bp.blogspot.com/-eM3xVJYrV4o/WotiUvTi2SI/AAAAAAAAAac/52N_07Qth3cGWECeeidfDBWIQAnXJUFIACLcBGAs/s1600/natgeo.png" group-title="PREMIUM" ,NAT GEO
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99rrr
 #EXTINF:-1,tvg-id=59 tvg-name="HISTORY" tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png" group-title="PREMIUM" ,HISTORY
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
 #EXTINF:-1,tvg-id=60 tvg-name="CINEMAX" tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" group-title="PREMIUM" ,CINEMAX
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
-#EXTINF:-1,tvg-id=61 tvg-name="DICOVERY" tvg-logo="https://2.bp.blogspot.com/-BzjAVwRy5dA/Woth6B71MbI/AAAAAAAAAZg/pnULVgGMs249muxWkmEeVOLOfMtwRJe6ACLcBGAs/s1600/discovery-channel.png" group-title="PREMIUM" ,DISCOVERY
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rt_011w
-#EXTINF:-1,tvg-id=62 tvg-name="SPACE" tvg-logo="https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png" group-title="PREMIUM" ,SPACE
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cb_v222
-#EXTINF:-1,tvg-id=63 tvg-name="GOLDEN" tvg-logo="https://2.bp.blogspot.com/-ctiI9TzGkBE/Woth9Zu7rxI/AAAAAAAAAZs/h0ToyyAspZ8UVYpq90Dwj2wsZJmyUPHfACLcBGAs/s1600/edge.png" group-title="PREMIUM" ,GOLDEN
-https://vsd101.mycdn.me/hls/1883897596487.m3u8/sig/hKk5ndomEKc/expires/1639839825552/srcIp/213.94.16.209/clientType/0/srcAg/CHROME/mid/4928984522311/video.m3u8
+
