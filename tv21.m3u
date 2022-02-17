@@ -77,4 +77,67 @@ https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
 #EXTINF:-1,tvg-id=60 tvg-name="CINEMAX" tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" group-title="PREMIUM" ,CINEMAX
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", América TV
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", ARAGON TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal i (1080p)
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", HM TV
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", MyTime movie network (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Rakuten Top Free 2
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Rakuten Top Free 2
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Rakuten Top Free 2
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", TELE CANAL 12 HD
+https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", 924-GEN TV HD
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", América tv HD
+https://inliveserver.com:1936/14044/14044/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", CINE AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Eltrece tv
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Los Simpson 24/7
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Babestation
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", C5N HD
+https://inliveserver.com:1936/9504/9504/chunklist_w1010126042.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", 307 Sony Comedias
+https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/playlist.m3u8?ads.wurl_channel=693&ads.wurl_name=SonyCanalComedias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", 103 VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", 103 VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", EL CHAVO DEL 8
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", HBO
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71655.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL
+
 
