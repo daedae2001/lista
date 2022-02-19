@@ -63,8 +63,6 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
 http://89.140.229.4/hls1/cancionero.m3u8
 #EXTINF:-1,tvg-id=46 tvg-name="DTV TV" tvg-logo="" group-title="VARIEDADES" ,DTV TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1,tvg-id=46 tvg-name="CANAL 2000" tvg-logo="https://graph.facebook.com/canal2000/picture?width=200&height=200" group-title="OTROS" ,CANAL 2000
-http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 #EXTINF:-1,tvg-id=48 tvg-name="TELEGANÉS" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200" group-title="OTROS" ,TELEGANÉS
 https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8
 #EXTINF:-1,tvg-id=50 tvg-name="NET TV" tvg-logo="" group-title="VARIEDADES" ,NET TV
@@ -77,14 +75,14 @@ https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
 #EXTINF:-1,tvg-id=60 tvg-name="CINEMAX" tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" group-title="PREMIUM" ,CINEMAX
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
+#EXTINF:-1,tvg-id=60 tvg-name="simpsons" tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" group-title="PREMIUM" ,CINEMAX
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/los_simpson_nuevos
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", América TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal i (1080p)
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", HM TV
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", La 2 (720p)
