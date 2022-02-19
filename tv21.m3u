@@ -141,20 +141,6 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/34feb14ad3ee6a17a160ab0635915bf0.png", CSTV
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", Eva Retro
-https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", EvaStream
-https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Babestation
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Jasmin TV
