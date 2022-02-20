@@ -179,11 +179,11 @@ http://cdn.adultiptv.net/gay.m3u8
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 , tvg-id=89 , tvg-name="Todo Noticias Argentina" , tvg-language="español" , tvg-logo="https://graph.facebook.com/todonoticias/picture?width=200&height=200" , group-title="ARGENTINA" , TN
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
-#EXTINF:-1 , tvg-id=89 , tvg-name="C5N" , tvg-language="español" , tvg-logo="https://graph.facebook.com/todonoticias/picture?width=200&height=200" , group-title="ARGENTINA" , C5N
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
+#EXTINF:-1 , tvg-id=89 , tvg-name="C5N" , tvg-language="español" , tvg-logo="https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200" , group-title="ARGENTINA" , C5N
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jN0TnHxhliA
 #EXTINF:-1 , tvg-id=89 , tvg-name="TELEFE" , tvg-language="español" , tvg-logo="https://graph.facebook.com/telefe/picture?width=200&height=200" , group-title="ARGENTINA" , TELEFE
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw/live
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw
 #EXTINF:-1 , tvg-id=89 , tvg-name="TV PUBICA" , tvg-language="español" , tvg-logo="https://graph.facebook.com/TVPublica/picture?width=200&height=200" , group-title="ARGENTINA" , TV PUBLICA
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg
 
 
