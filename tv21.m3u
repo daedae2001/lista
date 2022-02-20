@@ -178,5 +178,4 @@ http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 , tvg-id=89 , tvg-name="Anet_Asian" , tvg-language="English" , tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" , group-title="9_XXX" , Anet_Asian
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 , tvg-id=89 , tvg-name="Todo Noticias Argentina" , tvg-language="español" , tvg-logo="https://graph.facebook.com/todonoticias/picture?width=200&height=200" , group-title="ARGENTINA" , TN
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
-
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
