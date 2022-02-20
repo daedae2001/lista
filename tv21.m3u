@@ -87,15 +87,13 @@ https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 , tvg-id=41 , tvg-name="LA 2" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" , group-title="6_VARIEDADES" , LA 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
-#EXTINF:-1 , tvg-id=42 , tvg-name="GEN" , tvg-language="Español" , tvg-logo="https://n9.cl/qf7i74" , group-title="6_VARIEDADES" , GEN
-https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 , tvg-id=43 , tvg-name="ARAGONTV" , tvg-language="Español" , tvg-logo="https://n9.cl/uh8a7" , group-title="6_VARIEDADES" , ARAGONTV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 , tvg-id=44 , tvg-name="EL TORO TV" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" , group-title="6_VARIEDADES" , EL TORO TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 , tvg-id=45 , tvg-name="WOW TV" , tvg-language="Español" , tvg-logo="https://n9.cl/v7m57" , group-title="6_VARIEDADES" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 , tvg-id=46 , tvg-name="EXTREMA TV" , tvg-language="Español" , tvg-logo="https://n9.cl/enepw" , group-title="6_VARIEDADES" , EXTREMA TV
+#EXTINF:-1 , tvg-id=46 , tvg-name="EXTREMA TV" , tvg-language="Español" , tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85d0fd3f9dab2acb467c4aca607c9764.webp" , group-title="6_VARIEDADES" , EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 , tvg-id=47 , tvg-name="MTMAD 24H" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" , group-title="6_VARIEDADES" , MTMAD 24H
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
