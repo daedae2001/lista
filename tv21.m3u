@@ -45,6 +45,11 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 , tvg-id=23 , tvg-name="EL TRECE" , tvg-language="Español" , tvg-logo="" , group-title="3_ARGENTINA" , EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 , tvg-id=89 , tvg-name="EL 12TV" , tvg-language="español" , tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUFI-aAzN3zAsFwS79WwJeAgmd7A4POK52QDcZ3g=s88-c-k-c0x00ffffff-no-rj" , group-title="3_ARGENTINA" , EL_12_TV
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
+#EXTINF:-1 , tvg-id=90 , tvg-name="TV PUBICA" , tvg-language="español" , tvg-logo="https://graph.facebook.com/TVPublica/picture?width=200&height=200" , group-title="3_ARGENTINA" , TV PUBLICA
+https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HwcVpiNGbpg
+
 #EXTINF:-1 , tvg-id=24 , tvg-name="25 TV" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/298335373532952/picture?width=200&height=200" , group-title="4_OTROS" , 25 TV
 https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 , tvg-id=25 , tvg-name="CANALCOSTA" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" , group-title="4_OTROS" , CANALCOSTA
@@ -177,11 +182,5 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 , tvg-id=89 , tvg-name="Anet_Asian" , tvg-language="English" , tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" , group-title="9_XXX" , Anet_Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 , tvg-id=89 , tvg-name="Todo Noticias Argentina" , tvg-language="español" , tvg-logo="https://graph.facebook.com/todonoticias/picture?width=200&height=200" , group-title="ARGENTINA" , TN
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
-#EXTINF:-1 , tvg-id=89 , tvg-name="C5N" , tvg-language="español" , tvg-logo="https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200" , group-title="ARGENTINA" , C5N
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jN0TnHxhliA
-#EXTINF:-1 , tvg-id=89 , tvg-name="TV PUBICA" , tvg-language="español" , tvg-logo="https://graph.facebook.com/TVPublica/picture?width=200&height=200" , group-title="ARGENTINA" , TV PUBLICA
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HwcVpiNGbpg
 
 
