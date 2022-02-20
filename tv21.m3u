@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 , tvg-id=1 , tvg-name="CINE.AR" , tvg-language="Español" , tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg" , group-title="1_CINE" , CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 , tvg-id=2 , tvg-name="TELECLÁSICOS" , tvg-language="Español" , tvg-logo="" , group-title="1_CINE" , TELECLÁSICOS
+#EXTINF:-1 , tvg-id=2 , tvg-name="TELECLÁSICOS" , tvg-language="Español" , tvg-logo="https://static.wixstatic.com/media/67cfee_49425450898040a0b4639d426e93bcba~mv2.png/v1/fill/w_326,h_326,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20TELE%20CLASICOS%20COLORES%20CANAL%20PNG.webp" , group-title="1_CINE" , TELECLÁSICOS
 https://tvdatta.com:3484/stream/play.m3u8
-#EXTINF:-1 , tvg-id=3 , tvg-name="MyTime movie network (Spain)" , tvg-language="Español" , tvg-logo="" , group-title="1_CINE" , MyTime movie network (Spain)
+#EXTINF:-1 , tvg-id=3 , tvg-name="MyTime movie network (Spain)" , tvg-language="Español" , tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSj8iMEDzbjBWhaI7hp1Wg7QR3vYrUMgJVrR_5_=s88-c-k-c0x00ffffff-no-rj" , group-title="1_CINE" , MyTime movie network (Spain)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 , tvg-id=4 , tvg-name="Rakuten Top Free 2" , tvg-language="Español" , tvg-logo="" , group-title="1_CINE" , Rakuten Top Free 2
+#EXTINF:-1 , tvg-id=4 , tvg-name="Rakuten Top Free 2" , tvg-language="Español" , tvg-logo="https://1000marcas.net/wp-content/uploads/2021/06/Rakuten-logo-500x281.png" , group-title="1_CINE" , Rakuten Top Free 2
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 , tvg-id=5 , tvg-name="CINE" , tvg-language="Español" , tvg-logo="" , group-title="1_CINE" , CINE
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
@@ -27,7 +27,7 @@ https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
 #EXTINF:-1 , tvg-id=14 , tvg-name="CINEMAX" , tvg-language="Español" , tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" , group-title="2_PREMIUM" , CINEMAX
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
-#EXTINF:-1 , tvg-id=15 , tvg-name="simpsons" , tvg-language="Español" , tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" , group-title="2_PREMIUM" , SIMPSONS
+#EXTINF:-1 , tvg-id=15 , tvg-name="simpsons" , tvg-language="Español" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Simpsons_logo_-_Yellow.svg/800px-The_Simpsons_logo_-_Yellow.svg.png" , group-title="2_PREMIUM" , SIMPSONS
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/los_simpson_nuevos
 #EXTINF:-1 , tvg-id=16 , tvg-name="CANAL 10" , tvg-language="Español" , tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" , group-title="3_ARGENTINA" , CANAL 10
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
@@ -39,17 +39,18 @@ https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/wat
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 , tvg-id=20 , tvg-name="A24" , tvg-language="Español" , tvg-logo="https://n9.cl/em9cw" , group-title="3_ARGENTINA" , A24
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Sh54vNR2QSo
-#EXTINF:-1 , tvg-id=21 , tvg-name="América TV" , tvg-language="Español" , tvg-logo="" , group-title="3_ARGENTINA" , América TV
+#EXTINF:-1 , tvg-id=21 , tvg-name="América TV" , tvg-language="Español" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/571px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" , group-title="3_ARGENTINA" , América TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-#EXTINF:-1 , tvg-id=22 , tvg-name="América tv HD" , tvg-language="Español" , tvg-logo="" , group-title="3_ARGENTINA" , América tv HD
+#EXTINF:-1 , tvg-id=22 , tvg-name="América tv HD" , tvg-language="Español" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/571px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" , group-title="3_ARGENTINA" , América tv HD
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
-#EXTINF:-1 , tvg-id=23 , tvg-name="EL TRECE" , tvg-language="Español" , tvg-logo="" , group-title="3_ARGENTINA" , EL TRECE
+#EXTINF:-1 , tvg-id=23 , tvg-name="EL TRECE" , tvg-language="Español" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" , group-title="3_ARGENTINA" , EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 , tvg-id=89 , tvg-name="EL 12TV" , tvg-language="español" , tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUFI-aAzN3zAsFwS79WwJeAgmd7A4POK52QDcZ3g=s88-c-k-c0x00ffffff-no-rj" , group-title="3_ARGENTINA" , EL_12_TV
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
 #EXTINF:-1 , tvg-id=90 , tvg-name="TV PUBICA" , tvg-language="español" , tvg-logo="https://graph.facebook.com/TVPublica/picture?width=200&height=200" , group-title="3_ARGENTINA" , TV PUBLICA
 https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HwcVpiNGbpg
-
+#EXTINF:-1 , tvg-id=90 , tvg-name="TELEFE RO" , tvg-language="español" ,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png", group-title="3_ARGENTINA" ,telefe rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 , tvg-id=24 , tvg-name="25 TV" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/298335373532952/picture?width=200&height=200" , group-title="4_OTROS" , 25 TV
 https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 , tvg-id=25 , tvg-name="CANALCOSTA" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" , group-title="4_OTROS" , CANALCOSTA
@@ -100,29 +101,29 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 #EXTINF:-1 , tvg-id=48 , tvg-name="NIUS" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" , group-title="6_VARIEDADES" , NIUS
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
-#EXTINF:-1 , tvg-id=49 , tvg-name="DTV TV" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , DTV TV
+#EXTINF:-1 , tvg-id=49 , tvg-name="DTV TV" , tvg-language="Español" , tvg-logo="https://image.winudf.com/v2/image/Y29tLmR0di5pcHR2X2ljb25fMTUyNjAxNzE3Nl8wNjY/icon.png?w=170&fakeurl=1" , group-title="6_VARIEDADES" , DTV TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1 , tvg-id=50 , tvg-name="NET TV" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , NET TV
+#EXTINF:-1 , tvg-id=50 , tvg-name="NET TV" , tvg-language="Español" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" , group-title="6_VARIEDADES" , NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 , tvg-id=51 , tvg-name="HM TV" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , HM TV
+#EXTINF:-1 , tvg-id=51 , tvg-name="HM TV" , tvg-language="Español" , tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.18169-9/14925221_2136340743256807_4711714572060873152_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=gpg_1HxqEn4AX91RDvp&_nc_ht=scontent-mad1-1.xx&oh=00_AT8sQT_HgtGVcGLDTj5wrh6_KFoNLFkNrFl_6U-4oSKorA&oe=623687CA" , group-title="6_VARIEDADES" , HM TV
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
-#EXTINF:-1 , tvg-id=52 , tvg-name="924-GEN TV HD" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , 924-GEN TV HD
+#EXTINF:-1 , tvg-id=52 , tvg-name="924-GEN TV HD" , tvg-language="Español" , tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/175449362_946011422813377_5151762586465135024_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=a0TCYXFDQcEAX_wlpTM&_nc_ht=scontent-mad1-1.xx&oh=00_AT_pxReDnNE60SwkwzoJchwPntq8tc0USN_SfSnVtX1b9A&oe=6236D0F8" , group-title="6_VARIEDADES" , 924-GEN TV HD
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1 , tvg-id=53 , tvg-name="GOURMET TV" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , GOURMET TV
+#EXTINF:-1 , tvg-id=53 , tvg-name="GOURMET TV" , tvg-language="Español" , tvg-logo="https://elgourmet.com/theme/assets/logo.png" , group-title="6_VARIEDADES" , GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 , tvg-id=54 , tvg-name="ENCUENTRO" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , ENCUENTRO
+#EXTINF:-1 , tvg-id=54 , tvg-name="ENCUENTRO" , tvg-language="Español" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" , group-title="6_VARIEDADES" , ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 , tvg-id=55 , tvg-name="307 Sony Comedias" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , 307 Sony Comedias
+#EXTINF:-1 , tvg-id=55 , tvg-name="307 Sony Comedias" , tvg-language="Español" , tvg-logo="https://tv.mobistream.co.za/uploads/jpg/f4987923d8f33269cb907db688c5af96.jpg" , group-title="6_VARIEDADES" , 307 Sony Comedias
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/playlist.m3u8
-#EXTINF:-1 , tvg-id=56 , tvg-name="EL CHAVO DEL 8" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , EL CHAVO DEL 8
+#EXTINF:-1 , tvg-id=56 , tvg-name="EL CHAVO DEL 8" , tvg-language="Español" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" , group-title="6_VARIEDADES" , EL CHAVO DEL 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 , tvg-id=57 , tvg-name="ORBIT TV" , tvg-language="Español" , tvg-logo="" , group-title="6_VARIEDADES" , ORBIT TV
+#EXTINF:-1 , tvg-id=57 , tvg-name="ORBIT TV" , tvg-language="Español" , tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg" , group-title="6_VARIEDADES" , ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL
 #EXTINF:-1 , tvg-id=58 , tvg-name="Viwix TV" , tvg-language="Español" , tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" , group-title="6_VARIEDADES" , Viwix TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1 , tvg-id=59 , tvg-name="CSTV" , tvg-language="Español" , tvg-logo="https://i2.paste.pics/34feb14ad3ee6a17a160ab0635915bf0.png" , group-title="6_VARIEDADES" , CSTV
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 , tvg-id=60 , tvg-name="103 VEVO Latino" , tvg-language="Español" , tvg-logo="" , group-title="7_MUSICA" , 103 VEVO Latino
+#EXTINF:-1 , tvg-id=60 , tvg-name="103 VEVO Latino" , tvg-language="Español" , tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=744cda&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvevolatino.png" , group-title="7_MUSICA" , 103 VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 , tvg-id=61 , tvg-name="CLAN" , tvg-language="Español" , tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" , group-title="8_INFANTIL" , CLAN
 https://ztnr.rtve.es/ztnr/5466990.m3u8
