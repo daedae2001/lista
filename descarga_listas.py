@@ -14,8 +14,8 @@ for x in mylist:
     primera = f.read()
     f.close()
     print(primera.find('\nhttp://'))
-    primera = primera.replace(
-        '\nhttp://', '_'+x[2]+'\nhttp://').replace('tvg-id="', 'tvg-id="'+x[2]).replace('-id="pluto-', "_"+x[2]+'-id="pluto-')
+    primera = primera.replace('\nhttp://', '_'+x[2]+'\nhttp://')
+    # .replace('tvg-id="', 'tvg-id="'+x[2]).replace('-id="pluto-', "_"+x[2]+'-id="pluto-')
     f = open(x[0], 'w')
     f.write(primera)
     f.close()
