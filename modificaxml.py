@@ -1,7 +1,9 @@
+
 import requests
+mylist = [["es.xml", 'https://i.mjh.nz/PlutoTV/es.xml'],
+          ["mx.xml", 'https://i.mjh.nz/PlutoTV/mx.xml']]
 
-url = 'https://i.mjh.nz/PlutoTV/es.xml'
-
-myfile = requests.get(url)
-
-open('es.xml', 'wb').write(myfile.content)
+for x in mylist:
+    url = x[1]
+    myfile = requests.get(url)
+    open(x[0], 'wb').write(myfile.content)
