@@ -1,866 +1,866 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz">
   <channel id="mx5dcb62e63d4d8f0009f36881">
-    <display-name>mxPluto TV Cine Acción</display-name>
+    <display-name>Pluto TV Cine Acción_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcdde78f080d900098550e4">
-    <display-name>mxPluto TV Cine Comedia</display-name>
+    <display-name>Pluto TV Cine Comedia_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcddf1ed95e740009fef7ab">
-    <display-name>mxPluto TV Cine Terror</display-name>
+    <display-name>Pluto TV Cine Terror_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcddfbdb7cf0e0009ae09ea">
-    <display-name>mxPluto TV Viajes</display-name>
+    <display-name>Pluto TV Viajes_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcddfcb229eff00091b6bdf">
-    <display-name>mxPluto TV Cine Drama</display-name>
+    <display-name>Pluto TV Cine Drama_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde0657444a40009cd2422">
-    <display-name>mxPluto TV Cocina</display-name>
+    <display-name>Pluto TV Cocina_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde07af1c85b0009b18651">
-    <display-name>mxPluto TV Deportes</display-name>
+    <display-name>Pluto TV Deportes_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde0cc2efd2700090b7ff4">
-    <display-name>mxPluto TV Novelas</display-name>
+    <display-name>Pluto TV Novelas_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde1317578340009b751d0">
-    <display-name>mxPluto TV Series</display-name>
+    <display-name>Pluto TV Series_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde17bf6591d0009839e02">
-    <display-name>mxPluto TV Anime</display-name>
+    <display-name>Pluto TV Anime_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde197f6591d0009839e04">
-    <display-name>mxPluto TV Reality</display-name>
+    <display-name>Pluto TV Reality_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde27ffae9520009c0c75a">
-    <display-name>mxPluto TV Investiga</display-name>
+    <display-name>Pluto TV Investiga_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde2ac4bc6c500094ab45b">
-    <display-name>mxPluto TV Junior</display-name>
+    <display-name>Pluto TV Junior_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde2f53449c50009b2b4dc">
-    <display-name>mxPluto TV Misterios</display-name>
+    <display-name>Pluto TV Misterios_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dcde437229eff00091b6c30">
-    <display-name>mxPluto TV Cine Estelar</display-name>
+    <display-name>Pluto TV Cine Estelar_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd6ab8056beb000091fc6b6">
-    <display-name>mxPluto TV Hogar</display-name>
+    <display-name>Pluto TV Hogar_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd6d935d000120009bc1132">
-    <display-name>mxPluto TV  Competencias</display-name>
+    <display-name>Pluto TV  Competencias_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd6dae8ce788b0009eaf77b">
-    <display-name>mxPluto TV Kids</display-name>
+    <display-name>Pluto TV Kids_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd6dc7480e3550009133d4a">
-    <display-name>mxPluto TV Velocidad</display-name>
+    <display-name>Pluto TV Velocidad_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd6ddb30a1d8a000908ed4c">
-    <display-name>mxPluto TV Cine Familia</display-name>
+    <display-name>Pluto TV Cine Familia_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd6de52b9914200091f047a">
-    <display-name>mxPluto TV Teen</display-name>
+    <display-name>Pluto TV Teen_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd7ea2aeab5230009986735">
-    <display-name>mxPluto TV Cine Romance</display-name>
+    <display-name>Pluto TV Cine Romance_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd834c66fe2ca0009303b8d">
-    <display-name>mxPluto TV Animales</display-name>
+    <display-name>Pluto TV Animales_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd8364ea1d6780009929902">
-    <display-name>mxPluto TV Ciencia</display-name>
+    <display-name>Pluto TV Ciencia_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd837642c6e9300098ad484">
-    <display-name>mxPluto TV Series Latinas</display-name>
+    <display-name>Pluto TV Series Latinas_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5dd85eac039bba0009e86d1d">
-    <display-name>mxPluto TV Naturaleza</display-name>
+    <display-name>Pluto TV Naturaleza_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ddc266f80e3550009136843">
-    <display-name>mxPluto TV Aventura</display-name>
+    <display-name>Pluto TV Aventura_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ddc4e8bcbb9010009b4e84f">
-    <display-name>mxPluto TV Cine Suspenso</display-name>
+    <display-name>Pluto TV Cine Suspenso_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ddd7c348520b40009c347e2">
-    <display-name>mxNick Clásico</display-name>
+    <display-name>Nick Clásico_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ddd7cb2cbb9010009b4fe32">
-    <display-name>mxNick Jr. Club</display-name>
+    <display-name>Nick Jr. Club_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5de5758e1a30dc00094fcd6c">
-    <display-name>mxPluto TV Historia</display-name>
+    <display-name>Pluto TV Historia_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5de58ef515635d00091f605d">
-    <display-name>mxDegrassi</display-name>
+    <display-name>Degrassi_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5de802659167b10009e7deba">
-    <display-name>mxPluto TV Series Retro</display-name>
+    <display-name>Pluto TV Series Retro_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5de91b7ea86ee60009d89e75">
-    <display-name>mxMTV Classic</display-name>
+    <display-name>MTV Classic_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5de91cf02fc07c0009910465">
-    <display-name>mxTelefe Hits</display-name>
+    <display-name>Telefe Hits_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5defde6d6c07b50009cf0757">
-    <display-name>mxPluto TV  Nuestro Cine</display-name>
+    <display-name>Pluto TV  Nuestro Cine_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5df265697ec3510009df1ef0">
-    <display-name>mxPluto TV Vida Real</display-name>
+    <display-name>Pluto TV Vida Real_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5df41355939756000921d15b">
-    <display-name>mxLatin Angels</display-name>
+    <display-name>Latin Angels_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e3ddbd27091820009f86dd9">
-    <display-name>mxMasterChef</display-name>
+    <display-name>MasterChef_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e3ddd1a3ef73b00091d5779">
-    <display-name>mxFútbol Para Fans</display-name>
+    <display-name>Fútbol Para Fans_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e46e64dc73db400094b5f0b">
-    <display-name>mxMinuto Para Ganar</display-name>
+    <display-name>Minuto Para Ganar_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e67d41b93312100076f3fca">
-    <display-name>mxLos archivos del FBI</display-name>
+    <display-name>Los archivos del FBI_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e67e20c93312100076f3ffe">
-    <display-name>mxBabar</display-name>
+    <display-name>Babar_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e6a4d875d7ccf0007cc2cf1">
-    <display-name>mxPluto TV Animé Acción</display-name>
+    <display-name>Pluto TV Animé Acción_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e793a7cfbdf780007f7eb75">
-    <display-name>mxGuía de canales</display-name>
+    <display-name>Guía de canales_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e8397936791b30007ebb5a7">
-    <display-name>mxPluto TV Humor</display-name>
+    <display-name>Pluto TV Humor_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e972a21ad709d00074195ba">
-    <display-name>mxEstrellas de Acción</display-name>
+    <display-name>Estrellas de Acción_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e98a911c881310007d7aae2">
-    <display-name>mxMTV Ridiculousness</display-name>
+    <display-name>MTV Ridiculousness_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5e98b0447665f200078caded">
-    <display-name>mxPluto TV Peleas</display-name>
+    <display-name>Pluto TV Peleas_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ea71d48af1d0b0007d837f4">
-    <display-name>mxThe New Detectives</display-name>
+    <display-name>The New Detectives_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ea7215005d66d0007e8128a">
-    <display-name>mxRugrats Crecidos</display-name>
+    <display-name>Rugrats Crecidos_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ebac49ce4dc8b00078b23bc">
-    <display-name>mxBabyfirst</display-name>
+    <display-name>Babyfirst_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ebac65911406400078b8993">
-    <display-name>mxPeople are Awesome</display-name>
+    <display-name>People are Awesome_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ebacbcae43a6d000787b88e">
-    <display-name>mxThe Pet Collective</display-name>
+    <display-name>The Pet Collective_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ebaccf1734aaf0007142c86">
-    <display-name>mxFailArmy</display-name>
+    <display-name>FailArmy_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ed6828192e8b3000743ef61">
-    <display-name>mxWipe Out</display-name>
+    <display-name>Wipe Out_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ee8d84bfb286e0007285aad">
-    <display-name>mxPluto TV Fashionstream</display-name>
+    <display-name>Pluto TV Fashionstream_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ee92e72fb286e0007285fec">
-    <display-name>mxNaruto</display-name>
+    <display-name>Naruto_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5efb8c19b2678b000780d032">
-    <display-name>mxArchivos Forenses</display-name>
+    <display-name>Archivos Forenses_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5efb8ce2e426140007c78fd1">
-    <display-name>mxMTV Animaciones</display-name>
+    <display-name>MTV Animaciones_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f230e416b68ff00075b0139">
-    <display-name>mxMisterios Medicos</display-name>
+    <display-name>Misterios Medicos_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f23102d5e239d00074b092a">
-    <display-name>mxEmpeños a lo bestia</display-name>
+    <display-name>Empeños a lo bestia_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f2817d3d7573a00080f9175">
-    <display-name>mxPluto TV Sci-Fi</display-name>
+    <display-name>Pluto TV Sci-Fi_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f29ada4bdaebd000708d49d">
-    <display-name>mxBarney</display-name>
+    <display-name>Barney_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f2acdab16f5b3000721ae2c">
-    <display-name>mxOh My Pet</display-name>
+    <display-name>Oh My Pet_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f4d1697f10a0e000798ed8d">
-    <display-name>mxAll Elite Wrestling</display-name>
+    <display-name>All Elite Wrestling_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f4d3696d938c900072679fd">
-    <display-name>mxHistorias de Ultratumba</display-name>
+    <display-name>Historias de Ultratumba_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f4d3d06fb60d8000781fce8">
-    <display-name>mxEl Reino Infantil</display-name>
+    <display-name>El Reino Infantil_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f4fed840a2764000720d966">
-    <display-name>mxPaisajes por Stingray</display-name>
+    <display-name>Paisajes por Stingray_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f523aa5523ae000074745ec">
-    <display-name>mxTelefe Noticias</display-name>
+    <display-name>Telefe Noticias_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f610042272f68000867685b">
-    <display-name>mxMisterios sin Resolver</display-name>
+    <display-name>Misterios sin Resolver_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f85ca40eda1b10007b967cd">
-    <display-name>mxConciertos por Stingray</display-name>
+    <display-name>Conciertos por Stingray_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f85cf621d6d2200079f1de0">
-    <display-name>mxKaraoke por Stingray</display-name>
+    <display-name>Karaoke por Stingray_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f998c1fc54853000797bacd">
-    <display-name>mxTastemade</display-name>
+    <display-name>Tastemade_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f9992c685a2a80007fa414a">
-    <display-name>mxDog el cazarrecompensas</display-name>
+    <display-name>Dog el cazarrecompensas_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f9996533c9de3000759ccb5">
-    <display-name>mxLas Pistas de Blue</display-name>
+    <display-name>Las Pistas de Blue_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f99a772c54853000797bf18">
-    <display-name>mxLucha Libre AAA</display-name>
+    <display-name>Lucha Libre AAA_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5f9afb01816137000737f799">
-    <display-name>mxNosey Escándalos</display-name>
+    <display-name>Nosey Escándalos_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5fab088b3279760007d4e4fd">
-    <display-name>mxMTV Pluto TV</display-name>
+    <display-name>MTV Pluto TV_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5fab09a8749b1a00077d35d2">
-    <display-name>mxNick Teen</display-name>
+    <display-name>Nick Teen_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5fb554d87a0c480007c8dada">
-    <display-name>mxESR 24/7</display-name>
+    <display-name>ESR 24/7_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5fcea359e533cb0007215c71">
-    <display-name>mxPluto TV Filmstream</display-name>
+    <display-name>Pluto TV Filmstream_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5fcea93ffcf94500071c4b2f">
-    <display-name>mxKenan y Kel</display-name>
+    <display-name>Kenan y Kel_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5fceaab478f2af00080ff51f">
-    <display-name>mxYu-Gi-Oh</display-name>
+    <display-name>Yu-Gi-Oh_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ff3934600d4c7000733ff49">
-    <display-name>mxPluto TV E-Sports</display-name>
+    <display-name>Pluto TV E-Sports_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ff4b9ccf938f8000779eb99">
-    <display-name>mxOne Piece</display-name>
+    <display-name>One Piece_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ff608e60e2996000768c366">
-    <display-name>mxTokusato</display-name>
+    <display-name>Tokusato_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ffcc21a432945000762d06b">
-    <display-name>mxComedy Central Pluto TV</display-name>
+    <display-name>Comedy Central Pluto TV_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ffcc38adbc38100073511f2">
-    <display-name>mxLoupe</display-name>
+    <display-name>Loupe_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ffcc38adbc38100073511f2/colorLogoPNG.png"/>
   </channel>
   <channel id="mx5ffe17e3d765170007c3a4fe">
-    <display-name>mxPluto TV España</display-name>
+    <display-name>Pluto TV España_mx</display-name>
     <icon src="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png"/>
   </channel>
   <channel id="mx600728952b1776000776526d">
-    <display-name>mxParamount+ Presenta</display-name>
+    <display-name>Paramount+ Presenta_mx</display-name>
     <icon src="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png"/>
   </channel>
   <channel id="mx60142258a54aeb0007751c15">
-    <display-name>mxPluto TV Retro Cartoons</display-name>
+    <display-name>Pluto TV Retro Cartoons_mx</display-name>
     <icon src="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6047fabfce6e8e00070bcc9f">
-    <display-name>mxMTV Biggest Pop</display-name>
+    <display-name>MTV Biggest Pop_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6047fd723b5bd00007de7092">
-    <display-name>mxMTV Spankin' New</display-name>
+    <display-name>MTV Spankin' New_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png"/>
   </channel>
   <channel id="mx604bdf4e6d0abc0007ba77ad">
-    <display-name>mxSin Tetas No Hay Paraíso</display-name>
+    <display-name>Sin Tetas No Hay Paraíso_mx</display-name>
     <icon src="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6079bcbd9b10880007bf8e2d">
-    <display-name>mxRipley’s Believe it or Not</display-name>
+    <display-name>Ripley’s Believe it or Not_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6079bcbd9b10880007bf8e2d/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6079be62f9f8d6000783c8a4">
-    <display-name>mxPluto TV Anime Héroes</display-name>
+    <display-name>Pluto TV Anime Héroes_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png"/>
   </channel>
   <channel id="mx609059dc63be6e0007b4eca6">
-    <display-name>mxPluto TV Cine Clásico</display-name>
+    <display-name>Pluto TV Cine Clásico_mx</display-name>
     <icon src="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png"/>
   </channel>
   <channel id="mx609062295c2b8f0007199e7a">
-    <display-name>mxPluto TV Recetas</display-name>
+    <display-name>Pluto TV Recetas_mx</display-name>
     <icon src="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6095ad97351eb0000754c1e6">
-    <display-name>mxHells Kitchen</display-name>
+    <display-name>Hells Kitchen_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6099600015e88c0007ecda25">
-    <display-name>mxBoom</display-name>
+    <display-name>Boom_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png"/>
   </channel>
   <channel id="mx609ae5cd48d3200007b0a98e">
-    <display-name>mxComedy Central South Park</display-name>
+    <display-name>Comedy Central South Park_mx</display-name>
     <icon src="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png"/>
   </channel>
   <channel id="mx60e5ea9a9bb4200008376f76">
-    <display-name>mxMotorvision TV</display-name>
+    <display-name>Motorvision TV_mx</display-name>
     <icon src="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png"/>
   </channel>
   <channel id="mx61099f2b40d0640007fc5aa2">
-    <display-name>mxEl Encantador de Perros</display-name>
+    <display-name>El Encantador de Perros_mx</display-name>
     <icon src="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6109a9f5531b840007a4a187">
-    <display-name>mxCazador de Homicidas</display-name>
+    <display-name>Cazador de Homicidas_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6109ab25b84d6a0007504886">
-    <display-name>mxPluto TV Mi Obsesión Favorita</display-name>
+    <display-name>Pluto TV Mi Obsesión Favorita_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png"/>
   </channel>
   <channel id="mx612f8b455ed5810007170b5f">
-    <display-name>mxEl Mariachi</display-name>
+    <display-name>El Mariachi_mx</display-name>
     <icon src="https://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png"/>
   </channel>
   <channel id="mx6144d313b34fbf0007107714">
-    <display-name>mxFUEL TV</display-name>
+    <display-name>FUEL TV_mx</display-name>
     <icon src="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png"/>
   </channel>
   <channel id="mx615b9855c6b58b000724477f">
-    <display-name>mxIron Chef</display-name>
+    <display-name>Iron Chef_mx</display-name>
     <icon src="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png"/>
   </channel>
   <channel id="mx619d56d9fa3070000709e3f7">
-    <display-name>mxYounger</display-name>
+    <display-name>Younger_mx</display-name>
     <icon src="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png"/>
   </channel>
   <channel id="mx619d59b7cbef25000728221c">
-    <display-name>mxEuronews Español</display-name>
+    <display-name>Euronews Español_mx</display-name>
     <icon src="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png"/>
   </channel>
   <channel id="mx619d5e6a093e7c0007489211">
-    <display-name>mxBaby Shark TV</display-name>
+    <display-name>Baby Shark TV_mx</display-name>
     <icon src="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png"/>
   </channel>
   <channel id="mx61a52615cbef2500072876e2">
-    <display-name>mxMTV Shore</display-name>
+    <display-name>MTV Shore_mx</display-name>
     <icon src="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png"/>
   </channel>
   <channel id="mx61f159209fcc3800076ed4a1">
-    <display-name>mxRock Story</display-name>
+    <display-name>Rock Story_mx</display-name>
     <icon src="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png"/>
   </channel>
   <channel id="mx61f323397027f90007542bc3">
-    <display-name>mxSeñorita Pólvora</display-name>
+    <display-name>Señorita Pólvora_mx</display-name>
     <icon src="https://images.pluto.tv/channels/61f323397027f90007542bc3/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aa7aab66c76000790ee7e">
-    <display-name>esBig Time Rush</display-name>
+    <display-name>Big Time Rush_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aa82c150b2500077733d7">
-    <display-name>esPistas de Blue</display-name>
+    <display-name>Pistas de Blue_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aa89d42a0500007363ea3">
-    <display-name>esGo Diego Go!</display-name>
+    <display-name>Go Diego Go!_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aa9bcd8160700076d45d1">
-    <display-name>esPluto TV Junior</display-name>
+    <display-name>Pluto TV Junior_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aab1d29b39600073e243f">
-    <display-name>esPluto TV Kids</display-name>
+    <display-name>Pluto TV Kids_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aabee6f4a2c00076a322c">
-    <display-name>esPluto TV Animakids</display-name>
+    <display-name>Pluto TV Animakids_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aadf373bed3000794d1d7">
-    <display-name>esMTV Originals</display-name>
+    <display-name>MTV Originals_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aae8c65727d0007d15a17">
-    <display-name>esMTV Prank</display-name>
+    <display-name>MTV Prank_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aaefb96f755000733c11a">
-    <display-name>esMTV Brave</display-name>
+    <display-name>MTV Brave_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ab3c7778230000735cf41">
-    <display-name>esMTV Catfish TV Show</display-name>
+    <display-name>MTV Catfish TV Show_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ab9c6d8f1300007f54e30">
-    <display-name>esMTV Cribs</display-name>
+    <display-name>MTV Cribs_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1abce155a03d0007718834">
-    <display-name>esComedia made in Spain</display-name>
+    <display-name>Comedia made in Spain_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1abe3ffcd659000770d88d">
-    <display-name>esLa Chica Invisible</display-name>
+    <display-name>La Chica Invisible_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1abf097eb06300079b30f7">
-    <display-name>esThe Pet Collective</display-name>
+    <display-name>The Pet Collective_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1abf5fafb5ee0007d4d0ca">
-    <display-name>esFailArmy</display-name>
+    <display-name>FailArmy_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac118dd7e6000077e31af">
-    <display-name>esIGN</display-name>
+    <display-name>IGN_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac1780e94100007f94b3f">
-    <display-name>esPeople are Awesome</display-name>
+    <display-name>People are Awesome_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac1f1b66c76000790ef27">
-    <display-name>esPluto TV Cine Estelar</display-name>
+    <display-name>Pluto TV Cine Estelar_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac2591dd8880007bb7d6d">
-    <display-name>esPluto TV Cine Acción</display-name>
+    <display-name>Pluto TV Cine Acción_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac8099c49f600076579b2">
-    <display-name>esPluto TV Cine Comedia</display-name>
+    <display-name>Pluto TV Cine Comedia_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac8588734f8000823b7de">
-    <display-name>esPluto TV Action Sports</display-name>
+    <display-name>Pluto TV Action Sports_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac8a87cd38d000745d7cf">
-    <display-name>esPluto TV Thrillers</display-name>
+    <display-name>Pluto TV Thrillers_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac8f49205650007bc15f1">
-    <display-name>esPluto TV Series</display-name>
+    <display-name>Pluto TV Series_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac947dcd00d0007937c08">
-    <display-name>esPluto TV Cine Drama</display-name>
+    <display-name>Pluto TV Cine Drama_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1ac9a2d3611d0007a844bb">
-    <display-name>esPluto TV Cine Romántico</display-name>
+    <display-name>Pluto TV Cine Romántico_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aca0b4e448e00075e7c5e">
-    <display-name>esBob Esponja</display-name>
+    <display-name>Bob Esponja_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1aca8310a30e00074fab92">
-    <display-name>esAsesinatos de Midsomer</display-name>
+    <display-name>Asesinatos de Midsomer_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acb4eebe0f0000767b40f">
-    <display-name>esLas reglas del juego</display-name>
+    <display-name>Las reglas del juego_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acba0d1f6340007db8843">
-    <display-name>esLos nuevos detectives</display-name>
+    <display-name>Los nuevos detectives_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acbed25948a0007ffbe65">
-    <display-name>esLos archivos del FBI</display-name>
+    <display-name>Los archivos del FBI_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acc3e061597000768d4ea">
-    <display-name>esAndrómeda</display-name>
+    <display-name>Andrómeda_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acc91cc9e1b000711ff21">
-    <display-name>esMutante X</display-name>
+    <display-name>Mutante X_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acce7f17797000718f9be">
-    <display-name>esAna y los 7</display-name>
+    <display-name>Ana y los 7_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acd36779de70007a680d1">
-    <display-name>esCurro Jiménez</display-name>
+    <display-name>Curro Jiménez_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acdaa8ba90f0007d5e760">
-    <display-name>esPluto TV Cocina</display-name>
+    <display-name>Pluto TV Cocina_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f1acdfda84c970007e750b5">
-    <display-name>esPluto TV Mundo Real</display-name>
+    <display-name>Pluto TV Mundo Real_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acdfda84c970007e750b5/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f28009b150b2500077766b8">
-    <display-name>esVaya semanita</display-name>
+    <display-name>Vaya semanita_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f280149cec6be00072ab1fc">
-    <display-name>esEl Conquistador del Fin</display-name>
+    <display-name>El Conquistador del Fin_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f6a38eaa5b68b0007a00e7a">
-    <display-name>esPluto TV Sci-Fi</display-name>
+    <display-name>Pluto TV Sci-Fi_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f984c1dc54853000797a5e8">
-    <display-name>esCine Latino</display-name>
+    <display-name>Cine Latino_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f984f4a09e92d0007d74647">
-    <display-name>esArchivos Forenses</display-name>
+    <display-name>Archivos Forenses_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f9853138d19af0007104a8d">
-    <display-name>esPluto TV Series Comedia</display-name>
+    <display-name>Pluto TV Series Comedia_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png"/>
   </channel>
   <channel id="es5f98537a5a4341000733aefe">
-    <display-name>esMTV Embarazada a los 16</display-name>
+    <display-name>MTV Embarazada a los 16_es</display-name>
     <icon src="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png"/>
   </channel>
   <channel id="es600169ec77e6f70008fa9cf0">
-    <display-name>esMTV Dating</display-name>
+    <display-name>MTV Dating_es</display-name>
     <icon src="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png"/>
   </channel>
   <channel id="es60016a60a8e3520008e0d331">
-    <display-name>esPluto TV Teen Stars</display-name>
+    <display-name>Pluto TV Teen Stars_es</display-name>
     <icon src="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png"/>
   </channel>
   <channel id="es600ad4ad6537680007be2ea6">
-    <display-name>esClubbing TV</display-name>
+    <display-name>Clubbing TV_es</display-name>
     <icon src="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png"/>
   </channel>
   <channel id="es600ae52e34a3700007000534">
-    <display-name>esSin tetas no hay paraíso</display-name>
+    <display-name>Sin tetas no hay paraíso_es</display-name>
     <icon src="https://images.pluto.tv/channels/600ae52e34a3700007000534/colorLogoPNG.png"/>
   </channel>
   <channel id="es600ae59c341b1d0007d1c7cb">
-    <display-name>esTierra de lobos</display-name>
+    <display-name>Tierra de lobos_es</display-name>
     <icon src="https://images.pluto.tv/channels/600ae59c341b1d0007d1c7cb/colorLogoPNG.png"/>
   </channel>
   <channel id="es600ae6a78d801e0007117d21">
-    <display-name>esPluto TV Animales</display-name>
+    <display-name>Pluto TV Animales_es</display-name>
     <icon src="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png"/>
   </channel>
   <channel id="es600ae79fa46e17000794e84c">
-    <display-name>esMTV Love Music</display-name>
+    <display-name>MTV Love Music_es</display-name>
     <icon src="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png"/>
   </channel>
   <channel id="es60218baa464ef900073168c1">
-    <display-name>esEmpeños a lo bestia</display-name>
+    <display-name>Empeños a lo bestia_es</display-name>
     <icon src="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png"/>
   </channel>
   <channel id="es60218d81873f0e0007cff614">
-    <display-name>esRICH</display-name>
+    <display-name>RICH_es</display-name>
     <icon src="https://images.pluto.tv/channels/60218d81873f0e0007cff614/colorLogoPNG.png"/>
   </channel>
   <channel id="es602ba1cfb386d30007aecbbe">
-    <display-name>esPluto TV Investiga</display-name>
+    <display-name>Pluto TV Investiga_es</display-name>
     <icon src="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png"/>
   </channel>
   <channel id="es602ba401e12b50000812e0eb">
-    <display-name>esLoupe</display-name>
+    <display-name>Loupe_es</display-name>
     <icon src="https://images.pluto.tv/channels/602ba401e12b50000812e0eb/colorLogoPNG.png"/>
   </channel>
   <channel id="es604f8125c6669b00077f7699">
-    <display-name>esWipeout</display-name>
+    <display-name>Wipeout_es</display-name>
     <icon src="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png"/>
   </channel>
   <channel id="es604f81a49ef73300070e554f">
-    <display-name>esMTV Teen Mom</display-name>
+    <display-name>MTV Teen Mom_es</display-name>
     <icon src="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png"/>
   </channel>
   <channel id="es6054ab20a365c70007e4fd44">
-    <display-name>esGarfield</display-name>
+    <display-name>Garfield_es</display-name>
     <icon src="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png"/>
   </channel>
   <channel id="es6054acc871ec430007f54c7d">
-    <display-name>esAnime Clásico</display-name>
+    <display-name>Anime Clásico_es</display-name>
     <icon src="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png"/>
   </channel>
   <channel id="es6076c74daa05ac0007d0eb07">
-    <display-name>esTuning</display-name>
+    <display-name>Tuning_es</display-name>
     <icon src="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png"/>
   </channel>
   <channel id="es6076cd1df8576d0007c82193">
-    <display-name>esVH1 Classics</display-name>
+    <display-name>VH1 Classics_es</display-name>
     <icon src="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png"/>
   </channel>
   <channel id="es6080345ebb49b90007ce0baf">
-    <display-name>esPluto TV Motor</display-name>
+    <display-name>Pluto TV Motor_es</display-name>
     <icon src="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png"/>
   </channel>
   <channel id="es608035b8d8705f0007260287">
-    <display-name>esPluto TV Anime</display-name>
+    <display-name>Pluto TV Anime_es</display-name>
     <icon src="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png"/>
   </channel>
   <channel id="es6080381ab7c9ea00074ec64c">
-    <display-name>esWorld Poker Tour</display-name>
+    <display-name>World Poker Tour_es</display-name>
     <icon src="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png"/>
   </channel>
   <channel id="es6086d3f420fc8500075f8dbf">
-    <display-name>esRuntime</display-name>
+    <display-name>Runtime_es</display-name>
     <icon src="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png"/>
   </channel>
   <channel id="es6087c6c5db549e0007eead39">
-    <display-name>esMTV Good Vibes</display-name>
+    <display-name>MTV Good Vibes_es</display-name>
     <icon src="https://images.pluto.tv/channels/6087c6c5db549e0007eead39/colorLogoPNG.png"/>
   </channel>
   <channel id="es609501978c069d00074e0dd2">
-    <display-name>esPlaneta Junior TV</display-name>
+    <display-name>Planeta Junior TV_es</display-name>
     <icon src="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png"/>
   </channel>
   <channel id="es609e7e423e9173000706a681">
-    <display-name>esPluto TV Toons Clásico</display-name>
+    <display-name>Pluto TV Toons Clásico_es</display-name>
     <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png"/>
   </channel>
   <channel id="es60a26a056d55b30007918d5a">
-    <display-name>esMTV Music Made in Spain</display-name>
+    <display-name>MTV Music Made in Spain_es</display-name>
     <icon src="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png"/>
   </channel>
   <channel id="es60a286daf888610007669801">
-    <display-name>esJust for Laughs</display-name>
+    <display-name>Just for Laughs_es</display-name>
     <icon src="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png"/>
   </channel>
   <channel id="es60b4c06717da110007ee1af6">
-    <display-name>esPluto TV Telenovelas</display-name>
+    <display-name>Pluto TV Telenovelas_es</display-name>
     <icon src="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png"/>
   </channel>
   <channel id="es60c343007bcabe0007242aa6">
-    <display-name>esEl Comisario</display-name>
+    <display-name>El Comisario_es</display-name>
     <icon src="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png"/>
   </channel>
   <channel id="es60c343ad476ec00007c2ec1a">
-    <display-name>esPluto TV Viajes</display-name>
+    <display-name>Pluto TV Viajes_es</display-name>
     <icon src="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png"/>
   </channel>
   <channel id="es60c882460ea4a200076a2a37">
-    <display-name>esFashion TV</display-name>
+    <display-name>Fashion TV_es</display-name>
     <icon src="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png"/>
   </channel>
   <channel id="es60c8a24e17da110007eed4fd">
-    <display-name>esRakuten Viki</display-name>
+    <display-name>Rakuten Viki_es</display-name>
     <icon src="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png"/>
   </channel>
   <channel id="es60c8b3ddaaf9d4000780066f">
-    <display-name>esPluto TV K-Pop</display-name>
+    <display-name>Pluto TV K-Pop_es</display-name>
     <icon src="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png"/>
   </channel>
   <channel id="es60cc807324d60a0007708dc8">
-    <display-name>esPluto TV Indies</display-name>
+    <display-name>Pluto TV Indies_es</display-name>
     <icon src="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png"/>
   </channel>
   <channel id="es60d356a534f63f000850cdd7">
-    <display-name>esTop Gear</display-name>
+    <display-name>Top Gear_es</display-name>
     <icon src="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png"/>
   </channel>
   <channel id="es60d3574e97f10800078455de">
-    <display-name>esDoctor Who</display-name>
+    <display-name>Doctor Who_es</display-name>
     <icon src="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png"/>
   </channel>
   <channel id="es60d3583ef310610007fb02b1">
-    <display-name>esEuronews</display-name>
+    <display-name>Euronews_es</display-name>
     <icon src="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png"/>
   </channel>
   <channel id="es60dafb9a0df1ba000758d37b">
-    <display-name>esBBC Drama</display-name>
+    <display-name>BBC Drama_es</display-name>
     <icon src="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png"/>
   </channel>
   <channel id="es60db37b8b919720007c07fa4">
-    <display-name>esQwest Jazz&amp;Beyond</display-name>
+    <display-name>Qwest Jazz&amp;Beyond_es</display-name>
     <icon src="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png"/>
   </channel>
   <channel id="es60dd6b1da79e4d0007309455">
-    <display-name>esLove Nature</display-name>
+    <display-name>Love Nature_es</display-name>
     <icon src="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png"/>
   </channel>
   <channel id="es60e45687313c5f0007bc8e94">
-    <display-name>esEl encantador de perros</display-name>
+    <display-name>El encantador de perros_es</display-name>
     <icon src="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png"/>
   </channel>
   <channel id="es60e4573c9f963e00077ecf25">
-    <display-name>esMi Extraña Obsesión</display-name>
+    <display-name>Mi Extraña Obsesión_es</display-name>
     <icon src="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png"/>
   </channel>
   <channel id="es60ed5fb9c4716d0007d180c5">
-    <display-name>esCazador de Homicidas</display-name>
+    <display-name>Cazador de Homicidas_es</display-name>
     <icon src="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png"/>
   </channel>
   <channel id="es60f1673d0e4370000784dc61">
-    <display-name>esFUEL TV</display-name>
+    <display-name>FUEL TV_es</display-name>
     <icon src="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png"/>
   </channel>
   <channel id="es60f16986acb81b0007c384ac">
-    <display-name>esQello Concerts</display-name>
+    <display-name>Qello Concerts_es</display-name>
     <icon src="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png"/>
   </channel>
   <channel id="es610c09219fc0430007a3fce6">
-    <display-name>esRugrats</display-name>
+    <display-name>Rugrats_es</display-name>
     <icon src="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png"/>
   </channel>
   <channel id="es611b87946b7f420007c22361">
-    <display-name>esMTV Tattoo a dos</display-name>
+    <display-name>MTV Tattoo a dos_es</display-name>
     <icon src="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png"/>
   </channel>
   <channel id="es612ce5214bb5790007ad3016">
-    <display-name>esPluto TV Paranormal</display-name>
+    <display-name>Pluto TV Paranormal_es</display-name>
     <icon src="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png"/>
   </channel>
   <channel id="es6130d6f3f3f7bb0007dbd092">
-    <display-name>esMTV En Vivo</display-name>
+    <display-name>MTV En Vivo_es</display-name>
     <icon src="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png"/>
   </channel>
   <channel id="es6130d8dc943001000708548d">
-    <display-name>esMTV Realities</display-name>
+    <display-name>MTV Realities_es</display-name>
     <icon src="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png"/>
   </channel>
   <channel id="es61373bb45168fe000773eecd">
-    <display-name>esPluto TV Cine Clásico</display-name>
+    <display-name>Pluto TV Cine Clásico_es</display-name>
     <icon src="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png"/>
   </channel>
   <channel id="es61373c865ed5810007173fbc">
-    <display-name>esAvatar</display-name>
+    <display-name>Avatar_es</display-name>
     <icon src="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png"/>
   </channel>
   <channel id="es61373f1a12dd9f00077dcd6f">
-    <display-name>esLas Tortugas Ninja</display-name>
+    <display-name>Las Tortugas Ninja_es</display-name>
     <icon src="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png"/>
   </channel>
   <channel id="es6140a074a99e79000738162a">
-    <display-name>esPluto TV Fitness</display-name>
+    <display-name>Pluto TV Fitness_es</display-name>
     <icon src="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png"/>
   </channel>
   <channel id="es6181404ef48321000797bc41">
-    <display-name>esiCarly</display-name>
+    <display-name>iCarly_es</display-name>
     <icon src="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png"/>
   </channel>
   <channel id="es61922be835f3910007fc58f6">
-    <display-name>esEn el punto de mira</display-name>
+    <display-name>En el punto de mira_es</display-name>
     <icon src="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png"/>
   </channel>
   <channel id="es6193963c5a960200074ce816">
-    <display-name>esConstance Meyer: Jueza en prácticas</display-name>
+    <display-name>Constance Meyer: Jueza en prácticas_es</display-name>
     <icon src="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png"/>
   </channel>
   <channel id="es61b87bc867b03a0007864e0d">
-    <display-name>esPluto TV Reality</display-name>
+    <display-name>Pluto TV Reality_es</display-name>
     <icon src="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG.png"/>
   </channel>
   <channel id="es61cd78920b90cb0007e28231">
-    <display-name>esPluto TV Documentales</display-name>
+    <display-name>Pluto TV Documentales_es</display-name>
     <icon src="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png"/>
   </channel>
   <programme channel="es5f1aa7aab66c76000790ee7e" start="20220223114100 +0000" stop="20220223120700 +0000">
