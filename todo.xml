@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM ><tv generator-info-name="www.matthuisman.nz">
   <channel id="5f1aa7aab66c76000790ee7e">
     <display-name>Big Time Rush</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png"/>
@@ -9353,14 +9353,14 @@
   </programme>
   <programme channel="600ae6a78d801e0007117d21" start="20220224205800 +0000" stop="20220224215700 +0000">
     <title>Frank de la jungla: Osos</title>
-    <desc>Tailandia es uno de los pocos lugares del mundo donde vive un curioso y extraño ejemplar de oso: el Oso del Sol. Es más pequeño que el Oso Pardo y se caracteriza por tener una lengua extremadamente larga que utiliza para coger la miel de los panales.</desc>
+    <desc>Tailandia es uno de los pocos lugares del mundo donde vive un curioso y extraño ejemplar de oso: el Oso del Sol. Es más pequeño que el Oso Pardo y se caracteriza por tener una lengua extremadamente larga que utiliza para coger la miel de los panales.</desc>
     <sub-title>Osos</sub-title>
     <category>Action &amp; Adventure</category>
   </programme>
   <programme channel="600ae6a78d801e0007117d21" start="20220224215700 +0000" stop="20220224225500 +0000">
-    <title>Frank de la jungla: Vida de Frank en Bangkok - Parte 2</title>
+    <title>Frank de la jungla: Vida de Frank en Bangkok - Parte 2</title>
     <desc>Frank se lleva a sus hijos de “pellas” escolares y se acaba enfrentando a una peligrosa cobra escupidora en la mansión de sus vecinos en Bangkok. En esta segunda parte de “El mundo de Frank”, somos testigos de la vida diaria de Frank Cuesta en Bangkok.</desc>
-    <sub-title>Vida de Frank en Bangkok - Parte 2</sub-title>
+    <sub-title>Vida de Frank en Bangkok - Parte 2</sub-title>
     <category>Action &amp; Adventure</category>
   </programme>
   <programme channel="600ae6a78d801e0007117d21" start="20220224225500 +0000" stop="20220224234900 +0000">
@@ -10425,7 +10425,7 @@
   </programme>
   <programme channel="609501978c069d00074e0dd2" start="20220224183200 +0000" stop="20220224185700 +0000">
     <title>Egyxos: La sombra de Exaton</title>
-    <desc>Leo pide ayuda a Kefer y a sus guerreros para sobreponerse al chantaje al que Exaton lo está sometiendo. Quiere restablecer el orden en la ciudad y retomar su vida social.</desc>
+    <desc>Leo pide ayuda a Kefer y a sus guerreros para sobreponerse al chantaje al que Exaton lo está sometiendo. Quiere restablecer el orden en la ciudad y retomar su vida social.</desc>
     <sub-title>La sombra de Exaton</sub-title>
     <category>Children &amp; Family</category>
   </programme>
