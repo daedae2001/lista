@@ -24,7 +24,7 @@ for x in mylist:
         otras = otras.replace('<channel id="', '<channel id="' +
                               x[2]).replace('<programme channel="', '<programme channel="'+x[2]).replace("</display-name>", "_"+x[2]+"</display-name>")
         p1 = otras[0: otras.find('<programme channel="')]
-        p2 = otras[otras.find('<programme channel="')+10:len(otras)]
+        p2 = otras[otras.find('<programme channel="'):len(otras)]
         primera = primera[otras.find('<channel id="'):len(otras)]
         primera = (p1 + primera.replace("</tv>", "") + p2)
     i = i+1
