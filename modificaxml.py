@@ -16,13 +16,13 @@ for x in mylist:
         primera = f.read()
         f.close()
         primera = primera.replace('<channel id="', '<channel id="' +
-                                  x[2]).replace('<programme channel="', '<programme channel="'+x[2])  # .replace("</display-name>", "_"+x[2]+"</display-name>")
+                                  x[2]).replace('<programme channel="', '<programme channel="'+x[2]).replace("</display-name>", "_"+x[2]+"</display-name>")
     else:
         otras = f.read()
         f.close()
 
         otras = otras.replace('<channel id="', '<channel id="' +
-                              x[2]).replace('<programme channel="', '<programme channel="'+x[2])  # .replace("</display-name>", "_"+x[2]+"</display-name>")
+                              x[2]).replace('<programme channel="', '<programme channel="'+x[2]).replace("</display-name>", "_"+x[2]+"</display-name>")
         p1 = otras[0: otras.find('<programme channel="')]
         p2 = otras[otras.find('<programme channel="')+10:len(otras)]
         primera = primera[otras.find('<channel id="'):len(otras)]
