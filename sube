@@ -8,9 +8,11 @@
 
 # Modo de uso: copia o mueve este script a /usr/bin o /usr/local/bin y desde el directorio donde se encuentre la copia de un repo git, ejecútalo de esta manera:
 # uptogit <ficheros>
-
+echo 'git config user.email "daedae2001@gmail.com"'
 git config user.email "daedae2001@gmail.com"
+echo 'git config user.name "daedae2001"'
 git config user.name "daedae2001"
+echo 'git push'
 git push
 # Comprobamos si el directorio en el que estamos es de un repositorio git
 if [ ! -d '.git' ]; then
