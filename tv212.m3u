@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  ,  tvg-id="CINE"  , tvg-chno=5  , tvg-language="Español"  , tvg-logo=""  , Group-title="01_Películas" , tvg-name="CINE" , CINE_
+#EXTINF:-1 , tvg-id="CINE" , tvg-chno=5 ,tvg-language="Español" ,tvg-logo="" ,Group-title="01_Películas" ,tvg-name="CINE",CINE
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 , tvg-id=1 , tvg-name="CINE.AR" , tvg-language="Español" , tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg" , group-title="1_CINE" , CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
