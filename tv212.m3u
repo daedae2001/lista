@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  , channel-id="CINE"  , tvg-id="CINE"  , tvg-chno=5  , tvg-language="Español"  , tvg-logo=""  , Group-title="01_Películas" , tvg-name="CINE" , CINE_
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 , tvg-id=1 , tvg-name="CINE.AR" , tvg-language="Español" , tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg" , group-title="1_CINE" , CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 , tvg-id=2 , tvg-name="TELECLÁSICOS" , tvg-language="Español" , tvg-logo="https://static.wixstatic.com/media/67cfee_49425450898040a0b4639d426e93bcba~mv2.png/v1/fill/w_326,h_326,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20TELE%20CLASICOS%20COLORES%20CANAL%20PNG.webp" , group-title="1_CINE" , TELECLÁSICOS
