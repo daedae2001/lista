@@ -72,35 +72,35 @@ https://tvdatta.com:3484/stream/play.m3u8
 #EXTINF:-1 channel-id="TopCine" tvg-id="TopCine" tvg-language="Español" tvg-logo="" group-title="01_Películas" ,TopCine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 channel-id="CINEMAX" tvg-id="CINEMAX" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" group-title="02_PREMIUM" ,CINEMAX
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
 #EXTINF:-1 channel-id="HISTORY" tvg-id="HISTORY" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png" group-title="02_PREMIUM" ,HISTORY
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
 #EXTINF:-1 channel-id="NATGEO" tvg-id="NATGEO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-eM3xVJYrV4o/WotiUvTi2SI/AAAAAAAAAac/52N_07Qth3cGWECeeidfDBWIQAnXJUFIACLcBGAs/s1600/natgeo.png" group-title="02_PREMIUM" ,NATGEO
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99rrr
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99rrr
 #EXTINF:-1 channel-id="simpsons" tvg-id="simpsons" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Simpsons_logo_-_Yellow.svg/800px-The_Simpsons_logo_-_Yellow.svg.png" group-title="02_PREMIUM" ,simpsons
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/los_simpson_nuevos
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/los_simpson_nuevos
 #EXTINF:-1 channel-id="A24" tvg-id="A24" tvg-language="Español" tvg-logo="https://n9.cl/em9cw" group-title="03_ARGENTINA" ,A24
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Sh54vNR2QSo
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Sh54vNR2QSo
 #EXTINF:-1 channel-id="AméricaTV" tvg-id="AméricaTV" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/571px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="03_ARGENTINA" ,AméricaTV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 channel-id="AméricatvHD" tvg-id="AméricatvHD" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/571px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="03_ARGENTINA" ,AméricatvHD
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 channel-id="C5N" tvg-id="C5N" tvg-language="Español" tvg-logo="https://n9.cl/lqbhd" group-title="03_ARGENTINA" ,C5N
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jN0TnHxhliA
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jN0TnHxhliA
 #EXTINF:-1 channel-id="CANAL10" tvg-id="CANAL10" tvg-language="Español" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="03_ARGENTINA" ,CANAL10
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1 channel-id="CANAL26" tvg-id="CANAL26" tvg-language="Español" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png" group-title="03_ARGENTINA" ,CANAL26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 channel-id="EL12TV" tvg-id="EL12TV" tvg-language="español" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUFI-aAzN3zAsFwS79WwJeAgmd7A4POK52QDcZ3g=s88-c-k-c0x00ffffff-no-rj" group-title="03_ARGENTINA" ,EL12TV
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
 #EXTINF:-1 channel-id="ELTRECE" tvg-id="ELTRECE" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="03_ARGENTINA" ,ELTRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 channel-id="TELEFERO" tvg-id="TELEFERO" tvg-language="español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="03_ARGENTINA" ,TELEFERO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 channel-id="TN" tvg-id="TN" tvg-language="Español" tvg-logo="https://n9.cl/ry6vg" group-title="03_ARGENTINA" ,TN
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 channel-id="TVPUBICA" tvg-id="TVPUBICA" tvg-language="español" tvg-logo="https://graph.facebook.com/TVPublica/picture?width=200&height=200" group-title="03_ARGENTINA" ,TVPUBICA
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HwcVpiNGbpg
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HwcVpiNGbpg
 #EXTINF:-1 channel-id="25TV" tvg-id="25TV" tvg-language="Español" tvg-logo="https://graph.facebook.com/298335373532952/picture?width=200&height=200" group-title="04_OTROS" ,25TV
 https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 channel-id="CANALCOSTA" tvg-id="CANALCOSTA" tvg-language="Español" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="04_OTROS" ,CANALCOSTA
@@ -300,70 +300,16 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 channel-id="7NNNOTICIAS" tvg-id="7NNNOTICIAS" tvg-language="Español" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="10_Noticias" ,7NNNOTICIAS
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="CRONICA" tvg-id="CRONICA" tvg-language="Español" tvg-logo="https://n9.cl/9qod5" group-title="10_Noticias" ,CRONICA
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
 #EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="es60d3583ef310610007fb02b1" tvg-language="Español" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="10_Noticias" ,Euronews_es
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="mx619d59b7cbef25000728221c" tvg-language="Español" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="10_Noticias" ,Euronews Español_mx
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="LN+" tvg-id="LN+" tvg-language="Español" tvg-logo="https://n9.cl/lg9kp" group-title="10_Noticias" ,LN+
-https://daedae.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=taquniX5KO0
+https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=taquniX5KO0
 #EXTINF:-1 channel-id="TELECANAL12HD" tvg-id="TELECANAL12HD" tvg-language="Español" tvg-logo="" group-title="10_Noticias" ,TELECANAL12HD
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 #EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="mx5f523aa5523ae000074745ec" tvg-language="Español" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="10_Noticias" ,Telefe Noticias_mx
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="103VEVOLatino" tvg-id="103VEVOLatino" tvg-language="Español" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=744cda&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvevolatino.png" group-title="11_MUSICA" ,103VEVOLatino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 channel-id="Anet_Anal" tvg-id="Anet_Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 channel-id="Anet_Asian" tvg-id="Anet_Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Asian
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 channel-id="Anet_BigAss" tvg-id="Anet_BigAss" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet BigAss
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 channel-id="Anet_BigDick" tvg-id="Anet_BigDick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet BigDick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 channel-id="Anet_BigTits" tvg-id="Anet_BigTits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet BigTits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 channel-id="Anet_Blonde" tvg-id="Anet_Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 channel-id="Anet_Blowjob" tvg-id="Anet_Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 channel-id="Anet_Brunette" tvg-id="Anet_Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 channel-id="Anet_Compilation" tvg-id="Anet_Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 channel-id="Anet_Cuckold" tvg-id="Anet_Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 channel-id="Anet_Fetish" tvg-id="Anet_Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 channel-id="Anet_Gangbang" tvg-id="Anet_Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 channel-id="Anet_Gay" tvg-id="Anet_Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 channel-id="Anet_Hardcore" tvg-id="Anet_Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 channel-id="Anet_Interracial" tvg-id="Anet_Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 channel-id="Anet_Latina" tvg-id="Anet_Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 channel-id="Anet_Lesbian" tvg-id="Anet_Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 channel-id="Anet_LiveCams" tvg-id="Anet_LiveCams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet LiveCams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 channel-id="Anet_MILF" tvg-id="Anet_MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 channel-id="Anet_Pornstar" tvg-id="Anet_Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 channel-id="Anet_POV" tvg-id="Anet_POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 channel-id="Anet_Rough" tvg-id="Anet_Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 channel-id="Anet_Russian" tvg-id="Anet_Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 channel-id="Anet_Teen" tvg-id="Anet_Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 channel-id="Anet_Threesome" tvg-id="Anet_Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="12_XXX" ,Anet Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 channel-id="Babestation" tvg-id="Babestation" tvg-language="Español" tvg-logo="" group-title="12_XXX" ,Babestation
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 channel-id="JasminTV" tvg-id="JasminTV" tvg-language="Español" tvg-logo="" group-title="12_XXX" ,JasminTV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
