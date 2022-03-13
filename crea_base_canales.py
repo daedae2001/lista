@@ -57,7 +57,8 @@ for x in mylist:
     f.close()
     f = open(x[0].replace("m3u8", "csv").replace(
         "m3u", "csv"), 'w', encoding="utf8")
-
-    f.write(str(registro).replace("]], [[", "\n").replace("', '", "=").replace(
-        "['", "").replace("']", "").replace("[[", "").replace("]]", ""))
+    txt = str(registro).replace("]], [[", "\n").replace("', '", "=").replace(
+        "['", "").replace("']", "").replace("[[", "").replace("]]", "").replace("'", "").replace(', logo ="', ', tvg-logo="').replace('", group="', '", group-title="')
+    txt.replace(', type="stream",', ',')
+    f.write(txt)
     f.close()
