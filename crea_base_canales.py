@@ -59,6 +59,15 @@ for x in mylist:
         "m3u", "csv"), 'w', encoding="utf8")
     txt = str(registro).replace("]], [[", "\n").replace("', '", "=").replace(
         "['", "").replace("']", "").replace("[[", "").replace("]]", "").replace("'", "").replace(', logo ="', ', tvg-logo="').replace('", group="', '", group-title="')
-    txt.replace(', type="stream",', ',')
+    txt = txt.replace(', type="stream",', ',')
+    txt = txt.replace(', channelid="', ', channel-id="')
+    txt = txt.replace(', type="favorites",', '')
+    txt = txt.replace(', logo="', ', tvg-logo="')
+    txt = txt.replace('#extinf=0, ', '')
+    txt = txt.replace('nombre, "mtv spankin new"]',
+                      'nombre="mtv spankin new"')
+    txt = txt.replace('#extinf=0 ', '')
+    txt = txt.replace(', type="stream",', ',')
+
     f.write(txt)
     f.close()
