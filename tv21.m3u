@@ -429,4 +429,37 @@ https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 channel-id=-1 tvg-id=x tvg-logo=https://pbs.twimg.com/profile_images/852214222884937730/zjoszvqs_400x400.jpg group-title=curiosidad tvg-id=x tvg-logo=https://pbs.twimg.com/profile_images/852214222884937730/zjoszvqs_400x400.jpg group-title=curiosidad tvg-logo=https://pbs.twimg.com/profile_images/852214222884937730/zjoszvqs_400x400.jpg group-title=curiosidad group-title=curiosidad,cultura 24 tv
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
+#EXTINF:0 type="stream" channelId="3226" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ WESTERN_
+http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="4549" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ EDGE_
+http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="3226" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ STAR_
+http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="4550" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ CINEMA_
+http://f4.tvxweb.net:8082/24317/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="3227" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ ENCORE_
+http://f4.tvxweb.net:8082/24314/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="3226" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ ACTION_
+http://f4.tvxweb.net:8082/24315/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="4548" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ BLACK_
+http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="4551" group-title="STARZ" logo="http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1", STARZ COMEDIC_
+http://f4.tvxweb.net:8082/35975/mpegts?token=MxPReBvRE1
+#EXTINF:0 type="stream" channelId="2903" group-title="STARZ", WARNER HD_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/73
+#EXTINF:0 type="stream" channelId="341" group-title="STARZ", Discovery Channel HD_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/42
+#EXTINF:0 type="stream" channelId="164" group-title="STARZ", Nat Geo Wild_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/36
+#EXTINF:0 type="stream" channelId="2839" group-title="STARZ", Discovery World_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/65
+#EXTINF:0 type="stream" channelId="2584" group-title="STARZ", HBO Family HD_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/128
+#EXTINF:0 type="stream" channelId="1330" group-title="STARZ", HBO HD_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/129
+#EXTINF:0 type="stream" channelId="2585" group-title="STARZ", HBO Plus_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/131
+#EXTINF:0 type="stream" channelId="2587" group-title="STARZ", HBO XTREME_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/255
+#EXTINF:0 type="stream" channelId="2896" group-title="STARZ", SPACE HD_
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/94
