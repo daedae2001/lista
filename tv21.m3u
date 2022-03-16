@@ -75,7 +75,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
 #EXTINF:-1 channel-id="HISTORY" tvg-id="HISTORY" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png" group-title="02_PREMIUM" ,HISTORY
 https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
-#EXTINF:-1 channel-id="NATGEO" tvg-id="NATGEO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-eM3xVJYrV4o/WotiUvTi2SI/AAAAAAAAAac/52N_07Qth3cGWECeeidfDBWIQAnXJUFIACLcBGAs/s1600/natgeo.png" group-title="02_PREMIUM" ,NATGEO
+#EXTINF:-1 channel-id="National Geographic HD" tvg-id="National Geographic HD" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-eM3xVJYrV4o/WotiUvTi2SI/AAAAAAAAAac/52N_07Qth3cGWECeeidfDBWIQAnXJUFIACLcBGAs/s1600/natgeo.png" group-title="02_PREMIUM" ,National Geographic HD
 https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99rrr
 #EXTINF:-1 channel-id="simpsons" tvg-id="simpsons" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Simpsons_logo_-_Yellow.svg/800px-The_Simpsons_logo_-_Yellow.svg.png" group-title="02_PREMIUM" ,simpsons
 https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/los_simpson_nuevos
@@ -163,9 +163,9 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-615b9855c6b58b000724477f" tvg-id="mx615b9855c6b58b000724477f" tvg-language="Español" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="06_VARIEDADES" ,Iron Chef_mx
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="LA1" tvg-id="LA1" tvg-language="Español" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="06_VARIEDADES" ,LA1
+#EXTINF:-1 channel-id="La 1" tvg-id="La " tvg-language="Español" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="06_VARIEDADES" ,La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 channel-id="LA2" tvg-id="LA2" tvg-language="Español" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="06_VARIEDADES" ,LA2
+#EXTINF:-1 channel-id="La 2" tvg-id="La 2" tvg-language="Español" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="06_VARIEDADES" ,La 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
 #EXTINF:-1 channel-id="pluto-5e3ddbd27091820009f86dd9" tvg-id="mx5e3ddbd27091820009f86dd9" tvg-language="Español" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="06_VARIEDADES" ,MasterChef_mx
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -441,15 +441,15 @@ http://f4.tvxweb.net:8082/24317/mpegts?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/24314/mpegts?token=MxPReBvRE1
 #EXTINF:0 type="stream" channelId="3226" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ ACTION_
 http://f4.tvxweb.net:8082/24315/mpegts?token=MxPReBvRE1
-#EXTINF:0 type="stream" channelId="4548" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png", STARZ BLACK_
+#EXTINF:0 type="stream" channelId="DARK" group-title="STARZ" logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png",DARK
 http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
 #EXTINF:0 type="stream" channelId="4551" group-title="STARZ" logo="http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1", STARZ COMEDIC_
 http://f4.tvxweb.net:8082/35975/mpegts?token=MxPReBvRE1
 #EXTINF:0 type="stream" channelId="2903" group-title="STARZ", WARNER HD_
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/73
-#EXTINF:0 type="stream" channelId="341" group-title="STARZ", Discovery Channel HD_
+#EXTINF:0 type="stream" channelId="Discovery" group-title="STARZ", Discovery
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/42
-#EXTINF:0 type="stream" channelId="164" group-title="STARZ", Nat Geo Wild_
+#EXTINF:0 type="stream" channelId="Nat Geo Wild HD" group-title="STARZ", Nat Geo Wild HD
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/36
 #EXTINF:0 type="stream" channelId="2839" group-title="STARZ", Discovery World_
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/65
@@ -459,7 +459,7 @@ http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/128
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/129
 #EXTINF:0 type="stream" channelId="2585" group-title="STARZ", HBO Plus_
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/131
-#EXTINF:0 type="stream" channelId="2587" group-title="STARZ", HBO XTREME_
+#EXTINF:0 type="stream" channelId="Extreme Sp" group-title="STARZ",Extreme Sp
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/255
 #EXTINF:0 type="stream" channelId="2896" group-title="STARZ", SPACE  HD_
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/94
