@@ -445,24 +445,6 @@ http://f4.tvxweb.net:8082/24315/mpegts?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
 #EXTINF:0  channelId="4551" group-title="STARZ" logo="http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1", STARZ COMEDIC_
 http://f4.tvxweb.net:8082/35975/mpegts?token=MxPReBvRE1
-#EXTINF:0  channelId="2903" group-title="STARZ", WARNER HD_
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/73
-#EXTINF:0  channelId="Discovery" group-title="STARZ", Discovery
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/42
-#EXTINF:0  channelId="Nat Geo Wild HD" group-title="STARZ", Nat Geo Wild HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/36
-#EXTINF:0  channelId="2839" group-title="STARZ", Discovery World_
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/65
-#EXTINF:0  channelId="2584" group-title="STARZ", HBO Family HD_
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/128
-#EXTINF:0  channelId="1330" group-title="STARZ", HBO HD_
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/129
-#EXTINF:0  channelId="2585" group-title="STARZ", HBO Plus_
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/131
-#EXTINF:0  channelId="Extreme Sp" group-title="STARZ",Extreme Sp
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/255
-#EXTINF:0  channelId="2896" group-title="STARZ", SPACE  HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/94
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL 
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8 
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX 
