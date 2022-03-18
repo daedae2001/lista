@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTINF:-1,LA 1 HD
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF:-1,LA 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://91.126.141.13:1935/live/11/playlist.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://91.126.141.13:1935/live/21/playlist.m3u8
+#EXTINF:-1,DKISS
+http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
+#EXTINF:-1,TEN
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:-1,CANAL SUR A.
+https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
+#EXTINF:-1,DMax
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
+#EXTINF:-1,TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,MTmad
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,RTVC Canarias
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Andorra
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Moda Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
+#EXTINF:-1,M.CineDoc&Roll
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts|User-Agent=cp_21221
+#EXTINF:-1,AXN HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts |User-Agent=cp_21221
+#EXTINF:-1,AXN WHITE HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts|User-Agent=cp_21221
+#EXTINF:-1,CALLE 13 HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts|User-Agent=cp_21221
+#EXTINF:-1,TCM HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts|User-Agent=cp_21221
+#EXTINF:-1,FOX HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/20.ts|User-Agent=cp_21221
+#EXTINF:-1,AMC HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts|User-Agent=cp_21221
+#EXTINF:-1,HOLLYWOODHD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts|User-agent=cp_21221
+#EXTINF:-1,SYFY HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts|User-agent=cp_21221
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts
+#EXTINF:-1,TOROS HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts|User-agent=cp_21221
+#EXTINF:-1,CAZAVISION
+http://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+#EXTINF:-1,EL TORO
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
+#EXTINF:-1,HISTORIA
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts|User-agent=cp_21221
+#EXTINF:-1,NAT GEO HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/26.ts|User-agent=cp_21221
+#EXTINF:-1,NG WILD HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts|User-agent=cp_21221
+#EXTINF:-1,CANAL COCINA
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts|User-agent=cp_21221
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts
+#EXTINF:-1,A&E
+http://200.54.19.131:8500/play/a0kt/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=cp_21221
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
+#EXTINF:-1,Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1,Locomotion TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1,Baby TV
+http://200.54.19.131:8500/play/a0kf
+#EXTINF:-1,Boomerang
+http://200.54.19.131:8500/play/a0h9
+#EXTINF:-1,Cartoon Network
+http://200.54.19.131:8500/play/a0m1
+#EXTINF:-1,Discovery Kids
+http://200.54.19.131:8500/play/a0j1
+#EXTINF:-1,Nat Geo Kids
+http://200.54.19.131:8500/play/a0j3
+#EXTINF:-1,Disney Junior
+http://200.54.19.131:8500/play/a0g5
+#EXTINF:-1,Disney Xd
+http://200.54.19.131:8500/play/a0js
+#EXTINF:-1,Tooncast
+http://200.54.19.131:8500/play/a0l2
+#EXTINF:-1,Nick Jr
+http://200.54.19.131:8500/play/a0ea
+#EXTINF:-1,Nickelodeon
+http://200.54.19.131:8500/play/a0h8
+#EXTINF:-1,Disney Channel
+http://200.54.19.131:8500/play/a0jr
+#EXTINF:-1,#VAMOS HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts|User-Agent=cp_21221
+#EXTINF:-1,LA LIGA HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts|User-Agent=cp_21221
+#EXTINF:-1,LALIGATV BAR
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts|User-Agent=cp_21221
+#EXTINF:-1,M. DEPORTES HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts|User-Agent=cp_21221
+#EXTINF:-1,Movistar Deportes
+http://200.54.19.131:8500/play/a0do
+#EXTINF:-1,M.FORMULA1 HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts|User-Agent=cp_21221
+#EXTINF:-1,EUROSPORT1 HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts|User-Agent=cp_21221
+#EXTINF:-1,EUROSPORT 1HD
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts|User-Agent=cp_21221
+#EXTINF:-1,EUROSPORT 2HD
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1,BEIN LCAMPEONES HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts|User-Agent=cp_21221
+#EXTINF:-1,M.LCAMPEONES HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts|User-Agent=cp_21221
+#EXTINF:-1,GOL
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts|User-Agent=cp_21221
+#EXTINF:-1,M. GOLF HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts|User-Agent=cp_21221
+#EXTINF:-1,Sky Bundesliga HD 1
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2.ts|User-Agent=cp_21221
+#EXTINF:-1,Sky Bundesliga HD 2
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts|User-Agent=cp_21221
+#EXTINF:-1,GOLPERU
+http://200.54.19.131:8500/play/a0k9
+#EXTINF:-1,BT Sport 2 (MOTO GP eventos)
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,FOX SPORTS 2 (MOTO GP eventos)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1,GOLPERU
+http://200.54.19.131:8500/play/a0k9
+#EXTINF:-1,Setanta Sports +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:-1,Sky Sport 1 HD DE
+http://45.92.69.211:8001/play/a0bk
+#EXTINF:-1,Sky Sport 2 HD DE
+http://45.92.69.211:8001/play/a0c9
+#EXTINF:-1,ESPN2
+http://200.54.19.131:8500/play/a0m4/index.m3u8
+#EXTINF:-1,ESPN 3
+http://200.54.19.131:8500/play/a0gi/index.m3u8
+#EXTINF:-1,ESPNU
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1,ESPN ACCN
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1,ESPN SEC
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1,ESPN FS2
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1,True Premier Football 1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,True Premier Football 2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1,BT SPORT 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,BT SPORT 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORT TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORT TV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORT TV4
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,Premier HD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1,Premier HD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,NBA TV
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,BeinSport1
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
+#EXTINF:-1,BeinSport EPL 1
+http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1,BeinSport2
+http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
+#EXTINF:-1,BeinSport EPL 2
+http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1,BeinSport3
+http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
+#EXTINF:-1,BeinSport EPL 3
+http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
+#EXTINF:-1,BeinSport EPL 4
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,Bein Sports Diema sport EPL
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:-1,Bein Sports extra HD
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1,FOX SPORT HD
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,FOX SPORT HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1,FOX SPORTS HD 1 USA
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1,FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1,Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1,Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1,Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1,Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1,Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,Hipódromo de las Américas
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+#EXTINF:-1,CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1,Match_HD
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1,Match_Arena_HD
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1,Match_Boec_SD
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1,Match_Football_1_HD
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
+#EXTINF:-1,Match_Football_2_HD
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+#EXTINF:-1,Match_Football_3_HD
+http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
+#EXTINF:-1,MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1,TENIS LAPANGAN  1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,TENIS LAPANGAN  2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1,TRUE TENIS HD
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1,UFC 1
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,UFC 1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,UFC 1
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1,UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,UFC 4
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1,Sport BOXING HD
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,CombatGo HD
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,FightBox
+http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
+#EXTINF:-1,EDGE SPORT HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1,EDGE Sport HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1,Eleven Sport 1
+http://77.54.145.209:81/play/a00a
+#EXTINF:-1,Eleven Sport 2
+http://77.54.145.209:81/play/a03d
+#EXTINF:-1,FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1,DIGI Sport 1 HD
+http://zigfreed.ru/2xD/1596.m3u8
+#EXTINF:-1,DIGI Sport 2 HD
+http://zigfreed.ru/2xD/1597.m3u8
+#EXTINF:-1,DIGI Sport 3 HD
+http://zigfreed.ru/2xD/1598.m3u8
+#EXTINF:-1,DIGI Sport 4 HD
+http://zigfreed.ru/2xD/1599.m3u8
+#EXTINF:-1,Sportschau HD
+http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+#EXTINF:-1,MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1,Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1,FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+#EXTINF:-1,Atlanta United Fan TV
+https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
+#EXTINF:-1,Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1,Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1,Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1,SPORTS MAX
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1,BAYERN MUNICH TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+#EXTINF:-1,Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Sport Italia (solo wiseplay)
+https://www.mytivu.it/Application/Channels/SI.php
+#EXTINF:-1,Sport Italia 24 LIVE (solo wiseplay)
+https://www.mytivu.it/Application/Channels/SILive24.php
+#EXTINF:-1,Sport Italia CALCIO (solo wiseplay)
+https://www.mytivu.it/Application/Channels/SISoloCalcio.php
+#EXTINF:-1,Sport Italia MOTORI (solo wiseplay)
+https://www.mytivu.it/Application/Channels/SIMotori.php
+#EXTINF:-1,revolucionariostv c4 (solo wiseplay)
+https://revolucionariostv.eu/elitegol/Repros/c4.php
+#EXTINF:-1,revolucionariostv c5 (solo wiseplay)
+https://revolucionariostv.eu/elitegol/Repros/c5.php
+#EXTINF:-1,revolucionariostv c6 (solo wiseplay)
+https://revolucionariostv.eu/elitegol/Repros/c6.php
+#EXTINF:-1,Pluto TV Cine
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Acción
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Comedia
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Sci-Fi
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Romántico
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Thrillers
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Terror (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Terror (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Estelar (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Accion (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Comedia (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Drama (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Series Retro (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,mtv Originals
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,trol
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,made
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,MTV Catfish TV Show
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,MTV Cribs
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Comedia made in Spain
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Real Life
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abdceddf6a20007f8ccd2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Realities
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Series
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,La Chica Invisible
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cocina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Natura
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Mundo Real
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Vaya semanita
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,People are Awesome
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Bob Esponja
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,MTV Embarazada a los 16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Animakids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Big Time Rush
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pistas de Blue
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Go Diego Go!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,HqM Spanish
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1,HqM Latin
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:-1,HqM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1,HqM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1,HqM Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:-1,HqM Dance
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:-1,HqM Classic
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1,HqM Chill Out
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:-1,HqM Blues
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1,HqM Baladas
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:-1,MUSICA TV LATINA
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Music Top esp
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Music Top Arg
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,MTV Mix
+http://root:@81.30.182.82:18092/hls/live.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,V2Beat TV EN
+https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,SONG TV HD (Russia)
+http://songtvru.ru:8060/hd/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,М2
+http://live.m2.tv/hls3/stream.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Live
+https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Hits
+https://www.djing.com/tv/hits.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Underground
+https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,30A Music
+http://30a-tv.com/music.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Gospel Music 4U
+https://ch.iptvmate.net/5e9338a3b3bdf92f6965c645.m3u8
+#EXTINF:-1,1 Music Channel
+https://ch.iptvmate.net/5e9331579e40b826c37faf32.m3u8
+#EXTINF:-1,DanceStar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,MUSIC TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Remember The '80s
+http://ott-linear-channels.stingray.com/hls/index/128.m3u8
+#EXTINF:-1,Greatest Hits
+http://ott-linear-channels.stingray.com/hls/index/133.m3u8
+#EXTINF:-1,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
