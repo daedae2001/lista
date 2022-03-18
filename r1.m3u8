@@ -15,24 +15,6 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:0 type="stream" channel-id="-1" group-title="CINE Y SERIES 2" logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png", SCI-FI 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channel-id="2903", WARNER HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/73
-#EXTINF:0 type="stream" channel-id="341", Discovery Channel HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/42
-#EXTINF:0 type="stream" channel-id="164", Nat Geo Wild
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/36
-#EXTINF:0 type="stream" channel-id="2839", Discovery World
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/65
-#EXTINF:0 type="stream" channel-id="2584", HBO Family HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/128
-#EXTINF:0 type="stream" channel-id="1330", HBO HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/129
-#EXTINF:0 type="stream" channel-id="2585", HBO Plus
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/131
-#EXTINF:0 type="stream" channel-id="2587", HBO XTREME
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/255
-#EXTINF:0 type="stream" channel-id="2896", SPACE HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/94
 #EXTINF:0 type="stream" channel-id="-1" group-title="NIÑOS Y ADOLESCENTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png", EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:0 type="stream" channel-id="-1" group-title="ANIMACIÓN PARA ADULTOS" logo="https://i.postimg.cc/1XdvJp8v/MTV_ANIMACIONES.png", MTV ANIMACIONES
