@@ -147,10 +147,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/Di
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="favorites" channel-id="-1" name="EGM Channel" logo="https://www.m3u.cl/logo/1022_EGM_Channel.png", EGM Channel * | CL
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="favorites" channel-id="-1", HOLA! TV
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/137
-#EXTINF:0 type="favorites" channel-id="-1", Canal VTV
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4267
 #EXTINF:0 type="favorites" channel-id="-1" group-title="CINE & SERIES" logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", RETROPLUS SERIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
 #EXTINF:0 type="favorites" channel-id="-1" group-title="24/7" logo="http://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png", ESCAPE PERFECTO
