@@ -714,41 +714,41 @@ http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
 
  
-
 #EXTINF:-1,Canal Film 02 (Dual Audio)
 
 http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
 
- 
 
 #EXTINF:-1,Latino | MoreMax HD 1080P-
 
 http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
 
- 
 
 #EXTINF:-1,Crackle original movie (Dual audio)
 
 http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
-
  
 
 #EXTINF:-1,Canal Film 03 (Dual Audio)
 
 http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
 
- 
-
 #EXTINF:-1,Latino | MovieMax HD 1080P-
 
 http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-
- 
 
 #EXTINF:-1,Latino | OuterMax HD 1080P-
 
 http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
 
- 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO 
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="http://telebasura.com/wp-content/2013/01/logo-telemadrid.jpg" group-title="España", Telemadrid 
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SERIES" logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png", The Walking Dead en español_
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="SERIES" logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png", Viaje a las estrellas_
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
