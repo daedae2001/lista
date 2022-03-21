@@ -749,6 +749,59 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="SERIES" logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png", Viaje a las estrellas_
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,WARNER
+http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="DOCUMENTALES"  ,histori chanel
+https://edge2.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD-avc1_1499968=10008.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="08_Series"  ,comedi central
+https://edge2.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral-avc1_1480000=10002.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,HBO
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,FX
+https://edge2.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD-avc1_1972000=10002.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,TNT
+https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD-avc1_1726000=10002.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,neox
+https://directo.atresmedia.com/51c4de5f62a7c217a8589362a91a2beb3344b432_1647911397/geoneox/bitrate_2.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,la secta
+https://directo.atresmedia.com/724cf214471643973aeeeb02fa6658b8ce1cb3d2_1647911907/lasexta/bitrate_2.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,nova
+https://directo.atresmedia.com/0aee245a4da34e101b5a8caa4bd8f5063ec58490_1647912043/geonova/bitrate_2.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,a3series
+https://directo.atresmedia.com/f8de681c9d508420424b3333be286dbd82a4dc12_1647919798/geoa3series/bitrate_2.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,antena 3
+https://directo.atresmedia.com/36fcbc0db50ed069817c8536dcfd113611c69e31_1647919755/antena3/bitrate_2.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,a e series
+https://directo.atresmedia.com/f8de681c9d508420424b3333be286dbd82a4dc12_1647919798/geoa3series/bitrate_2.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,mega
+https://directo.atresmedia.com/d4a1d8d2be73f6e2f1f415a0001a406d4ab6ba9b_1647920617/geomega/bitrate_2.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="tdt"  ,el trece
+https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,CINECANAL 
+http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,CINEMAX 
+http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,STUDIOUNIVERSAL
+http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,WARNER
+http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="DOCUMENTALES"  ,histori chanel
+https://edge2.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD-avc1_1499968=10008.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,AMC 
+http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,CINECANAL 
+http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,FX 
+http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,GOLDENPLUS 
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id="139944"  tvg-logo=""   group-title="""  ,LOS-SIMPSON 
+http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,SONYCHANNEL
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,HBO
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,FX
+https://edge2.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD-avc1_1972000=10002.m3u8
+#EXTINF:-1 channel-id="4551"  tvg-id=""  tvg-logo=""   group-title="CINE"  ,TNT
+https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD-avc1_1726000=10002.m3u8
