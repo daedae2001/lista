@@ -1,8 +1,7 @@
 
 import requests
 mylist = [["es.m3u8", 'https://i.mjh.nz/PlutoTV/es.m3u8', 'es'],
-          ["mx.m3u8", 'https://i.mjh.nz/PlutoTV/mx.m3u8', 'mx'],
-          ["r1.m3u8", 'https://raw.githubusercontent.com/emiliocuesta/milista/7539e0504f56413d853dcc01ccaf978a531e64a9/lista12', '']]
+          ["mx.m3u8", 'https://i.mjh.nz/PlutoTV/mx.m3u8', 'mx']]
 i = 1
 primera = ""
 otras = ""
