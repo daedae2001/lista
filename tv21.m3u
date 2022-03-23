@@ -548,13 +548,9 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/23812
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1146
 #EXTINF:-1,MOVISTAR Cine ñ
 http://iptvmedia.live:8080/FM10008/ee54fb4b/64788
-#EXTINF:-1,Movistar Cine ñ
-http://94.177.158.190:8081/live/MCineEspanol.m3u8/chunks.m3u8
 #EXTINF:-1,MOVISTAR Accion FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1148
-#EXTINF:-1,MOVISTAR Sagas HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/284596
-#EXTINF:-1,Movistar Acción FHD
+#EXTINF:-1,Movistar bom cine
 http://iptvmedia.live:8080/FM10008/ee54fb4b/75926
 #EXTINF:-1,MOVISTAR Cine Clasicos HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/281773
@@ -570,3 +566,5 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/286800
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1140
 #EXTINF:-1,MOVISTAR Series 2 FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1139
+#EXTINF:-1,TCM FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1134
