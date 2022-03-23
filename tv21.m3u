@@ -568,3 +568,7 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/1140
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1139
 #EXTINF:-1,TCM FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1134
+#EXTINF:-1,TCM
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TCM/SA_SAGEMCOM/TCM.m3u8
+#EXTINF:-1,TCM
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TCM/__op/hls-default/__f/index.m3u8
