@@ -1,21 +1,27 @@
 #EXTM3U
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,ae 
 https://cdn.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+#EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,ae 
+http://iptvmedia.live:8080/FM10008/ee54     fb4b/7731
 #EXTINF:-1  channel-id="4551"   tvg-id=""   tvg-logo="https://rndserv.xyz/images/AMC.png"    group-title="01_Películas"   ,ae 2 
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo="https://rndserv.xyz/images/AMC.png"   group-title="01_Películas"   ,AMC 
-http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo="https://rndserv.xyz/images/AMC.png"   group-title="01_Películas"   ,AMC 
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1174
+#EXTINF:-1  channel-id="AXN"   tvg-id="" tvg-logo="https://rndserv.xyz/images/AXN.png"   group-title="01_Películas"   ,AMC 
+http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
+#EXTINF:-1  channel-id="syfy"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,syfy 
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1135
 #EXTINF:-1  channel-id="x1"   tvg-id=""   tvg-logo="https://m.media-amazon.com/images/I/51SN4YBCY6L._SL500_.png"   group-title="01_Películas"   ,butaca tv  
 https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  channel-id=   tvg-id=""   tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/116799598_3469836633068039_7948907206488162727_n.png?_nc_cat=106&ccb=1-5&_nc_sid=9267fe&_nc_ohc=JqHUdLgV_gwAX_5Dt47&_nc_ht=scontent-mad1-1.xx&oh=00_AT8BJtJfccuuIvo5WS8buPWLkN7xcRVdX23UoLduyV1iBA&oe=625D9F4E"   group-title="01_Películas"   ,butaca tv 2"  
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  channel-id="x"   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,cine life  
 https://magselect-stirr.amagi.tv/playlist720p.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo="https://rndserv.xyz/images/cinecanal.png"   group-title="01_Películas"   ,CINECANAL  
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo="https://rndserv.xyz/images/cinecanal.png"   group-title="01_Películas"   ,CINECANAL  
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF:-1  channel-id="x"   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,cinema+  
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png"   group-title="01_Películas"   ,CINEMAX 
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png"   group-title="01_Películas"   ,CINEMAX 
 http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,cosmo 
 http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
@@ -27,17 +33,18 @@ http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
 https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  channel-id="pluto-5e972a21ad709d00074195ba"   tvg-id="mx5e972a21ad709d00074195ba"   tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"   group-title="01_Películas"   ,Estrellas de Acción_mx  
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo=""   group-title="01_Películas"   ,FX 1 
-https://edge2.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD-avc1_1972000=10002.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo=""   group-title="01_Películas"   ,FX 2 
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,FX 1 
+https://edge2.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,FX 2 
 http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/78?cb=20210512164553&path-prefix=es"   group-title="01_Películas"   ,GOLDEN PLUS 
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/78?cb=20210512164553&path-prefix=es"   group-title="01_Películas"   ,GOLDEN PLUS 
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo=""   group-title="01_Películas"   ,HBO 
-https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002.m3u8
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,HBO 
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,hbo 2 
 https://cdn.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
-#EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,hbo mundi 
+#EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas" 
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBO_MUNDI.m3u8  ,hbo mundi 
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,hbo pop 
 https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
@@ -75,23 +82,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  channel-id="x"   tvg-id=""   tvg-logo="https://image.roku.com/developer_channels/prod/1501b86df311ec17bcc3056e6e1602f2c0c192153332e9325714e14263893c93.png"   group-title="01_Películas"   ,runtime-espanol-roku  
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo=""   group-title="01_Películas"   ,SONY CHANELS 
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,SONY CHANELS 
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,space 
 https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,starchannel 
 https://live3-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo=""   group-title="01_Películas"   ,STUDIO UNIVERSAL 
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,STUDIO UNIVERSAL 
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,TBS 
 http://cdn.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,tcm 
 https://cdn.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo=""   group-title="01_Películas"   ,TNT 
-https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD-avc1_1726000=10002.m3u8
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,TNT 
+https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 #EXTINF:-1  channel-id="topcine"   tvg-id="topcine"   tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png"   group-title="01_Películas"   ,top cine  
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo=""   group-title="01_Películas"   ,WARNER 
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo=""   group-title="01_Películas"   ,WARNER 
 http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
 #EXTINF:-1  channel-id="x"   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,wow"  
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -223,6 +230,8 @@ http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1  channel-id="La 1"   tvg-id=""   tvg-logo="https://rndserv.xyz/images/atreseries.png"   group-title="03_TDT"   ,A 3 SERIES 
 https://directo.atresmedia.com/f8de681c9d508420424b3333be286dbd82a4dc12_1647919798/geoa3series/bitrate_2.m3u8
+#EXTINF:-1  channel-id="La 1"   tvg-id=""   tvg-logo="https://rndserv.xyz/images/atrescine.png"   group-title="03_TDT"   ,A3 cine 
+http://iptvmedia.live:8080/FM10008/ee54fb4b/283299
 #EXTINF:-1  channel-id="La 1"   tvg-id=""   tvg-logo="https://rndserv.xyz/images/antena3.png"   group-title="03_TDT"   ,ANTENA 3 
 https://directo.atresmedia.com/36fcbc0db50ed069817c8536dcfd113611c69e31_1647919755/antena3/bitrate_2.m3u8
 #EXTINF:-1  channel-id="ARAGONTV"   tvg-id="ARAGONTV"   tvg-logo="https://n9.cl/uh8a7"   group-title="03_TDT"   ,ARAGONTV  
@@ -267,7 +276,7 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  channel-id="ELCHAVODEL8"   tvg-id="ELCHAVODEL8"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png"   group-title="04_SERIES"   ,ELCHAVODEL8  
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?WebM3UCL
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo="https://cdn.icon-icons.com/icons2/21/PNG/256/thesimpsons_simpsons_logo_2382.png"   group-title="04_SERIES"   ,LOS SIMSONS 
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo="https://cdn.icon-icons.com/icons2/21/PNG/256/thesimpsons_simpsons_logo_2382.png"   group-title="04_SERIES"   ,LOS SIMSONS 
 http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 #EXTINF:-1  channel-id="-1"   tvg-id="139944"   tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png"   group-title="04_SERIES"   ,The Walking Dead en español  
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -275,8 +284,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  channel-id="307SonyComedias"   tvg-id="307SonyComedias"   tvg-logo="https://tv.mobistream.co.za/uploads/jpg/f4987923d8f33269cb907db688c5af96.jpg"   group-title="05_SERIES COMICAS"   ,307SonyComedias  
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/playlist.m3u8
-#EXTINF:-1  channel-id="La 1"   tvg-id="La   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png"   group-title="05_SERIES COMICAS"   ,central comedy 
-https://edge2.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral-avc1_1480000=10002.m3u8
+#EXTINF:-1  channel-id="La 1"   tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png"   group-title="05_SERIES COMICAS"   ,central comedy 
+https://edge2.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 #EXTINF:-1  channel-id="x"   tvg-id=""   tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3KbLyGOOI4KBmCggi_BfgKDP7UcvqQVzhcyhe=s900-c-k-c0x00ffffff-no-rj"   group-title="06_DOCUMENTALES Y CULTURA"   ,cultura 24 tv  
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="06_DOCUMENTALES Y CULTURA"   ,discovery 
@@ -459,3 +468,105 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  channel-id="pluto-619d59b7cbef25000728221c"   tvg-id="mx619d59b7cbef25000728221c"   tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png"   group-title="x10_Noticias"   ,Euronews Español_mx  
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Factoria de Ficcion HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2207
+#EXTINF:-1,NEOX HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2208
+#EXTINF:-1,Atreseries FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/9102
+#EXTINF:-1,TCM FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1134
+#EXTINF:-1,Sundance TV HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2757
+#EXTINF:-1,Dark FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/121514
+#EXTINF:-1,Trece TV HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/60943
+#EXTINF:-1,Paramount Network HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2209
+#EXTINF:-1,Historia HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/274305
+#EXTINF:-1,History HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/49468
+#EXTINF:-1,Discovery Science
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
+#EXTINF:-1,Crime+ Investigation HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/273250
+#EXTINF:-1,Odisea HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2194
+#EXTINF:-1,DMAX HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2762
+#EXTINF:-1,Divinity
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2795
+#EXTINF:-1,Nova HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2189
+#EXTINF:-1,Mega FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2190
+#EXTINF:-1,Be Mad
+http://iptvmedia.live:8080/FM10008/ee54fb4b/2213
+#EXTINF:-1,Cinemax HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/49449
+#EXTINF:-1,STUDIO UNIVERSAL
+http://51.79.18.128:8081/LATINO|STUDIOUNIVERSAL/LATINO|STUDIOUNIVERSAL/playlist.m3u8
+#EXTINF:-1,Cinecanal HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/290334
+#EXTINF:-1,CINECANAL
+http://51.79.18.128:8081/LATINO|CINECANAL/LATINO|CINECANAL/playlist.m3u8
+#EXTINF:-1,HBO FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/285191
+#EXTINF:-1,HBO
+http://spliktv-edge2.wedrly.xyz/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+#EXTINF:-1,HBO 2
+http://spliktv-edge2.wedrly.xyz/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+#EXTINF:-1,HBO Signature HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/91989
+#EXTINF:-1,HBO Xtreme HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/285192
+#EXTINF:-1,Alquiler 1 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/12107
+#EXTINF:-1,Alquiler 2 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/12108
+#EXTINF:-1,Alquiler 3 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/12109
+#EXTINF:-1,Alquiler 4 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/12110
+#EXTINF:-1,Alquiler 5 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/11818
+#EXTINF:-1,Alquiler 6 FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/15931
+#EXTINF:-1,Alquiler 7 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/11819
+#EXTINF:-1,Alquiler 8 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/281769
+#EXTINF:-1,Alquiler 9 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/281770
+#EXTINF:-1,Alquiler 10 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/11820
+#EXTINF:-1,Alquiler 11 HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/23812
+#EXTINF:-1,MOVISTAR Comedia FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1146
+#EXTINF:-1,MOVISTAR Cine ñ
+http://iptvmedia.live:8080/FM10008/ee54fb4b/64788
+#EXTINF:-1,Movistar Cine ñ
+http://94.177.158.190:8081/live/MCineEspanol.m3u8/chunks.m3u8
+#EXTINF:-1,MOVISTAR Accion FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1148
+#EXTINF:-1,MOVISTAR Sagas HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/284596
+#EXTINF:-1,Movistar Acción FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/75926
+#EXTINF:-1,MOVISTAR Cine Clasicos HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/281773
+#EXTINF:-1,MOVISTAR Drama FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1144
+#EXTINF:-1,MOVISTAR Estrenos FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1143
+#EXTINF:-1,MOVISTAR Fest HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/168992
+#EXTINF:-1,MOVISTAR La Resistencia HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/286800
+#EXTINF:-1,MOVISTAR Series FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1140
+#EXTINF:-1,MOVISTAR Series 2 FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1139
