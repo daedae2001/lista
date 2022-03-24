@@ -1,10 +1,24 @@
 
 import requests
 mylist = [["es.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml', 'es'],
-          ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx']]
+          ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx'],
+          ["mv.xml", 'http://tropical.jungle-team.online/epg/koala3.xml', '']]
 i = 1
 primera = ""
 otras = ""
+
+
+def insertar_texto(cadena, texto):
+    posicion = cadena.find('<programme channel="')
+    if posicion <= len(cadena):
+        izquierda = cadena[:posicion]
+        derecha = cadena[posicion + 1:]
+
+        return '{} {} {}'.format(izquierda, texto, derecha)
+    else:
+        raise ValueError(
+            'La posición donde se quiere insertar el texto no existe.')
+
 
 for x in mylist:
     url = x[1]
@@ -20,13 +34,15 @@ for x in mylist:
     else:
         otras = f.read()
         f.close()
-
+        otras = otras[otras.find('<channel id="') + 1:]
         otras = otras.replace('<channel id="', '<channel id="' +
                               x[2]).replace('<programme channel="', '<programme channel="'+x[2]).replace("</display-name>", "_"+x[2]+"</display-name>")
-        p1 = otras[0: otras.find('<programme channel="')]
-        p2 = otras[otras.find('<programme channel="'):len(otras)]
-        primera = primera[otras.find('<channel id="'):len(otras)]
-        primera = (p1 + primera.replace("</tv>", "") + p2)
+        otras = otras.replace("</tv>", "")
+        primera = insertar_texto(primera, otras)
+        #p1 = otras[0: otras.find('<programme channel="')]
+        #p2 = otras[otras.find('<programme channel="'):len(otras)]
+        #primera = primera[otras.find('<channel id="'):len(otras)]
+
     i = i+1
 f = open('todo.xml', 'w', encoding="utf8")
 f.write(primera)
