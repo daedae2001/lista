@@ -45,8 +45,8 @@ print(driver.current_url)
 # print(driver.page_source)
 print(driver.application_cache)
 print(driver.capabilities)
-print(driver.current_url)
-print(driver.current_url)
+print(driver.session_id)
+print(driver.service)
 
 tabla = '/html/body/div[2]/div/div[1]/div/div/ul/li[1]/button'
 

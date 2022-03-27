@@ -2,7 +2,9 @@
 import requests
 mylist = [["es.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml', 'es'],
           ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx'],
+          ["smes.xml", 'https://i.mjh.nz/SamsungTVPlus/es.xml', ''],
           ["mv.xml", 'http://tropical.jungle-team.online/epg/koala3.xml', '']]
+'https://i.mjh.nz/SamsungTVPlus/es.xml'
 i = 1
 primera = ""
 otras = ""
