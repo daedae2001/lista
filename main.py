@@ -1,10 +1,12 @@
 
 import requests
+import gzip
+
 mylist = [["es.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml', 'es'],
           ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx'],
           ["smes.xml", 'https://i.mjh.nz/SamsungTVPlus/es.xml', ''],
           ["mv.xml", 'http://tropical.jungle-team.online/epg/koala3.xml', '']]
-'https://i.mjh.nz/SamsungTVPlus/es.xml'
+
 i = 1
 primera = ""
 otras = ""
@@ -49,3 +51,17 @@ for x in mylist:
 f = open('todo.xml', 'w', encoding="utf8")
 f.write(primera)
 f.close()
+
+
+try:
+    f = open('todo.xml', "rb")
+except IOError as e:
+    print(e.errno, e.message)
+else:
+    data = f.read()
+    f.close()
+
+if data is not None:
+    f = gzip.open('todo.xml' + ".gz", "wb")
+    f.write(data)
+    f.close()
