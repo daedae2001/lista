@@ -1,4 +1,4 @@
-#EXTM3U
+EXTM3U x-tvg-url="https://github.com/daedae2001/lista/blob/main/todo.xml.gz?raw=true"
 #EXTINF:-1  channel-id=""   tvg-id=""   tvg-logo=""   group-title="01_Películas"   ,ae 
 https://cdn.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 #EXTINF:-1  channel-id="4551"   tvg-id=""   tvg-logo="https://rndserv.xyz/images/AMC.png"    group-title="01_Películas"   ,ae 2 
@@ -463,7 +463,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Discovery Science
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,Crime+ Investigation HD
 #EXTINF:-1,STUDIO UNIVERSAL
 http://51.79.18.128:8081/LATINO|STUDIOUNIVERSAL/LATINO|STUDIOUNIVERSAL/playlist.m3u8
 #EXTINF:-1,CINECANAL
