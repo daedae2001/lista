@@ -16,7 +16,7 @@ def insertar_texto(cadena, texto):
     posicion = cadena.find('<programme channel="')
     if posicion <= len(cadena):
         izquierda = cadena[:posicion]
-        derecha = cadena[posicion + 1:]
+        derecha = cadena[posicion:]
 
         return '{} {} {}'.format(izquierda, texto, derecha)
     else:
@@ -38,7 +38,7 @@ for x in mylist:
     else:
         otras = f.read()
         f.close()
-        otras = otras[otras.find('<channel id="') + 1:]
+        otras = otras[otras.find('<channel id="'):]
         otras = otras.replace('<channel id="', '<channel id="' +
                               x[2]).replace('<programme channel="', '<programme channel="'+x[2]).replace("</display-name>", "_"+x[2]+"</display-name>")
         otras = otras.replace("</tv>", "")
