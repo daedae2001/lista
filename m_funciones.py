@@ -47,5 +47,11 @@ def procesa_linea_m3u_sucia(linea):
     return registro
 
 
-l = '#EXTINF:0 type="stream" channelId="-1" name="Planetatv Kidss" logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids * | CL'
-procesa_linea_m3u_sucia(l)
+def arregla_m3u(archivo_m3u):
+    f = open(archivo_m3u, 'r', encoding="utf8")
+    linea = f.read()
+    linea = linea.replace(',http', '\nhttp')
+    f.close
+    f = open(archivo_m3u, 'w')
+    f.write(linea)
+    f.close
