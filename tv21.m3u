@@ -35,9 +35,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 #EXTINF:-1 channel-id="STUDIO UNIVERSAL" tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="00_Películas" ,STUDIO UNIVERSAL 
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
-#EXTINF:-1 channel-id="TCM_" tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="00_Películas" ,TCM_ 
+#EXTINF:-1 channel-id="TCM" tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="00_Películas" ,TCM_ 
 https://cdn.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
-#EXTINF:-1 channel-id="TNT_" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="00_Películas" ,TNT_ 
+#EXTINF:-1 channel-id="TNT" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="00_Películas" ,TNT_ 
 https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 #EXTINF:-1 channel-id="WARNER" tvg-id="WARNER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Warner_2018_Amarillo_con_azul.png/revision/latest/scale-to-width-down/220?cb=20200117134449&path-prefix=es" group-title="00_Películas" ,WARNER 
 http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
@@ -59,13 +59,13 @@ https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-spain-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&tc_string=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="cosmos tv" tvg-id="cosmos tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/621px-Cosmo_TV_logo.svg.png" group-title="01_Películas" ,cosmos tv 
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 channel-id="DARK_" tvg-id="DARK" tvg-logo="https://blog.orange.es/wp-content/uploads/2017/06/dark.png" group-title="01_Películas" ,DARK_ 
+#EXTINF:-1 channel-id="DARK" tvg-id="DARK" tvg-logo="https://blog.orange.es/wp-content/uploads/2017/06/dark.png" group-title="01_Películas" ,DARK_ 
 https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="ESAJ4500020V7" tvg-id="ESAJ4500020V7" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/62/ESAJ4500020V7_20220323T081528.png" group-title="01_Películas" ,Dramas - Rakuten TV_ 
 https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel=429&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="ESBA3300017FA" tvg-id="ESBA3300017FA" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/ESBA3300017FA_20220323T081600.png" group-title="01_Películas" ,Familiares - Rakuten TV_ 
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel=718&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="FX 2" tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="01_Películas" ,FX 2 
+#EXTINF:-1 channel-id="FX" tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="01_Películas" ,FX 2 
 http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
 #EXTINF:-1 channel-id="GOLDEN PLUS" tvg-id="GOLDEN PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/78?cb=20210512164553&path-prefix=es" group-title="01_Películas" ,GOLDEN PLUS 
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
@@ -207,17 +207,17 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 channel-id="rakuten tv drama hd españa" tvg-id="rakuten tv drama hd españa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/120px-Rakuten_TV_logo.svg.png" group-title="03_Películas" ,rakuten tv drama hd españa 
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="24 HORAS_" tvg-id="24 HORAS" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="03_TDT" ,24 HORAS_ 
+#EXTINF:-1 channel-id="24 HORAS" tvg-id="24 HORAS" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="03_TDT" ,24 HORAS_ 
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 channel-id="ARAGONTV" tvg-id="ARAGONTV" tvg-logo="https://n9.cl/uh8a7" group-title="03_TDT" ,Aragón TV_ 
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 channel-id="EL TRECE" tvg-id="EL TRECE" tvg-logo="https://rndserv.xyz/images/trece.png" group-title="03_TDT" ,EL TRECE 
 https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-#EXTINF:-1 channel-id="LA 1_" tvg-id="LA 1" tvg-logo="https://rndserv.xyz/images/la1.png" group-title="03_TDT" ,LA 1 
+#EXTINF:-1 channel-id="LA 1" tvg-id="LA 1" tvg-logo="https://rndserv.xyz/images/la1.png" group-title="03_TDT" ,LA 1 
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 channel-id="LA 2_" tvg-id="LA 2" tvg-logo="https://rndserv.xyz/images/la2.png" group-title="03_TDT" ,LA 2 
+#EXTINF:-1 channel-id="LA 2" tvg-id="LA 2" tvg-logo="https://rndserv.xyz/images/la2.png" group-title="03_TDT" ,LA 2 
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
-#EXTINF:-1 channel-id="LA SEXTA_" tvg-id="LA SEXTA" tvg-logo="https://rndserv.xyz/images/lasexta.png" group-title="03_TDT" ,LA SEXTA 
+#EXTINF:-1 channel-id="LA SEXTA" tvg-id="LA SEXTA" tvg-logo="https://rndserv.xyz/images/lasexta.png" group-title="03_TDT" ,LA SEXTA 
 https://directo.atresmedia.com/724cf214471643973aeeeb02fa6658b8ce1cb3d2_1647911907/lasexta/bitrate_2.m3u8
 #EXTINF:-1 channel-id="CANAL10" tvg-id="CANAL10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="04_ARGENTINA" ,CANAL10 
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
