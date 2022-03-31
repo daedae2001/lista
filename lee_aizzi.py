@@ -68,10 +68,10 @@ def extrae(texto_origen, texto_buscado, texto_fin):
             r = texto_origen[inicio: fin]
             return [r, fin]
         else:
-            r = ['#', fin]
+            r = ['', fin]
             return r
     except:
-        r = ['#', 0]
+        r = ['', 0]
         return r
 
 
@@ -83,16 +83,18 @@ driver.get("https://www.izzi.mx/webApps/entretenimiento/guia")
 time.sleep(2)
 
 
-def lee_horarios():
+def lee_horarios(canal):
     global texto
     global linea
     try:
-        lista_horarios = driver.find_element_by_xpath(
-            f"/html/body/main/section/div/div/div[2]/div[2]/div/div/div[2]/div[2]/ul/li[{linea}]").get_attribute('outerHTML')
+        xpath = f"/html/body/main/section/div/div/div[2]/div[2]/div/div/div[2]/div[2]/ul/li[{linea}]"
+        lista_horarios = driver.find_element(
+            by=By.XPATH, value=xpath).get_attribute('outerHTML')
         linea = linea+1
         salida = 1
 
         while(salida > 0):
+            texto = texto+'<programme channel="'+canal+'_la"'
             resultado = extrae(lista_horarios, 'data-duracion="', '"')
             lista_horarios = lista_horarios[resultado[1]:]
             horarios.append(resultado[0])
@@ -108,19 +110,24 @@ def lee_horarios():
                     lista_horarios, '<p class="fw-medium">', '</p>')
                 lista_horarios = lista_horarios[resultado[1]:]
                 start_stop = cambio_hora(datetime.now(), resultado[0], '+0500')
-                resultado = extrae(lista_horarios, '<img data-src="', '"')
+                img = extrae(lista_horarios, '<img data-src="', '"')
                 lista_horarios = lista_horarios[resultado[1]:]
                 horarios.append(resultado[0])
                 desc = extrae(lista_horarios, '<p>', '</p>')[0]
                 lista_horarios = lista_horarios[resultado[1]:]
                 horarios.append(resultado[0])
+                resultado = extrae(lista_horarios, 'program-langs', '">')
+                lista_horarios = lista_horarios[resultado[1]:]
+                pass
 
-            if resultado[1] > 0:
+            texto = texto+start_stop+'<title>'+title + \
+                '</title>\n'+'<desc>'+desc+'</desc>\n</programme>\n'
+
+            if len(lista_horarios) > 150:
                 salida = 1
             else:
                 salida = 0
-        texto = texto+start_stop+'<title>'+title + \
-            '</title>\n'+'<desc>'+desc+'</desc>\n</programme>\n'
+
         pass
 
     except:
@@ -135,56 +142,34 @@ salida = 1
 while(salida > 0):
     resultado = extrae(lista_canales, '<img src="', '"')
     lista_canales = lista_canales[resultado[1]:]
-    #canal_id = resultado[0]
+    logo = 'https://www.izzi.mx'+resultado[0]
     #texto = texto+'<channel id ="'+canal_id+'">\n'
-    canal.append(resultado[0].replace('"', ''))
+    #canal.append(resultado[0].replace('"', ''))
     if resultado[1] > 0:
         resultado = extrae(lista_canales, 'alt="', '"')
-        canal_id = resultado[0]+'_la'
-        texto = texto+'<channel id ="'+canal_id+'">\n'
+        canal_id = resultado[0]
+        canal.append(canal_id)
+        texto = texto+'<channel id = "'+canal_id.replace('&amp;', ' y ')+'_la">\n<display-name >' + \
+            canal_id+'</display-name >\n</channel>\n'
         lista_canales = lista_canales[resultado[1]:]
-        texto = texto+'<display-name>' + \
-            resultado[0]+'</display-name>\n</channel>\n'
-        canal.append(resultado[0].replace('"', ''))
-    if resultado[1] > 0:
+
+        resultado = extrae(lista_canales, '</l', '>')
+        lista_canales = lista_canales[resultado[1]:]
+
+    if len(lista_canales) > 8:
         salida = 1
     else:
         salida = 0
     #texto = texto+'<channel id ="'+canal_id+'">\n'
     #texto = texto+'<display-name>' + resultado[0]+'</display-name>\n</channel>\n'
-    texto = texto+'<programme channel="'+resultado[0]+'_la"'
+    #texto = texto+'<programme channel="'+resultado[0]+'_la"'
     canales.append(canal)
     canal = []
-    lee_horarios()
 
+# lee_horarios()
+for can in canales:
 
-def recorre_especialidad(txt_especialidad, espera):
-    try:
-        mi_caja_especialidad = driver.find_element_by_xpath(
-            '//*[@id="select2-slEspecialidades-container"]')
-        mi_caja_especialidad.click()
-        mi_caja_imput = driver.find_element_by_xpath(
-            '/html/body/span/span/span[1]/input')
-        mi_caja_imput.send_keys(txt_especialidad)
-        mi_caja_imput.send_keys(Keys.ENTER)
-        time.sleep(3)
-        # print(driver.page_source)
-        mi_dd_lista = driver.find_element_by_xpath(
-            '//*[@id="select2-slEspecialidades-results"]/li[1]/ul/li[1]')
-        mi_dd_lista.click()
-        boton = driver.find_element_by_xpath('//button[@name="action"]')
-        boton.click()
-        time.sleep(espera)
-        #print('a cargar')
-        #element_present = EC.visibility_of_element_located((By.xpath, '//*[@id="tableTurnos"]/tbody'))
-        #print (element_present.locator )
-        #WebDriverWait(driver, 200).until(element_present)
-        tb_tabla = driver.find_element_by_xpath('//*[@id="tableTurnos"]/tbody')
-        tabla = tb_tabla.get_attribute('innerHTML')
-        return tabla
-    except:
-        #        print ("error al cargar: " +txt_especialidad)
-        return txt_especialidad
+    lee_horarios(can[0])
 
 
 driver.close()

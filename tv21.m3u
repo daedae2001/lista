@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 channel-id="ESAJ45000181E" tvg-id="ESAJ45000181E" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/ESAJ45000181E_20220323T081350.png" group-title="00_Películas" ,Acción - Rakuten TV_ 
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=427&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="ae 2" tvg-id="ae 2" tvg-logo="https://rndserv.xyz/images/AMC.png" group-title="00_Películas" ,ae 2 
+#EXTINF:-1 channel-id="A y E_la" tvg-id="A y E_la" tvg-logo="https://rndserv.xyz/images/AMC.png" group-title="00_Películas" ,A y E_la 
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 #EXTINF:-1 channel-id="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="00_Películas" ,CINEMAX 
 http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8

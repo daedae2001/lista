@@ -6,6 +6,7 @@ mylist = [["es.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/mas
           ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx'],
           ["smes.xml", 'https://i.mjh.nz/SamsungTVPlus/es.xml', ''],
           ["mv.xml", 'http://tropical.jungle-team.online/epg/koala3.xml', '']]
+mylist_locales = [["aizzi.xml", 'aizzi.xml', '']]
 
 i = 1
 primera = ""
@@ -48,6 +49,11 @@ for x in mylist:
         #primera = primera[otras.find('<channel id="'):len(otras)]
 
     i = i+1
+locales = open(mylist_locales[0][1], "r")
+otras = locales.read()
+locales.close
+primera = insertar_texto(primera, otras)
+
 f = open('todo.xml', 'w', encoding="utf8")
 f.write(primera)
 f.close()
