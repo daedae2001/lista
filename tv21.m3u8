@@ -195,7 +195,7 @@ http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1  channel-id="24H"   tvg-id=""   tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"   group-title="03_TDT"   ,24H  
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-#EXTINF:-1  channel-id="ARAGONTV"   tvg-id="ARAGONTV"   tvg-logo="https://n9.cl/uh8a7"   group-title="03_TDT"   ,ARAGONTV  
+#EXTINF:-1  channel-id="ARAGON TV INT"   tvg-id="ARAGON TV INT"   tvg-logo="https://n9.cl/uh8a7"   group-title="03_TDT"   ,ARAGON TV INT  
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1  channel-id="La 1"   tvg-id=""   tvg-logo="https://rndserv.xyz/images/trece.png"   group-title="03_TDT"   ,EL TRECE  
 https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
