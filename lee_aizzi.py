@@ -1,5 +1,7 @@
 import time
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -115,7 +117,7 @@ def lee_horarios(canal):
                 lista_horarios = lista_horarios[resultado[1]:]
                 horarios.append(resultado[0])
                 desc = extrae(
-                    lista_horarios, '<p>', '</p>')[0].replace('<span class="bold program-label">', '').replace('<span class="bold program-label">Actores:</span> ', '').replace('span class="program-content">', '')
+                    lista_horarios, '<p>', '</p>')[0].replace('<span class="bold program-label">', '').replace('<span class="bold program-label">Actores:</span> ', '').replace('<span class="program-content">', '').replace('</span>', '')
                 lista_horarios = lista_horarios[resultado[1]:]
                 horarios.append(resultado[0])
                 resultado = extrae(lista_horarios, 'program-langs', '">')
@@ -138,8 +140,9 @@ def lee_horarios(canal):
 
 # d0.click()
 # time.sleep(1)
-lista_canales = driver.find_element_by_xpath(
-    "/html/body/main/section/div/div/div[2]/div[2]/div/div/div[2]/div[1]/ul").get_attribute('outerHTML')
+xpath = "/html/body/main/section/div/div/div[2]/div[2]/div/div/div[2]/div[1]/ul"
+lista_canales = driver.find_element(
+    by=By.XPATH, value=xpath).get_attribute('outerHTML')
 salida = 1
 while(salida > 0):
     resultado = extrae(lista_canales, '<img src="', '"')
@@ -177,5 +180,5 @@ for can in canales:
 
 driver.close()
 f = open('aizzi.xml', 'w')
-f.write(texto)
+f.write(texto.replace('<desc></desc>', '<desc>nn</desc>'))
 f.close
