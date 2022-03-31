@@ -1,1586 +1,1141 @@
-<channel id ="LAS ESTRELLAS">
-<display-name>LAS ESTRELLAS</display-name>
+<channel id ="Azteca uno_la">
+<display-name>Azteca uno</display-name>
 </channel>
-<programme channel="LAS ESTRELLAS" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Azteca uno_la" start ="20220331020000 +0500" stop="20220401033000 +0500">
+<title>Al extremo</title>
+<desc>Nueva temporada, en la que veinte de los atletas finalistas y semifinalistas de temporadas pasadas compiten por demostrar quién es el mejor.</desc>
 </programme>
-<channel id ="LAS ESTRELLAS">
-<display-name>LAS ESTRELLAS</display-name>
+<channel id ="Azteca uno_la">
+<display-name>Azteca uno</display-name>
 </channel>
-<programme channel="LAS ESTRELLAS" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Azteca uno_la" start ="20220331053000 +0500" stop="20220331063000 +0500">
+<title>La rosa de Guadalupe</title>
+<desc>Severiano del Monte vive con sus cinco hijos adoptivos, pero ante un fallecimiento, la vida de sus hijos cambia el día de la lectura del testamento, con la aparición inesperada de Sara, su hermana, de quien no sabían su existencia.</desc>
 </programme>
-<channel id ="Canal 5">
+<channel id ="LAS ESTRELLAS -2hr_la">
+<display-name>LAS ESTRELLAS -2hr</display-name>
+</channel>
+<programme channel="LAS ESTRELLAS -2hr_la" start ="20220331030000 +0500" stop="20220331040000 +0500">
+<title>Los héroes del norte</title>
+<desc>Show de improvisación protagonizado por Faisy y su disfuncional familia.</desc>
+</programme>
+<channel id ="LAS ESTRELLAS -2hr_la">
+<display-name>LAS ESTRELLAS -2hr</display-name>
+</channel>
+<programme channel="LAS ESTRELLAS -2hr_la" start ="20220331060000 +0500" stop="20220331063000 +0500">
+<title>Ciencias Naturales</title>
+<desc>Un programa en el cual se muestran los valores, culturas, tradiciones y lugares de cada uno de los estados de México.</desc>
+</programme>
+<channel id ="Canal 5_la">
 <display-name>Canal 5</display-name>
 </channel>
-<programme channel="Canal 5" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Canal 5_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Quiero noticias</title>
+<desc>Diversión, música, entrevistas y presentaciones de bandas y cantantes.</desc>
 </programme>
-<channel id ="Canal 5">
+<channel id ="Canal 5_la">
 <display-name>Canal 5</display-name>
 </channel>
-<programme channel="Canal 5" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Canal 5_la" start ="20220331060000 +0500" stop="20220331064500 +0500">
+<title>Azucena a las 10</title>
+<desc>Resúmenes, análisis y todo sobre los deportes favoritos de los televidentes.</desc>
 </programme>
-<channel id ="Once TV">
+<channel id ="Once TV_la">
 <display-name>Once TV</display-name>
 </channel>
-<programme channel="Once TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Once TV_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Fórmula Financiera</title>
+<desc>La información más destacada y las últimas novedades de la actualidad.</desc>
 </programme>
-<channel id ="Once TV">
+<channel id ="Once TV_la">
 <display-name>Once TV</display-name>
 </channel>
-<programme channel="Once TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Once TV_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Largo aliento</title>
+<desc>Un reportero deportivo tiene que descubrir la verdad detrás del conocido luchador "El Ángel Enmascarado".</desc>
 </programme>
-<channel id ="Milenio">
+<channel id ="Ocho TV_la">
+<display-name>Ocho TV</display-name>
+</channel>
+<programme channel="Ocho TV_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Gutfeld!</title>
+<desc>FOX News at Night, which is anchored by Shannon Bream, is a live hour of hard news and an analysis of the most compelling stories from Washington and across the country.</desc>
+</programme>
+<channel id ="Ocho TV_la">
+<display-name>Ocho TV</display-name>
+</channel>
+<programme channel="Ocho TV_la" start ="20220331043000 +0500" stop="20220331063000 +0500">
+<title>Caso Cerrado: Edición Estelar</title>
+<desc>Dos mujeres completamente diferentes, pero que comparten un mismo destino trágico, se verán unidas después de la muerte. Una historia de misterio, amor y venganza, en la que dos almas ocuparán un mismo cuerpo para buscar justicia.</desc>
+</programme>
+<channel id ="Milenio_la">
 <display-name>Milenio</display-name>
 </channel>
-<programme channel="Milenio" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Milenio_la" start ="20220331043000 +0500" stop="20220331063000 +0500">
+<title>Caso Cerrado: Edición Estelar</title>
+<desc>Dos mujeres completamente diferentes, pero que comparten un mismo destino trágico, se verán unidas después de la muerte. Una historia de misterio, amor y venganza, en la que dos almas ocuparán un mismo cuerpo para buscar justicia.</desc>
 </programme>
-<channel id ="Milenio">
+<channel id ="Milenio_la">
 <display-name>Milenio</display-name>
 </channel>
-<programme channel="Milenio" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Milenio_la" start ="20220331060300 +0500" stop="20220331070000 +0500">
+<title>Dinero y poder</title>
+<desc>Un espacio para analizar los sucesos más importantes en materia de economía y política de México y el mundo.</desc>
 </programme>
-<channel id ="Telefórmula">
+<channel id ="Telefórmula_la">
 <display-name>Telefórmula</display-name>
 </channel>
-<programme channel="Telefórmula" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Telefórmula_la" start ="20220331060300 +0500" stop="20220331070000 +0500">
+<title>Dinero y poder</title>
+<desc>Un espacio para analizar los sucesos más importantes en materia de economía y política de México y el mundo.</desc>
 </programme>
-<channel id ="Telefórmula">
+<channel id ="Telefórmula_la">
 <display-name>Telefórmula</display-name>
 </channel>
-<programme channel="Telefórmula" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Telefórmula_la" start ="20220331063000 +0500" stop="20220331080000 +0500">
+<title>Telediario Matinal</title>
+<desc>Rápido y exhaustivo repaso de todas las noticias de interés general, tanto nacionales como internacionales y deportivas, la información de la bolsa y sorteos.</desc>
 </programme>
-<channel id ="Fox News">
+<channel id ="Una voz con todos_la">
+<display-name>Una voz con todos</display-name>
+</channel>
+<programme channel="Una voz con todos_la" start ="20220331060000 +0500" stop="20220331070000 +0500">
+<title>Ya lo dijo la corte</title>
+<desc>Programa sobre la identidad de género.</desc>
+</programme>
+<channel id ="Una voz con todos_la">
+<display-name>Una voz con todos</display-name>
+</channel>
+<programme channel="Una voz con todos_la" start ="20220331060000 +0500" stop="20220331073000 +0500">
+<title>La Línea Paterna</title>
+<desc>Una mirada al impacto que ha tenido la cinematografía en los individuos, una preservación de los recuerdos del hombre.</desc>
+</programme>
+<channel id ="Fox News_la">
 <display-name>Fox News</display-name>
 </channel>
-<programme channel="Fox News" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Fox News_la" start ="20220331063000 +0500" stop="20220331073000 +0500">
+<title>¿Quién está mintiendo? Terapia de shock</title>
+<desc>Una nueva temporada del único formato en la televisión mexicana dedicado a abordar temas psicológicos y relacionados con la sexualidad.</desc>
 </programme>
-<channel id ="Fox News">
+<channel id ="Fox News_la">
 <display-name>Fox News</display-name>
 </channel>
-<programme channel="Fox News" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Fox News_la" start ="20220331055000 +0500" stop="20220331064000 +0500">
+<title>Preso No. 1</title>
+<desc>Doña Alba es sometida a una cirugía, ha perdido mucha sangre y se debate entre la vida y la muerte. Aurelio sospecha que Matilde y el Chema están detrás. Ximena es condenada a prisión.</desc>
 </programme>
-<channel id ="Gala TV HD">
+<channel id ="Gala TV HD_la">
 <display-name>Gala TV HD</display-name>
 </channel>
-<programme channel="Gala TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Gala TV HD_la" start ="20220331052700 +0500" stop="20220331055500 +0500">
+<title>Los Simpson</title>
+<desc>El exagente de las fuerzas especiales de élite Bryan Millis se ve enredado en la trama de una organización criminal cuando intenta salvar a su hija Kim, pero solo tiene 96 horas para rescatarla antes de perder el rastro.</desc>
 </programme>
-<channel id ="Gala TV HD">
+<channel id ="Gala TV HD_la">
 <display-name>Gala TV HD</display-name>
 </channel>
-<programme channel="Gala TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Gala TV HD_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Informe capital</title>
+<desc>Se revisan los medios y su accionar en distintos temas de interés social y político, principalmente del país a través de investigaciones visuales y escritas, para poder llevar todo a una mesa de análisis y debate.</desc>
 </programme>
-<channel id ="Gala TV HD">
+<channel id ="Gala TV HD_la">
 <display-name>Gala TV HD</display-name>
 </channel>
-<programme channel="Gala TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Gala TV HD_la" start ="20220331022600 +0500" stop="20220331035800 +0500">
+<title>Furia en dos ruedas</title>
+<desc>Mientras las máquinas se preparan para un ataque final, John Connor y un extraño entran en el corazón de Skynet y descubren que va a haber una terrible masacre.</desc>
 </programme>
-<channel id ="Gala TV HD">
+<channel id ="Gala TV HD_la">
 <display-name>Gala TV HD</display-name>
 </channel>
-<programme channel="Gala TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Gala TV HD_la" start ="20220331051500 +0500" stop="20220331055000 +0500">
+<title>Harina</title>
+<desc>Un agente literario que habla demasiado rápido debe aprender a vivir sin discursos después de descubrir que solamente tiene mil palabras antes de morir.</desc>
 </programme>
-<channel id ="Once TV HD">
+<channel id ="Once TV HD_la">
 <display-name>Once TV HD</display-name>
 </channel>
-<programme channel="Once TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Once TV HD_la" start ="20220331042500 +0500" stop="20220331060000 +0500">
+<title>Hombres de negro II</title>
+<desc>Después de decidir vender su zoológico en la India y mudarse a Canadá, Santosh y Gita Patel viajan en un barco carguero con sus hijos y algunos animales. Una terrible tormenta hunde el barco, dejando a Pi, el hijo de los Patel, como el único sobreviviente humano. Sin embargo, Pi no está solo; un temible tigre de bengala lo acompaña en el bote salvavidas. Los días se vuelven semanas y meses, y Pi y el tigre deben aprender a confiar el uno en el otro para sobrevivir.</desc>
 </programme>
-<channel id ="Once TV HD">
+<channel id ="Once TV HD_la">
 <display-name>Once TV HD</display-name>
 </channel>
-<programme channel="Once TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Once TV HD_la" start ="20220331012400 +0500" stop="20220401041000 +0500">
+<title>2012</title>
+<desc>Después de que un desertor la acusa de espiar para los rusos, una agente de la CIA decide huir e intenta encontrar la forma de probar su inocencia.</desc>
 </programme>
-<channel id ="Once TV HD">
+<channel id ="Once TV HD_la">
 <display-name>Once TV HD</display-name>
 </channel>
-<programme channel="Once TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Once TV HD_la" start ="20220331042000 +0500" stop="20220331051200 +0500">
+<title>Justicia por mano propia</title>
+<desc>El antiguo portavoz de NXIVM analiza las circunstancias de las muertes de cuatro mujeres vinculadas a la secta creada por Keith Raniere, condenado por extorsión y explotación de personas con fines sexuales.</desc>
 </programme>
-<channel id ="Once TV HD">
+<channel id ="Once TV HD_la">
 <display-name>Once TV HD</display-name>
 </channel>
-<programme channel="Once TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Once TV HD_la" start ="20220331051000 +0500" stop="20220331060000 +0500">
+<title>Botched</title>
+<desc>El doctor Rey realiza cirugías para aumentar el tamaño de los bustos de las mamás Ana y Jackie.</desc>
 </programme>
-<channel id ="Canal 24 Horas">
+<channel id ="Canal 24 Horas_la">
 <display-name>Canal 24 Horas</display-name>
 </channel>
-<programme channel="Canal 24 Horas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Canal 24 Horas_la" start ="20220331052600 +0500" stop="20220331053000 +0500">
+<title>Cartografía feminista</title>
+<desc>Un programa con entrevistas, humor y música en vivo, todo en un set que evoca las viejas cabinas de radio de los años cuarenta y cincuenta.</desc>
 </programme>
-<channel id ="Canal 24 Horas">
+<channel id ="Canal 24 Horas_la">
 <display-name>Canal 24 Horas</display-name>
 </channel>
-<programme channel="Canal 24 Horas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Canal 24 Horas_la" start ="20220331030600 +0500" stop="20220331040400 +0500">
+<title>Hermanos a la obra: Un hogar para siempre</title>
+<desc>Dieciocho pequeños, llegados de todos los rincones de México, tendrán que demostrar sus dotes culinarias para obtener el título que los designará como el mejor niño cocinero del país.</desc>
 </programme>
-<channel id ="Telemundo">
+<channel id ="Canal Judicial_la">
+<display-name>Canal Judicial</display-name>
+</channel>
+<programme channel="Canal Judicial_la" start ="20220331040700 +0500" stop="20220331054900 +0500">
+<title>Todo en 90 días: ¿Felices por siempre?</title>
+<desc>Larissa se enfrenta a su cita final en la corte. Elizabeth se ocupa de las consecuencias de la explosión de Andrei. Asuelu se mantiene firme. A Colt le preocupa que su relación haya terminado.</desc>
+</programme>
+<channel id ="Canal Judicial_la">
+<display-name>Canal Judicial</display-name>
+</channel>
+<programme channel="Canal Judicial_la" start ="20220331065300 +0500" stop="20220331083700 +0500">
+<title>Trainspotting</title>
+<desc>Unos jóvenes de Edimburgo mantienen una dependencia intermitente a la heroína. Basado en la novela de Irvine Welsh.</desc>
+</programme>
+<channel id ="Teveunam_la">
+<display-name>Teveunam</display-name>
+</channel>
+<programme channel="Teveunam_la" start ="20220331050000 +0500" stop="20220331053000 +0500">
+<title>Happy &amp; Zen</title>
+<desc>Entrevistas exclusivas con los artistas del momento, glamour, moda, lujo sobre la farándula internacional y la realeza.</desc>
+</programme>
+<channel id ="Teveunam_la">
+<display-name>Teveunam</display-name>
+</channel>
+<programme channel="Teveunam_la" start ="20220331053000 +0500" stop="20220331070000 +0500">
+<title>La Familia Peluche</title>
+<desc>Una familia que trata con los conflictos y problemas de la vida diaria pero en forma cómica y exagerada con la particularidad que viven en una ciudad que está edificada en su totalidad de peluche y con todos los accesorios de peluche.</desc>
+</programme>
+<channel id ="Unicable_la">
+<display-name>Unicable</display-name>
+</channel>
+<programme channel="Unicable_la" start ="20220331050000 +0500" stop="20220331053000 +0500">
+<title>Hitlist</title>
+<desc>A playlist includes videos of the nominees and performers of the EMA's.</desc>
+</programme>
+<channel id ="Unicable_la">
+<display-name>Unicable</display-name>
+</channel>
+<programme channel="Unicable_la" start ="20220331034900 +0500" stop="20220401060000 +0500">
+<title>El bebé de Bridget Jones</title>
+<desc>La vida de Ray Charles, un niño pobre y ciego que fue capaz de cambiar el curso de la música estadounidense cuando decidió cruzar el país para entrar en la escena de jazz de Seattle.</desc>
+</programme>
+<channel id ="Telemundo_la">
 <display-name>Telemundo</display-name>
 </channel>
-<programme channel="Telemundo" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Telemundo_la" start ="20220331063000 +0500" stop="20220331083000 +0500">
+<title>Los agentes del destino</title>
+<desc>Justo cuando está a punto de ganar un lugar en el senado, el político David Norris conoce a una bailarina llamada Elise Sellas. A pesar de que David está herido, hombres misteriosos conspiran para mantenerlo lejos de la hermosa bailarina. David descubre que está frente a los agentes de Fate y, pensando en su futuro, tendrá que aceptar un camino sin Elise, o desafiar a Fate para estar con ella.</desc>
 </programme>
-<channel id ="Telemundo">
+<channel id ="Telemundo_la">
 <display-name>Telemundo</display-name>
 </channel>
-<programme channel="Telemundo" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Telemundo_la" start ="20220331040000 +0500" stop="20220331050000 +0500">
+<title>Throwback Thursday</title>
+<desc>Rap, R&amp;B, hip-hop, and soul music.</desc>
 </programme>
-<channel id ="Fox Channel">
+<channel id ="Fox Channel_la">
 <display-name>Fox Channel</display-name>
 </channel>
-<programme channel="Fox Channel" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Fox Channel_la" start ="20220331043100 +0500" stop="20220331065100 +0500">
+<title>Marco</title>
+<desc>Un equipo de periodistas, encabezados por Gloria Serra, conducen reportajes sobre diversos temas de interés social.</desc>
 </programme>
-<channel id ="Fox Channel">
+<channel id ="Fox Channel_la">
 <display-name>Fox Channel</display-name>
 </channel>
-<programme channel="Fox Channel" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Fox Channel_la" start ="20220331063000 +0500" stop="20220331065000 +0500">
+<title>Polo rego</title>
+<desc>Las presentadoras Vilma, Joanna Ruby y Anette en una hora llena de mucha información.</desc>
 </programme>
-<channel id ="Sony">
-<display-name>Sony</display-name>
+<channel id ="Capital 21_la">
+<display-name>Capital 21</display-name>
 </channel>
-<programme channel="Sony" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Capital 21_la" start ="20220331040000 +0500" stop="20220331050000 +0500">
+<title>Análisis superior</title>
+<desc>Se entiende que al cierre del día se necesita estar bien informado, por eso se presenta la nota y la recopilación de los acontecimientos más importantes de la jornada en una versión audaz y divertida, sin tapujos.</desc>
 </programme>
-<channel id ="Sony">
-<display-name>Sony</display-name>
+<channel id ="Capital 21_la">
+<display-name>Capital 21</display-name>
 </channel>
-<programme channel="Sony" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Capital 21_la" start ="20220331060000 +0500" stop="20220331061500 +0500">
+<title>DW Noticias</title>
+<desc>La última información económica de Alemania, Europa y América Latina.</desc>
 </programme>
-<channel id ="Comedy Central ">
+<channel id ="Warner_la">
+<display-name>Warner</display-name>
+</channel>
+<programme channel="Warner_la" start ="20220331053000 +0500" stop="20220331060000 +0500">
+<title>Noches de ensueño</title>
+<desc>Una combinación de música suave e imágenes para que los pequeños de la casa estén listos para dormir.</desc>
+</programme>
+<channel id ="Warner_la">
+<display-name>Warner</display-name>
+</channel>
+<programme channel="Warner_la" start ="20220331063800 +0500" stop="20220331064600 +0500">
+<title>Mi perro Pat</title>
+<desc>Papá necesita un escenario helado para su sesión de fotos, pero está en medio de una crisis creativa. Gigio y Zoe le piden ayuda a Bob, quien obviamente tiene la solución: el Ice Boom, una máquina capaz de congelar cualquier cosa.</desc>
+</programme>
+<channel id ="Comedy Central _la">
 <display-name>Comedy Central </display-name>
 </channel>
-<programme channel="Comedy Central " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Comedy Central _la" start ="20220331063900 +0500" stop="20220331064400 +0500">
+<title>Miau</title>
+<desc>Cinco jóvenes, que luchan contra el crimen en Jump City, viven aventuras y conflictos causados por villanos o por ellos mismos.</desc>
 </programme>
-<channel id ="Comedy Central ">
+<channel id ="Comedy Central _la">
 <display-name>Comedy Central </display-name>
 </channel>
-<programme channel="Comedy Central " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Comedy Central _la" start ="20220331053000 +0500" stop="20220331060000 +0500">
+<title>Henry Danger</title>
+<desc>La novia de Max hace una audición para una obra romántica, y esto a Max le pone nervioso porque el actor protagonista es muy guapo. Para solucionarlo, convence a Phoebe de que se presente a la audición y le arrebate el papel a su novia.</desc>
 </programme>
-<channel id ="AXN">
-<display-name>AXN</display-name>
+<channel id ="FX_la">
+<display-name>FX</display-name>
 </channel>
-<programme channel="AXN" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="FX_la" start ="20220331061000 +0500" stop="20220331070000 +0500">
+<title>Los caballeros del Zodiaco: La saga de Hades - Capítulo Santuario</title>
+<desc>Luego de más de 200 años de la guerra santa entre Atenea y Hades, 108 Espectros son liberados.</desc>
 </programme>
-<channel id ="AXN">
-<display-name>AXN</display-name>
+<channel id ="FX_la">
+<display-name>FX</display-name>
 </channel>
-<programme channel="AXN" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="FX_la" start ="20220331063000 +0500" stop="20220331070000 +0500">
+<title>Holly Hobbie</title>
+<desc>Holly intenta que Amy se sienta celosa al llevar a Tyler para que la ayuda a pintar un mural por el bicentenario de la ciudad.</desc>
 </programme>
-<channel id ="E! Entertainment">
+<channel id ="Space_la">
+<display-name>Space</display-name>
+</channel>
+<programme channel="Space_la" start ="20220331065800 +0500" stop="20220331072400 +0500">
+<title>Marvel Spider-Man</title>
+<desc>Spiderman Superior enfrenta a Venom, su rival más exigente. Venom escapa y ataca Midtown High para vengarse de Peter Parker.</desc>
+</programme>
+<channel id ="Space_la">
+<display-name>Space</display-name>
+</channel>
+<programme channel="Space_la" start ="20220331040000 +0500" stop="20220331050000 +0500">
+<title>Kids' Choice Awards Spotlight</title>
+<desc>null</desc>
+</programme>
+<channel id ="Investigation Discovery_la">
+<display-name>Investigation Discovery</display-name>
+</channel>
+<programme channel="Investigation Discovery_la" start ="20220331065000 +0500" stop="20220331070100 +0500">
+<title>Pier-No-Doyuna y Patán</title>
+<desc>El villano Nodoyuna y su compañero canino, Patán, llevan sus travesuras destructivas de los caminos a los cielos y su misión es evitar que el Palomo Yankee Doodle entregue cualquiera de los mensajes urgentes que contiene su bolsa.</desc>
+</programme>
+<channel id ="Investigation Discovery_la">
+<display-name>Investigation Discovery</display-name>
+</channel>
+<programme channel="Investigation Discovery_la" start ="20220331040000 +0500" stop="20220331050000 +0500">
+<title>Cinescape</title>
+<desc>Todo lo que es necesario saber acerca del acontecer diario del Estado de México, el país y el mundo. Además, la opinión de los especialistas.</desc>
+</programme>
+<channel id ="E! Entertainment_la">
 <display-name>E! Entertainment</display-name>
 </channel>
-<programme channel="E! Entertainment" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="E! Entertainment_la" start ="20220331062400 +0500" stop="20220331065000 +0500">
+<title>Hospital de pingüinos</title>
+<desc>Un pingüino silvestre recibe tratamiento para una herida de vida o muerte, dos habitantes de la casa entran en una lucha desagradable y uno de los residentes de largo plazo celebra una ocasión especial.</desc>
 </programme>
-<channel id ="E! Entertainment">
+<channel id ="E! Entertainment_la">
 <display-name>E! Entertainment</display-name>
 </channel>
-<programme channel="E! Entertainment" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="E! Entertainment_la" start ="20220331055500 +0500" stop="20220331065200 +0500">
+<title>Gordon, Gino y Fred</title>
+<desc>El experto en sabor de helado de Cold Stone tiene el mejor trabajo de todos. Una deliciosas galletas de mantequilla que nacieron en Francia. Croquetas de cangrejo que parecen caseras de Pike Place, en Seattle.</desc>
 </programme>
-<channel id ="Canal 22">
+<channel id ="Canal 22_la">
 <display-name>Canal 22</display-name>
 </channel>
-<programme channel="Canal 22" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Canal 22_la" start ="20220331065000 +0500" stop="20220331073700 +0500">
+<title>Los depredadores más peligrosos de África</title>
+<desc>En toda África, los depredadores se han adaptado a algunas de las armas más letales de la Tierra.</desc>
 </programme>
-<channel id ="Canal 22">
+<channel id ="Canal 22_la">
 <display-name>Canal 22</display-name>
 </channel>
-<programme channel="Canal 22" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Canal 22_la" start ="20220331063600 +0500" stop="20220331072400 +0500">
+<title>Outrageous Acts of Science</title>
+<desc>Un hombre con los ojos vendados atrapa una flecha; osos grizzly prueban productos; dos personas saltan a un avión.</desc>
 </programme>
-<channel id ="Distrito Comedia">
+<channel id ="Discovery Home &amp; Health_la">
+<display-name>Discovery Home &amp; Health</display-name>
+</channel>
+<programme channel="Discovery Home &amp; Health_la" start ="20220331060000 +0500" stop="20220331070000 +0500">
+<title>Enamórate</title>
+<desc>Consejos sobre los temas más importantes sobre la familia bajo la enseñanza de la palabra de Dios.</desc>
+</programme>
+<channel id ="Discovery Home &amp; Health_la">
+<display-name>Discovery Home &amp; Health</display-name>
+</channel>
+<programme channel="Discovery Home &amp; Health_la" start ="20220331063000 +0500" stop="20220331065500 +0500">
+<title>Ciencias Naturales</title>
+<desc>Programa de activación física.</desc>
+</programme>
+<channel id ="TLC_la">
+<display-name>TLC</display-name>
+</channel>
+<programme channel="TLC_la" start ="20220331052600 +0500" stop="20220331053000 +0500">
+<title>Cartografía feminista</title>
+<desc>Un programa con entrevistas, humor y música en vivo, todo en un set que evoca las viejas cabinas de radio de los años cuarenta y cincuenta.</desc>
+</programme>
+<channel id ="TLC_la">
+<display-name>TLC</display-name>
+</channel>
+<programme channel="TLC_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Contacto deportivo</title>
+<desc>Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<channel id ="A&amp;E_la">
+<display-name>A&amp;E</display-name>
+</channel>
+<programme channel="A&amp;E_la" start ="20220331061500 +0500" stop="20220331080000 +0500">
+<title>Fútbol Español femenino Primera División</title>
+<desc>Acción de la temporada 2021-2022. Real Madrid enfrenta a Levante. Desde el estadio Alfredo Di Stefano.</desc>
+</programme>
+<channel id ="A&amp;E_la">
+<display-name>A&amp;E</display-name>
+</channel>
+<programme channel="A&amp;E_la" start ="20220331045000 +0500" stop="20220331070000 +0500">
+<title>Fútbol Mexicano Femenino Primera División</title>
+<desc>Acción de la Jornada 14 del Clausura 2022 de la Liga MX Femenil. León recibe a Cruz Azul. Desde el estadio León.</desc>
+</programme>
+<channel id ="Hola TV_la">
+<display-name>Hola TV</display-name>
+</channel>
+<programme channel="Hola TV_la" start ="20220331030000 +0500" stop="20220331060000 +0500">
+<title>UFC Fight Night: Blaydes vs. Daukaus</title>
+<desc>Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.</desc>
+</programme>
+<channel id ="Hola TV_la">
+<display-name>Hola TV</display-name>
+</channel>
+<programme channel="Hola TV_la" start ="20220331060000 +0500" stop="20220331080000 +0500">
+<title>Tenis ATP</title>
+<desc>Cuartos de final del torneo de categoría ATP Masters 1000. Desde Miami, en Florida.</desc>
+</programme>
+<channel id ="Distrito Comedia_la">
 <display-name>Distrito Comedia</display-name>
 </channel>
-<programme channel="Distrito Comedia" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Distrito Comedia_la" start ="20220331060000 +0500" stop="20220331075400 +0500">
+<title>John Wick</title>
+<desc>John Wick, un exasesino a sueldo, se enfrenta al mafioso Viggo Tarazov, quien ofrece una recompensa a aquel que logre acabar con la vida de Wick.</desc>
 </programme>
-<channel id ="Distrito Comedia">
+<channel id ="Distrito Comedia_la">
 <display-name>Distrito Comedia</display-name>
 </channel>
-<programme channel="Distrito Comedia" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Distrito Comedia_la" start ="20220331040000 +0500" stop="20220401055500 +0500">
+<title>Alquiler de padrinos</title>
+<desc>Debido a un tremendo error que cometió, Teddy, un vendedor exitoso, se ve obligado a asistir a la escuela nocturna para obtener el diploma de Educación General Básica. Allí, Teddy convivirá con compañeros ineptos y una profesora un tanto agresiva.</desc>
 </programme>
-<channel id ="Telehit">
-<display-name>Telehit</display-name>
+<channel id ="MTV Hits_la">
+<display-name>MTV Hits</display-name>
 </channel>
-<programme channel="Telehit" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="MTV Hits_la" start ="20220331025700 +0500" stop="20220401045000 +0500">
+<title>No manches Frida 2</title>
+<desc>Máximo se lleva una sorpresa cuando su acaudalada y anciana esposa le abandona por otro hombre más joven, pero conoce a otra millonaria, la atractiva Sara, y trama un plan para enamorarla, ganarse el afecto de su hijo, y poder volver a vivir de las mujeres, sin tener que trabajar.</desc>
 </programme>
-<channel id ="Telehit">
-<display-name>Telehit</display-name>
+<channel id ="MTV Hits_la">
+<display-name>MTV Hits</display-name>
 </channel>
-<programme channel="Telehit" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="MTV Hits_la" start ="20220331041000 +0500" stop="20220331052000 +0500">
+<title>La guerra ha terminado</title>
+<desc>Salvatore es un niño de un pueblo italiano, donde el único pasatiempo es ir al cine y Salvatore crece creyendo que el cine es magia.</desc>
 </programme>
-<channel id ="MTV">
-<display-name>MTV</display-name>
+<channel id ="Fox Life _la">
+<display-name>Fox Life </display-name>
 </channel>
-<programme channel="MTV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Fox Life _la" start ="20220331053500 +0500" stop="20220331060900 +0500">
+<title>Hard</title>
+<desc>Sofia acepta la propuesta de Satoru. Nobu, el empleado de Satoru, toma el control del póquer. Sofía se va de vacaciones con Marcella. Lucía hace una audición para la nueva película del Ministro.</desc>
 </programme>
-<channel id ="MTV">
-<display-name>MTV</display-name>
+<channel id ="Fox Life _la">
+<display-name>Fox Life </display-name>
 </channel>
-<programme channel="MTV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Fox Life _la" start ="20220331041100 +0500" stop="20220331060100 +0500">
+<title>La purga por siempre</title>
+<desc>Seis personas se encuentran repentinamente atrapadas en distintas habitaciones y, poco a poco, van descubriendo qué tienen en común para sobrevivir.</desc>
 </programme>
-<channel id ="VH1">
-<display-name>VH1</display-name>
+<channel id ="SyFy_la">
+<display-name>SyFy</display-name>
 </channel>
-<programme channel="VH1" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="SyFy_la" start ="20220331060000 +0500" stop="20220331083000 +0500">
+<title>Rápidos y furiosos 9</title>
+<desc>Dom Toretto vive una vida tranquila junto a Letty y su hijo, pero el peligro siempre regresa a su vida. En esta ocasión, el equipo se enfrenta a un complot mundial orquestado por el asesino más temible del mundo: el hermano de Dom.</desc>
 </programme>
-<channel id ="VH1">
-<display-name>VH1</display-name>
+<channel id ="SyFy_la">
+<display-name>SyFy</display-name>
 </channel>
-<programme channel="VH1" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="SyFy_la" start ="20220331060000 +0500" stop="20220331073600 +0500">
+<title>Masacre en Texas: El inicio</title>
+<desc>En 1969, tras un accidente de tránsito, un grupo de amigos es arrastrado por un sheriff texano hasta la casa de la familia Hewitt para ser torturados.</desc>
 </programme>
-<channel id ="TBS Very Funny">
-<display-name>TBS Very Funny</display-name>
+<channel id ="MTV Dance_la">
+<display-name>MTV Dance</display-name>
 </channel>
-<programme channel="TBS Very Funny" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="MTV Dance_la" start ="20220331035000 +0500" stop="20220331060000 +0500">
+<title>Pasante de moda</title>
+<desc>En su primer aniversario, el chef Tom Solomon planea una sorpresa para su novia, Violet Barnes, con un anillo de compromiso. Los enamorados terminan comprometidos, pero el hecho de que la propuesta no resulta exactamente como lo planearon supone un presagio de lo que vendrá. Cada vez que ellos intentan establecer una fecha, se cruzan varios obstáculos. Al pasar más y más tiempo, Tom y Violet se preguntan si el matrimonio está destinado para ellos.</desc>
 </programme>
-<channel id ="TBS Very Funny">
-<display-name>TBS Very Funny</display-name>
+<channel id ="MTV Dance_la">
+<display-name>MTV Dance</display-name>
 </channel>
-<programme channel="TBS Very Funny" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="MTV Dance_la" start ="20220331053000 +0500" stop="20220331061300 +0500">
+<title>La suerte de Loli</title>
+<desc>Malverde reclama al gobernador por dar privilegios, sin medir las consecuencias. Nazario, su hermano preso, espera por su rescate y Quiñones recibe un par de sorpresas.</desc>
 </programme>
-<channel id ="Antena 3">
+<channel id ="Antena 3_la">
 <display-name>Antena 3</display-name>
 </channel>
-<programme channel="Antena 3" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Antena 3_la" start ="20220331053600 +0500" stop="20220331073000 +0500">
+<title>Extraordinario</title>
+<desc>August es un niño que nació con un problema de deformidad facial. Esto ha impedido que hasta quinto curso asista a la escuela pública, pero ha llegado el momento de que lo haga. Integrarse no va a ser fácil, pero August pondrá todo su empeño.</desc>
 </programme>
-<channel id ="Antena 3">
+<channel id ="Antena 3_la">
 <display-name>Antena 3</display-name>
 </channel>
-<programme channel="Antena 3" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Antena 3_la" start ="20220331020000 +0500" stop="20220401033000 +0500">
+<title>Al extremo</title>
+<desc>Nueva temporada, en la que veinte de los atletas finalistas y semifinalistas de temporadas pasadas compiten por demostrar quién es el mejor.</desc>
 </programme>
-<channel id ="TV Galicia">
+<channel id ="TV Galicia_la">
 <display-name>TV Galicia</display-name>
 </channel>
-<programme channel="TV Galicia" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="TV Galicia_la" start ="20220331063000 +0500" stop="20220331073000 +0500">
+<title>Es la hora de opinar</title>
+<desc>Se analizan y debaten temas de coyuntura del acontecer nacional e internacional, con colaboradores reconocidos en el círculo rojo.</desc>
 </programme>
-<channel id ="TV Galicia">
+<channel id ="TV Galicia_la">
 <display-name>TV Galicia</display-name>
 </channel>
-<programme channel="TV Galicia" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="TV Galicia_la" start ="20220331063000 +0500" stop="20220331073000 +0500">
+<title>S.W.A.T.</title>
+<desc>Un teniente de policía se debate entre la fidelidad al cuerpo y la vinculación que mantiene con los amigos junto a los que creció en las calles más duras de Los Ángeles, para quienes, a menudo, la policía es el enemigo.</desc>
 </programme>
-<channel id ="Excélsior TV">
+<channel id ="Excélsior TV_la">
 <display-name>Excélsior TV</display-name>
 </channel>
-<programme channel="Excélsior TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Excélsior TV_la" start ="20220331053000 +0500" stop="20220331060000 +0500">
+<title>Infocable</title>
+<desc>null</desc>
 </programme>
-<channel id ="Excélsior TV">
+<channel id ="Excélsior TV_la">
 <display-name>Excélsior TV</display-name>
 </channel>
-<programme channel="Excélsior TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Excélsior TV_la" start ="20220331062600 +0500" stop="20220331063000 +0500">
+<title>Cartografía feminista</title>
+<desc>null</desc>
 </programme>
-<channel id ="Baby TV">
+<channel id ="Deutsche Welle_la">
+<display-name>Deutsche Welle</display-name>
+</channel>
+<programme channel="Deutsche Welle_la" start ="20220331050000 +0500" stop="20220331053000 +0500">
+<title>Let's Go</title>
+<desc>Se presenta una opción para el saber vivir y vivir bien, sin dejar de lado el análisis de temas de actualidad de la mano de especialistas en diversos campos.</desc>
+</programme>
+<channel id ="Deutsche Welle_la">
+<display-name>Deutsche Welle</display-name>
+</channel>
+<programme channel="Deutsche Welle_la" start ="20220331060500 +0500" stop="20220331063800 +0500">
+<title>Centro médico</title>
+<desc>Programa que presenta dos casos médicos basados en hechos reales. Utilizando el formato del documental de ficción, cinco médicos y dos enfermeras irán indagando en cada caso.</desc>
+</programme>
+<channel id ="Baby TV_la">
 <display-name>Baby TV</display-name>
 </channel>
-<programme channel="Baby TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Baby TV_la" start ="20220331050000 +0500" stop="20220331053000 +0500">
+<title>Happy &amp; Zen</title>
+<desc>Entrevistas exclusivas con los artistas del momento, glamour, moda, lujo sobre la farándula internacional y la realeza.</desc>
 </programme>
-<channel id ="Baby TV">
+<channel id ="Baby TV_la">
 <display-name>Baby TV</display-name>
 </channel>
-<programme channel="Baby TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Baby TV_la" start ="20220331061000 +0500" stop="20220331063000 +0500">
+<title>Big Time Rush</title>
+<desc>Kendall y Jo ayudan a Carlos a encontrar una cita. Logan coquetea con una nueva chica. James se vuelve sobreprotector con Katie.</desc>
 </programme>
-<channel id ="Nick Jr.">
-<display-name>Nick Jr.</display-name>
+<channel id ="Discovery Kids_la">
+<display-name>Discovery Kids</display-name>
 </channel>
-<programme channel="Nick Jr." start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Discovery Kids_la" start ="20220331063600 +0500" stop="20220331072400 +0500">
+<title>Alaska: la última frontera</title>
+<desc>Los Kilcher trabajan en unos proyectos complicados. Otto, Charlotte y Eivin viajan para recuperar una reliquia familiar. Eve y Jane se pierden en el mar.</desc>
 </programme>
-<channel id ="Nick Jr.">
-<display-name>Nick Jr.</display-name>
+<channel id ="Discovery Kids_la">
+<display-name>Discovery Kids</display-name>
 </channel>
-<programme channel="Nick Jr." start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Discovery Kids_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Contacto deportivo</title>
+<desc>Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
 </programme>
-<channel id ="Cartoon Network">
+<channel id ="Cartoon Network_la">
 <display-name>Cartoon Network</display-name>
 </channel>
-<programme channel="Cartoon Network" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Cartoon Network_la" start ="20220331010000 +0500" stop="20220401030000 +0500">
+<title>Tenis ATP</title>
+<desc>Acción de semifinales. Desde Hard Rock Stadium, en Miami, Florida.</desc>
 </programme>
-<channel id ="Cartoon Network">
+<channel id ="Cartoon Network_la">
 <display-name>Cartoon Network</display-name>
 </channel>
-<programme channel="Cartoon Network" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Cartoon Network_la" start ="20220331040000 +0500" stop="20220401055500 +0500">
+<title>Alquiler de padrinos</title>
+<desc>Debido a un tremendo error que cometió, Teddy, un vendedor exitoso, se ve obligado a asistir a la escuela nocturna para obtener el diploma de Educación General Básica. Allí, Teddy convivirá con compañeros ineptos y una profesora un tanto agresiva.</desc>
 </programme>
-<channel id ="Nat Geo Kids">
-<display-name>Nat Geo Kids</display-name>
+<channel id ="Nickelodeon_la">
+<display-name>Nickelodeon</display-name>
 </channel>
-<programme channel="Nat Geo Kids" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Nickelodeon_la" start ="20220331045300 +0500" stop="20220331064900 +0500">
+<title>Charlie y la fábrica de chocolate</title>
+<desc>Una mujer reflexiona sobre el significado del amor, cuando queda atrapada en un triángulo romántico con un jugador de béisbol profesional y un hombre acusado de fraude.</desc>
 </programme>
-<channel id ="Nat Geo Kids">
-<display-name>Nat Geo Kids</display-name>
+<channel id ="Nickelodeon_la">
+<display-name>Nickelodeon</display-name>
 </channel>
-<programme channel="Nat Geo Kids" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Nickelodeon_la" start ="20220331053500 +0500" stop="20220331060900 +0500">
+<title>Hard</title>
+<desc>Sofia acepta la propuesta de Satoru. Nobu, el empleado de Satoru, toma el control del póquer. Sofía se va de vacaciones con Marcella. Lucía hace una audición para la nueva película del Ministro.</desc>
 </programme>
-<channel id ="Boomerang">
-<display-name>Boomerang</display-name>
+<channel id ="Tiin_la">
+<display-name>Tiin</display-name>
 </channel>
-<programme channel="Boomerang" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Tiin_la" start ="20220331010300 +0500" stop="20220401040500 +0500">
+<title>El lobo de Wall Street</title>
+<desc>Un promotor de boxeo les ofrece a dos peleadores rivales la oportunidad de abandonar el retiro para un combate final.</desc>
 </programme>
-<channel id ="Boomerang">
-<display-name>Boomerang</display-name>
+<channel id ="Tiin_la">
+<display-name>Tiin</display-name>
 </channel>
-<programme channel="Boomerang" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Tiin_la" start ="20220331053600 +0500" stop="20220331073000 +0500">
+<title>Extraordinario</title>
+<desc>August es un niño que nació con un problema de deformidad facial. Esto ha impedido que hasta quinto curso asista a la escuela pública, pero ha llegado el momento de que lo haga. Integrarse no va a ser fácil, pero August pondrá todo su empeño.</desc>
 </programme>
-<channel id ="Nicktoons">
+<channel id ="Disney Channel_la">
+<display-name>Disney Channel</display-name>
+</channel>
+<programme channel="Disney Channel_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray ópera plus</title>
+<desc>Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.</desc>
+</programme>
+<channel id ="Disney Channel_la">
+<display-name>Disney Channel</display-name>
+</channel>
+<programme channel="Disney Channel_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray años 70</title>
+<desc>Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!</desc>
+</programme>
+<channel id ="Disney XD_la">
+<display-name>Disney XD</display-name>
+</channel>
+<programme channel="Disney XD_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray Éxitos Tropicales</title>
+<desc>La salsa más caliente, rumba y canciones tropicales.</desc>
+</programme>
+<channel id ="Disney XD_la">
+<display-name>Disney XD</display-name>
+</channel>
+<programme channel="Disney XD_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Sólo Para Peques</title>
+<desc>Música instrumental y canciones en español para niños.</desc>
+</programme>
+<channel id ="Nicktoons_la">
 <display-name>Nicktoons</display-name>
 </channel>
-<programme channel="Nicktoons" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Nicktoons_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Rock Alternativo</title>
+<desc>Sonidos energéticos con raíces en lo más profundo del rock. Siente la intensidad de lo mejor del rock alternativo actual y acuérdate de los orígenes del grunge. Ya sabes lo que esperas del Rock Alternativo, y esperamos satisfacer esta necesidad.</desc>
 </programme>
-<channel id ="Nicktoons">
+<channel id ="Nicktoons_la">
 <display-name>Nicktoons</display-name>
 </channel>
-<programme channel="Nicktoons" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Nicktoons_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>TikTok Radio</title>
+<desc>Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.</desc>
 </programme>
-<channel id ="Disney Junior">
-<display-name>Disney Junior</display-name>
-</channel>
-<programme channel="Disney Junior" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Disney Junior">
-<display-name>Disney Junior</display-name>
-</channel>
-<programme channel="Disney Junior" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Tooncast">
+<channel id ="Tooncast_la">
 <display-name>Tooncast</display-name>
 </channel>
-<programme channel="Tooncast" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Tooncast_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Gutfeld!</title>
+<desc>FOX News at Night, which is anchored by Shannon Bream, is a live hour of hard news and an analysis of the most compelling stories from Washington and across the country.</desc>
 </programme>
-<channel id ="Tooncast">
+<channel id ="Tooncast_la">
 <display-name>Tooncast</display-name>
 </channel>
-<programme channel="Tooncast" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Tooncast_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Clásicos del Dance</title>
+<desc>Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.</desc>
 </programme>
-<channel id ="Televisión Mexiquense">
+<channel id ="Televisión Mexiquense_la">
 <display-name>Televisión Mexiquense</display-name>
 </channel>
-<programme channel="Televisión Mexiquense" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Televisión Mexiquense_la" start ="20220331050000 +0500" stop="20220331060000 +0500">
+<title>Gutfeld!</title>
+<desc>FOX News at Night, which is anchored by Shannon Bream, is a live hour of hard news and an analysis of the most compelling stories from Washington and across the country.</desc>
 </programme>
-<channel id ="Televisión Mexiquense">
+<channel id ="Televisión Mexiquense_la">
 <display-name>Televisión Mexiquense</display-name>
 </channel>
-<programme channel="Televisión Mexiquense" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Televisión Mexiquense_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>El Salón Chill</title>
+<desc>Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.</desc>
 </programme>
-<channel id ="Proyecto 40">
-<display-name>Proyecto 40</display-name>
-</channel>
-<programme channel="Proyecto 40" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Proyecto 40">
-<display-name>Proyecto 40</display-name>
-</channel>
-<programme channel="Proyecto 40" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Animal Planet">
+<channel id ="Animal Planet_la">
 <display-name>Animal Planet</display-name>
 </channel>
-<programme channel="Animal Planet" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Animal Planet_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Samba y Pagode</title>
+<desc>Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.</desc>
 </programme>
-<channel id ="Animal Planet">
+<channel id ="Animal Planet_la">
 <display-name>Animal Planet</display-name>
 </channel>
-<programme channel="Animal Planet" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Animal Planet_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray viva México</title>
+<desc>Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.</desc>
 </programme>
-<channel id ="Nat Geo Wild">
+<channel id ="Nat Geo_la">
+<display-name>Nat Geo</display-name>
+</channel>
+<programme channel="Nat Geo_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Popcorn</title>
+<desc>Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.</desc>
+</programme>
+<channel id ="Nat Geo_la">
+<display-name>Nat Geo</display-name>
+</channel>
+<programme channel="Nat Geo_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Club de Baile</title>
+<desc>Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.</desc>
+</programme>
+<channel id ="Nat Geo Wild_la">
 <display-name>Nat Geo Wild</display-name>
 </channel>
-<programme channel="Nat Geo Wild" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Nat Geo Wild_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Tango</title>
+<desc>Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).</desc>
 </programme>
-<channel id ="Nat Geo Wild">
+<channel id ="Nat Geo Wild_la">
 <display-name>Nat Geo Wild</display-name>
 </channel>
-<programme channel="Nat Geo Wild" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Nat Geo Wild_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray música ligera</title>
+<desc>Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.</desc>
 </programme>
-<channel id ="H2">
-<display-name>H2</display-name>
-</channel>
-<programme channel="H2" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="H2">
-<display-name>H2</display-name>
-</channel>
-<programme channel="H2" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Discovery Science Channel">
+<channel id ="Discovery Science Channel_la">
 <display-name>Discovery Science Channel</display-name>
 </channel>
-<programme channel="Discovery Science Channel" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Discovery Science Channel_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray himnos del rock</title>
+<desc>De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.</desc>
 </programme>
-<channel id ="Discovery Science Channel">
+<channel id ="Discovery Science Channel_la">
 <display-name>Discovery Science Channel</display-name>
 </channel>
-<programme channel="Discovery Science Channel" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Discovery Science Channel_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Exitos del Momento</title>
+<desc>null</desc>
 </programme>
-<channel id ="EWTN">
-<display-name>EWTN</display-name>
+<channel id ="ESNE TV_la">
+<display-name>ESNE TV</display-name>
 </channel>
-<programme channel="EWTN" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="ESNE TV_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Galaxie Blues</title>
+<desc>¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.</desc>
 </programme>
-<channel id ="EWTN">
-<display-name>EWTN</display-name>
+<channel id ="ESNE TV_la">
+<display-name>ESNE TV</display-name>
 </channel>
-<programme channel="EWTN" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="ESNE TV_la" start ="20220331050000 +0500" stop="20220331055500 +0500">
+<title>Castle</title>
+<desc>Castle y Beckett investigan el caso de una chica mala de una escuela secundaria que parece haber matado a alguien con poderes telequinéticos.</desc>
 </programme>
-<channel id ="Canal del Congreso">
-<display-name>Canal del Congreso</display-name>
-</channel>
-<programme channel="Canal del Congreso" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Canal del Congreso">
-<display-name>Canal del Congreso</display-name>
-</channel>
-<programme channel="Canal del Congreso" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Ingenio TV">
+<channel id ="Ingenio TV_la">
 <display-name>Ingenio TV</display-name>
 </channel>
-<programme channel="Ingenio TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Ingenio TV_la" start ="20220331050000 +0500" stop="20220331055500 +0500">
+<title>Castle</title>
+<desc>Castle y Beckett investigan el caso de una chica mala de una escuela secundaria que parece haber matado a alguien con poderes telequinéticos.</desc>
 </programme>
-<channel id ="Ingenio TV">
+<channel id ="Ingenio TV_la">
 <display-name>Ingenio TV</display-name>
 </channel>
-<programme channel="Ingenio TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
+<programme channel="Ingenio TV_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray pop adulto</title>
+<desc>Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.</desc>
 </programme>
-<channel id ="TDN">
+<channel id ="Canal 22.2_la">
+<display-name>Canal 22.2</display-name>
+</channel>
+<programme channel="Canal 22.2_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Programación Especial: Las mujeres en la música</title>
+<desc>Celebra a las mujeres que han sabido romper barreras, sobresalir e ir más allá de lo esperado. Escucha sus mayores éxitos incluyendo todos los géneros, épocas y estilos de vida.</desc>
+</programme>
+<channel id ="Canal 22.2_la">
+<display-name>Canal 22.2</display-name>
+</channel>
+<programme channel="Canal 22.2_la" start ="20220331200000 +0500" stop="20220331000000 +0500">
+<title>Stingray euro hits</title>
+<desc>Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.</desc>
+</programme>
+<channel id ="TDN_la">
 <display-name>TDN</display-name>
 </channel>
-<programme channel="TDN" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="TDN">
+<programme channel="TDN_la"<channel id ="TDN_la">
 <display-name>TDN</display-name>
 </channel>
-<programme channel="TDN" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Fox Sports">
+<programme channel="TDN_la"<channel id ="Real Madrid Tv_la">
+<display-name>Real Madrid Tv</display-name>
+</channel>
+<programme channel="Real Madrid Tv_la"<channel id ="Real Madrid Tv_la">
+<display-name>Real Madrid Tv</display-name>
+</channel>
+<programme channel="Real Madrid Tv_la"<channel id ="Fox Sports_la">
 <display-name>Fox Sports</display-name>
 </channel>
-<programme channel="Fox Sports" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Fox Sports">
+<programme channel="Fox Sports_la"<channel id ="Fox Sports_la">
 <display-name>Fox Sports</display-name>
 </channel>
-<programme channel="Fox Sports" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="ESPN 3">
+<programme channel="Fox Sports_la"<channel id ="Fox Sports 2_la">
+<display-name>Fox Sports 2</display-name>
+</channel>
+<programme channel="Fox Sports 2_la"<channel id ="Fox Sports 2_la">
+<display-name>Fox Sports 2</display-name>
+</channel>
+<programme channel="Fox Sports 2_la"<channel id ="ESPN 3_la">
 <display-name>ESPN 3</display-name>
 </channel>
-<programme channel="ESPN 3" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="ESPN 3">
+<programme channel="ESPN 3_la"<channel id ="ESPN 3_la">
 <display-name>ESPN 3</display-name>
 </channel>
-<programme channel="ESPN 3" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="NFL Network">
-<display-name>NFL Network</display-name>
+<programme channel="ESPN 3_la"<channel id ="TNT_la">
+<display-name>TNT</display-name>
 </channel>
-<programme channel="NFL Network" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="NFL Network">
-<display-name>NFL Network</display-name>
+<programme channel="TNT_la"<channel id ="TNT_la">
+<display-name>TNT</display-name>
 </channel>
-<programme channel="NFL Network" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Fighting Sports Network">
-<display-name>Fighting Sports Network</display-name>
-</channel>
-<programme channel="Fighting Sports Network" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Fighting Sports Network">
-<display-name>Fighting Sports Network</display-name>
-</channel>
-<programme channel="Fighting Sports Network" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden ">
-<display-name>Golden </display-name>
-</channel>
-<programme channel="Golden " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden ">
-<display-name>Golden </display-name>
-</channel>
-<programme channel="Golden " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Studio Universal">
+<programme channel="TNT_la"<channel id ="Studio Universal_la">
 <display-name>Studio Universal</display-name>
 </channel>
-<programme channel="Studio Universal" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Studio Universal">
+<programme channel="Studio Universal_la"<channel id ="Studio Universal_la">
 <display-name>Studio Universal</display-name>
 </channel>
-<programme channel="Studio Universal" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX Movies">
-<display-name>FX Movies</display-name>
-</channel>
-<programme channel="FX Movies" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX Movies">
-<display-name>FX Movies</display-name>
-</channel>
-<programme channel="FX Movies" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="De Película Multiplex">
-<display-name>De Película Multiplex</display-name>
-</channel>
-<programme channel="De Película Multiplex" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="De Película Multiplex">
-<display-name>De Película Multiplex</display-name>
-</channel>
-<programme channel="De Película Multiplex" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden Multiplex">
+<programme channel="Studio Universal_la"<channel id ="Golden Multiplex_la">
 <display-name>Golden Multiplex</display-name>
 </channel>
-<programme channel="Golden Multiplex" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden Multiplex">
+<programme channel="Golden Multiplex_la"<channel id ="Golden Multiplex_la">
 <display-name>Golden Multiplex</display-name>
 </channel>
-<programme channel="Golden Multiplex" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Europa Europa ">
+<programme channel="Golden Multiplex_la"<channel id ="Europa Europa _la">
 <display-name>Europa Europa </display-name>
 </channel>
-<programme channel="Europa Europa " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Europa Europa ">
+<programme channel="Europa Europa _la"<channel id ="Europa Europa _la">
 <display-name>Europa Europa </display-name>
 </channel>
-<programme channel="Europa Europa " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO Signature ">
+<programme channel="Europa Europa _la"<channel id ="HBO Signature _la">
 <display-name>HBO Signature </display-name>
 </channel>
-<programme channel="HBO Signature " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO Signature ">
+<programme channel="HBO Signature _la"<channel id ="HBO Signature _la">
 <display-name>HBO Signature </display-name>
 </channel>
-<programme channel="HBO Signature " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO (Oeste)*">
+<programme channel="HBO Signature _la"<channel id ="HBO 2*_la">
+<display-name>HBO 2*</display-name>
+</channel>
+<programme channel="HBO 2*_la"<channel id ="HBO 2*_la">
+<display-name>HBO 2*</display-name>
+</channel>
+<programme channel="HBO 2*_la"<channel id ="HBO (Oeste)*_la">
 <display-name>HBO (Oeste)*</display-name>
 </channel>
-<programme channel="HBO (Oeste)*" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO (Oeste)*">
+<programme channel="HBO (Oeste)*_la"<channel id ="HBO (Oeste)*_la">
 <display-name>HBO (Oeste)*</display-name>
 </channel>
-<programme channel="HBO (Oeste)*" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="MAX Prime (Oeste)">
-<display-name>MAX Prime (Oeste)</display-name>
+<programme channel="HBO (Oeste)*_la"<channel id ="HBO Plus (Oeste)_la">
+<display-name>HBO Plus (Oeste)</display-name>
 </channel>
-<programme channel="MAX Prime (Oeste)" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="MAX Prime (Oeste)">
-<display-name>MAX Prime (Oeste)</display-name>
+<programme channel="HBO Plus (Oeste)_la"<channel id ="HBO Plus (Oeste)_la">
+<display-name>HBO Plus (Oeste)</display-name>
 </channel>
-<programme channel="MAX Prime (Oeste)" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden Premier">
+<programme channel="HBO Plus (Oeste)_la"<channel id ="MAX UP_la">
+<display-name>MAX UP</display-name>
+</channel>
+<programme channel="MAX UP_la"<channel id ="MAX UP_la">
+<display-name>MAX UP</display-name>
+</channel>
+<programme channel="MAX UP_la"<channel id ="Golden Premier_la">
 <display-name>Golden Premier</display-name>
 </channel>
-<programme channel="Golden Premier" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden Premier">
+<programme channel="Golden Premier_la"<channel id ="Golden Premier_la">
 <display-name>Golden Premier</display-name>
 </channel>
-<programme channel="Golden Premier" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Azteca uno HD">
+<programme channel="Golden Premier_la"<channel id ="Golden Premier Delay -2hr  _la">
+<display-name>Golden Premier Delay -2hr  </display-name>
+</channel>
+<programme channel="Golden Premier Delay -2hr  _la"<channel id ="Golden Premier Delay -2hr  _la">
+<display-name>Golden Premier Delay -2hr  </display-name>
+</channel>
+<programme channel="Golden Premier Delay -2hr  _la"<channel id ="Azteca uno HD_la">
 <display-name>Azteca uno HD</display-name>
 </channel>
-<programme channel="Azteca uno HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Azteca uno HD">
+<programme channel="Azteca uno HD_la"<channel id ="Azteca uno HD_la">
 <display-name>Azteca uno HD</display-name>
 </channel>
-<programme channel="Azteca uno HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Foro TV HD">
+<programme channel="Azteca uno HD_la"<channel id ="Foro TV HD_la">
 <display-name>Foro TV HD</display-name>
 </channel>
-<programme channel="Foro TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Foro TV HD">
+<programme channel="Foro TV HD_la"<channel id ="Foro TV HD_la">
 <display-name>Foro TV HD</display-name>
 </channel>
-<programme channel="Foro TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Infocable">
+<programme channel="Foro TV HD_la"<channel id ="Azteca 7 HD_la">
+<display-name>Azteca 7 HD</display-name>
+</channel>
+<programme channel="Azteca 7 HD_la"<channel id ="Azteca 7 HD_la">
+<display-name>Azteca 7 HD</display-name>
+</channel>
+<programme channel="Azteca 7 HD_la"<channel id ="Infocable_la">
 <display-name>Infocable</display-name>
 </channel>
-<programme channel="Infocable" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Infocable">
+<programme channel="Infocable_la"<channel id ="Infocable_la">
 <display-name>Infocable</display-name>
 </channel>
-<programme channel="Infocable" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Una Voz con Todos HD">
-<display-name>Una Voz con Todos HD</display-name>
-</channel>
-<programme channel="Una Voz con Todos HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Una Voz con Todos HD">
-<display-name>Una Voz con Todos HD</display-name>
-</channel>
-<programme channel="Una Voz con Todos HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Canal 22 HD">
+<programme channel="Infocable_la"<channel id ="Canal 22 HD_la">
 <display-name>Canal 22 HD</display-name>
 </channel>
-<programme channel="Canal 22 HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Canal 22 HD">
+<programme channel="Canal 22 HD_la"<channel id ="Canal 22 HD_la">
 <display-name>Canal 22 HD</display-name>
 </channel>
-<programme channel="Canal 22 HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Salud TV">
-<display-name>Salud TV</display-name>
-</channel>
-<programme channel="Salud TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Salud TV">
-<display-name>Salud TV</display-name>
-</channel>
-<programme channel="Salud TV" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Mexico Travel Channel">
+<programme channel="Canal 22 HD_la"<channel id ="Mexico Travel Channel_la">
 <display-name>Mexico Travel Channel</display-name>
 </channel>
-<programme channel="Mexico Travel Channel" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Mexico Travel Channel">
+<programme channel="Mexico Travel Channel_la"<channel id ="Mexico Travel Channel_la">
 <display-name>Mexico Travel Channel</display-name>
 </channel>
-<programme channel="Mexico Travel Channel" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Star HD">
+<programme channel="Mexico Travel Channel_la"<channel id ="Star HD_la">
 <display-name>Star HD</display-name>
 </channel>
-<programme channel="Star HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Star HD">
+<programme channel="Star HD_la"<channel id ="Star HD_la">
 <display-name>Star HD</display-name>
 </channel>
-<programme channel="Star HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Hola TV HD">
+<programme channel="Star HD_la"<channel id ="Hola TV HD_la">
 <display-name>Hola TV HD</display-name>
 </channel>
-<programme channel="Hola TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Hola TV HD">
+<programme channel="Hola TV HD_la"<channel id ="Hola TV HD_la">
 <display-name>Hola TV HD</display-name>
 </channel>
-<programme channel="Hola TV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="TruTV HD">
-<display-name>TruTV HD</display-name>
+<programme channel="Hola TV HD_la"<channel id ="Nickelodeon HD_la">
+<display-name>Nickelodeon HD</display-name>
 </channel>
-<programme channel="TruTV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="TruTV HD">
-<display-name>TruTV HD</display-name>
+<programme channel="Nickelodeon HD_la"<channel id ="Nickelodeon HD_la">
+<display-name>Nickelodeon HD</display-name>
 </channel>
-<programme channel="TruTV HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="History HD">
-<display-name>History HD</display-name>
+<programme channel="Nickelodeon HD_la"<channel id ="Discovery Theater HD_la">
+<display-name>Discovery Theater HD</display-name>
 </channel>
-<programme channel="History HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="History HD">
-<display-name>History HD</display-name>
+<programme channel="Discovery Theater HD_la"<channel id ="Discovery Theater HD_la">
+<display-name>Discovery Theater HD</display-name>
 </channel>
-<programme channel="History HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="TDN HD">
+<programme channel="Discovery Theater HD_la"<channel id ="TDN HD_la">
 <display-name>TDN HD</display-name>
 </channel>
-<programme channel="TDN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="TDN HD">
+<programme channel="TDN HD_la"<channel id ="TDN HD_la">
 <display-name>TDN HD</display-name>
 </channel>
-<programme channel="TDN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Fox Sports HD">
-<display-name>Fox Sports HD</display-name>
-</channel>
-<programme channel="Fox Sports HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Fox Sports HD">
-<display-name>Fox Sports HD</display-name>
-</channel>
-<programme channel="Fox Sports HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="ESPN HD">
+<programme channel="TDN HD_la"<channel id ="ESPN HD_la">
 <display-name>ESPN HD</display-name>
 </channel>
-<programme channel="ESPN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="ESPN HD">
+<programme channel="ESPN HD_la"<channel id ="ESPN HD_la">
 <display-name>ESPN HD</display-name>
 </channel>
-<programme channel="ESPN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="ESPN 2 HD">
-<display-name>ESPN 2 HD</display-name>
-</channel>
-<programme channel="ESPN 2 HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="ESPN 2 HD">
-<display-name>ESPN 2 HD</display-name>
-</channel>
-<programme channel="ESPN 2 HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="NFL NETWORK HD">
-<display-name>NFL NETWORK HD</display-name>
-</channel>
-<programme channel="NFL NETWORK HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="NFL NETWORK HD">
-<display-name>NFL NETWORK HD</display-name>
-</channel>
-<programme channel="NFL NETWORK HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="De Película HD ">
-<display-name>De Película HD </display-name>
-</channel>
-<programme channel="De Película HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="De Película HD ">
-<display-name>De Película HD </display-name>
-</channel>
-<programme channel="De Película HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden HD">
-<display-name>Golden HD</display-name>
-</channel>
-<programme channel="Golden HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden HD">
-<display-name>Golden HD</display-name>
-</channel>
-<programme channel="Golden HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX Movies HD">
-<display-name>FX Movies HD</display-name>
-</channel>
-<programme channel="FX Movies HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX Movies HD">
-<display-name>FX Movies HD</display-name>
-</channel>
-<programme channel="FX Movies HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Studio Universal HD">
+<programme channel="ESPN HD_la"<channel id ="Studio Universal HD_la">
 <display-name>Studio Universal HD</display-name>
 </channel>
-<programme channel="Studio Universal HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Studio Universal HD">
+<programme channel="Studio Universal HD_la"<channel id ="Studio Universal HD_la">
 <display-name>Studio Universal HD</display-name>
 </channel>
-<programme channel="Studio Universal HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO Family (Este) HD">
+<programme channel="Studio Universal HD_la"<channel id ="HBO Family (Este) HD_la">
 <display-name>HBO Family (Este) HD</display-name>
 </channel>
-<programme channel="HBO Family (Este) HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO Family (Este) HD">
+<programme channel="HBO Family (Este) HD_la"<channel id ="HBO Family (Este) HD_la">
 <display-name>HBO Family (Este) HD</display-name>
 </channel>
-<programme channel="HBO Family (Este) HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO Signature HD">
+<programme channel="HBO Family (Este) HD_la"<channel id ="HBO Signature HD_la">
 <display-name>HBO Signature HD</display-name>
 </channel>
-<programme channel="HBO Signature HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="HBO Signature HD">
+<programme channel="HBO Signature HD_la"<channel id ="HBO Signature HD_la">
 <display-name>HBO Signature HD</display-name>
 </channel>
-<programme channel="HBO Signature HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Max Prime HD">
+<programme channel="HBO Signature HD_la"<channel id ="Max Prime HD_la">
 <display-name>Max Prime HD</display-name>
 </channel>
-<programme channel="Max Prime HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Max Prime HD">
+<programme channel="Max Prime HD_la"<channel id ="Max Prime HD_la">
 <display-name>Max Prime HD</display-name>
 </channel>
-<programme channel="Max Prime HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden Premier HD ">
-<display-name>Golden Premier HD </display-name>
+<programme channel="Max Prime HD_la"<channel id ="Golden Premier HD Delay -2hr  _la">
+<display-name>Golden Premier HD Delay -2hr  </display-name>
 </channel>
-<programme channel="Golden Premier HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Golden Premier HD ">
-<display-name>Golden Premier HD </display-name>
+<programme channel="Golden Premier HD Delay -2hr  _la"<channel id ="Golden Premier HD Delay -2hr  _la">
+<display-name>Golden Premier HD Delay -2hr  </display-name>
 </channel>
-<programme channel="Golden Premier HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Romance Latino ">
-<display-name>Stingray Romance Latino </display-name>
-</channel>
-<programme channel="Stingray Romance Latino " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Romance Latino ">
-<display-name>Stingray Romance Latino </display-name>
-</channel>
-<programme channel="Stingray Romance Latino " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Pop Latino Actual">
+<programme channel="Golden Premier HD Delay -2hr  _la"<channel id ="Stingray Pop Latino Actual_la">
 <display-name>Stingray Pop Latino Actual</display-name>
 </channel>
-<programme channel="Stingray Pop Latino Actual" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Pop Latino Actual">
+<programme channel="Stingray Pop Latino Actual_la"<channel id ="Stingray Pop Latino Actual_la">
 <display-name>Stingray Pop Latino Actual</display-name>
 </channel>
-<programme channel="Stingray Pop Latino Actual" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Latino Tropical">
-<display-name>Stingray Latino Tropical</display-name>
-</channel>
-<programme channel="Stingray Latino Tropical" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Latino Tropical">
-<display-name>Stingray Latino Tropical</display-name>
-</channel>
-<programme channel="Stingray Latino Tropical" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Samba y Pagode ">
-<display-name>Stingray Samba y Pagode </display-name>
-</channel>
-<programme channel="Stingray Samba y Pagode " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Samba y Pagode ">
-<display-name>Stingray Samba y Pagode </display-name>
-</channel>
-<programme channel="Stingray Samba y Pagode " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Latin Lounge">
+<programme channel="Stingray Pop Latino Actual_la"<channel id ="Stingray Latin Lounge_la">
 <display-name>Stingray Latin Lounge</display-name>
 </channel>
-<programme channel="Stingray Latin Lounge" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Latin Lounge">
+<programme channel="Stingray Latin Lounge_la"<channel id ="Stingray Latin Lounge_la">
 <display-name>Stingray Latin Lounge</display-name>
 </channel>
-<programme channel="Stingray Latin Lounge" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Años 80">
+<programme channel="Stingray Latin Lounge_la"<channel id ="Stingray Años 70_la">
+<display-name>Stingray Años 70</display-name>
+</channel>
+<programme channel="Stingray Años 70_la"<channel id ="Stingray Años 70_la">
+<display-name>Stingray Años 70</display-name>
+</channel>
+<programme channel="Stingray Años 70_la"<channel id ="Stingray Años 80_la">
 <display-name>Stingray Años 80</display-name>
 </channel>
-<programme channel="Stingray Años 80" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Años 80">
+<programme channel="Stingray Años 80_la"<channel id ="Stingray Años 80_la">
 <display-name>Stingray Años 80</display-name>
 </channel>
-<programme channel="Stingray Años 80" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Años 90">
-<display-name>Stingray Años 90</display-name>
+<programme channel="Stingray Años 80_la"<channel id ="Stingray Euro Hits_la">
+<display-name>Stingray Euro Hits</display-name>
 </channel>
-<programme channel="Stingray Años 90" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Años 90">
-<display-name>Stingray Años 90</display-name>
+<programme channel="Stingray Euro Hits_la"<channel id ="Stingray Euro Hits_la">
+<display-name>Stingray Euro Hits</display-name>
 </channel>
-<programme channel="Stingray Años 90" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="CNN HD">
-<display-name>CNN HD</display-name>
+<programme channel="Stingray Euro Hits_la"<channel id ="Stingray Rock Alternativo_la">
+<display-name>Stingray Rock Alternativo</display-name>
 </channel>
-<programme channel="CNN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="CNN HD">
-<display-name>CNN HD</display-name>
+<programme channel="Stingray Rock Alternativo_la"<channel id ="Stingray Rock Alternativo_la">
+<display-name>Stingray Rock Alternativo</display-name>
 </channel>
-<programme channel="CNN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Rompepistas">
-<display-name>Stingray Rompepistas</display-name>
+<programme channel="Stingray Rock Alternativo_la"<channel id ="Fox News HD_la">
+<display-name>Fox News HD</display-name>
 </channel>
-<programme channel="Stingray Rompepistas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Rompepistas">
-<display-name>Stingray Rompepistas</display-name>
+<programme channel="Fox News HD_la"<channel id ="Fox News HD_la">
+<display-name>Fox News HD</display-name>
 </channel>
-<programme channel="Stingray Rompepistas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="CNN HD">
-<display-name>CNN HD</display-name>
-</channel>
-<programme channel="CNN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="CNN HD">
-<display-name>CNN HD</display-name>
-</channel>
-<programme channel="CNN HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Clásicos del ">
+<programme channel="Fox News HD_la"<channel id ="Stingray Clásicos del _la">
 <display-name>Stingray Clásicos del </display-name>
 </channel>
-<programme channel="Stingray Clásicos del " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Clásicos del ">
+<programme channel="Stingray Clásicos del _la"<channel id ="Stingray Clásicos del _la">
 <display-name>Stingray Clásicos del </display-name>
 </channel>
-<programme channel="Stingray Clásicos del " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Silk (Canciones de Amor)">
+<programme channel="Stingray Clásicos del _la"<channel id ="Fox News HD_la">
+<display-name>Fox News HD</display-name>
+</channel>
+<programme channel="Fox News HD_la"<channel id ="Fox News HD_la">
+<display-name>Fox News HD</display-name>
+</channel>
+<programme channel="Fox News HD_la"<channel id ="Stingray Silk (Canciones de Amor)_la">
 <display-name>Stingray Silk (Canciones de Amor)</display-name>
 </channel>
-<programme channel="Stingray Silk (Canciones de Amor)" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Silk (Canciones de Amor)">
+<programme channel="Stingray Silk (Canciones de Amor)_la"<channel id ="Stingray Silk (Canciones de Amor)_la">
 <display-name>Stingray Silk (Canciones de Amor)</display-name>
 </channel>
-<programme channel="Stingray Silk (Canciones de Amor)" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Éxitos de las Américas">
-<display-name>Stingray Éxitos de las Américas</display-name>
-</channel>
-<programme channel="Stingray Éxitos de las Américas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Éxitos de las Américas">
-<display-name>Stingray Éxitos de las Américas</display-name>
-</channel>
-<programme channel="Stingray Éxitos de las Américas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Tango">
+<programme channel="Stingray Silk (Canciones de Amor)_la"<channel id ="Stingray Tango_la">
 <display-name>Stingray Tango</display-name>
 </channel>
-<programme channel="Stingray Tango" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Tango">
+<programme channel="Stingray Tango_la"<channel id ="Stingray Tango_la">
 <display-name>Stingray Tango</display-name>
 </channel>
-<programme channel="Stingray Tango" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Éxitos Recientes">
-<display-name>Stingray Éxitos Recientes</display-name>
+<programme channel="Stingray Tango_la"<channel id ="Stingray Reggaetón_la">
+<display-name>Stingray Reggaetón</display-name>
 </channel>
-<programme channel="Stingray Éxitos Recientes" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Éxitos Recientes">
-<display-name>Stingray Éxitos Recientes</display-name>
+<programme channel="Stingray Reggaetón_la"<channel id ="Stingray Reggaetón_la">
+<display-name>Stingray Reggaetón</display-name>
 </channel>
-<programme channel="Stingray Éxitos Recientes" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Hard Rock">
-<display-name>Stingray Hard Rock</display-name>
+<programme channel="Stingray Reggaetón_la"<channel id ="Stingray Clásicos del Soul y el Rhythm and Blues_la">
+<display-name>Stingray Clásicos del Soul y el Rhythm and Blues</display-name>
 </channel>
-<programme channel="Stingray Hard Rock" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Hard Rock">
-<display-name>Stingray Hard Rock</display-name>
+<programme channel="Stingray Clásicos del Soul y el Rhythm and Blues_la"<channel id ="Stingray Clásicos del Soul y el Rhythm and Blues_la">
+<display-name>Stingray Clásicos del Soul y el Rhythm and Blues</display-name>
 </channel>
-<programme channel="Stingray Hard Rock" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Clásicos Indie">
+<programme channel="Stingray Clásicos del Soul y el Rhythm and Blues_la"<channel id ="Stingray El Salón Chill_la">
+<display-name>Stingray El Salón Chill</display-name>
+</channel>
+<programme channel="Stingray El Salón Chill_la"<channel id ="Stingray El Salón Chill_la">
+<display-name>Stingray El Salón Chill</display-name>
+</channel>
+<programme channel="Stingray El Salón Chill_la"<channel id ="Stingray Clásicos Indie_la">
 <display-name>Stingray Clásicos Indie</display-name>
 </channel>
-<programme channel="Stingray Clásicos Indie" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Clásicos Indie">
+<programme channel="Stingray Clásicos Indie_la"<channel id ="Stingray Clásicos Indie_la">
 <display-name>Stingray Clásicos Indie</display-name>
 </channel>
-<programme channel="Stingray Clásicos Indie" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Popcorn">
-<display-name>Stingray Popcorn</display-name>
+<programme channel="Stingray Clásicos Indie_la"<channel id ="Stingray Fiesta Continua_la">
+<display-name>Stingray Fiesta Continua</display-name>
 </channel>
-<programme channel="Stingray Popcorn" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Popcorn">
-<display-name>Stingray Popcorn</display-name>
+<programme channel="Stingray Fiesta Continua_la"<channel id ="Stingray Fiesta Continua_la">
+<display-name>Stingray Fiesta Continua</display-name>
 </channel>
-<programme channel="Stingray Popcorn" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Viejitas pero Buenísimas">
-<display-name>Stingray Viejitas pero Buenísimas</display-name>
-</channel>
-<programme channel="Stingray Viejitas pero Buenísimas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Viejitas pero Buenísimas">
-<display-name>Stingray Viejitas pero Buenísimas</display-name>
-</channel>
-<programme channel="Stingray Viejitas pero Buenísimas" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Sólo para Peques">
+<programme channel="Stingray Fiesta Continua_la"<channel id ="Stingray Sólo para Peques_la">
 <display-name>Stingray Sólo para Peques</display-name>
 </channel>
-<programme channel="Stingray Sólo para Peques" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Sólo para Peques">
+<programme channel="Stingray Sólo para Peques_la"<channel id ="Stingray Sólo para Peques_la">
 <display-name>Stingray Sólo para Peques</display-name>
 </channel>
-<programme channel="Stingray Sólo para Peques" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Comedy Central HD ">
-<display-name>Comedy Central HD </display-name>
+<programme channel="Stingray Sólo para Peques_la"<channel id ="Stingray Blues_la">
+<display-name>Stingray Blues</display-name>
 </channel>
-<programme channel="Comedy Central HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Comedy Central HD ">
-<display-name>Comedy Central HD </display-name>
+<programme channel="Stingray Blues_la"<channel id ="Stingray Blues_la">
+<display-name>Stingray Blues</display-name>
 </channel>
-<programme channel="Comedy Central HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Comedy Central HD ">
-<display-name>Comedy Central HD </display-name>
-</channel>
-<programme channel="Comedy Central HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Comedy Central HD ">
-<display-name>Comedy Central HD </display-name>
-</channel>
-<programme channel="Comedy Central HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Maestros del Jazz">
-<display-name>Stingray Maestros del Jazz</display-name>
-</channel>
-<programme channel="Stingray Maestros del Jazz" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Maestros del Jazz">
-<display-name>Stingray Maestros del Jazz</display-name>
-</channel>
-<programme channel="Stingray Maestros del Jazz" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX HD">
-<display-name>FX HD</display-name>
-</channel>
-<programme channel="FX HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX HD">
-<display-name>FX HD</display-name>
-</channel>
-<programme channel="FX HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX HD">
-<display-name>FX HD</display-name>
-</channel>
-<programme channel="FX HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="FX HD">
-<display-name>FX HD</display-name>
-</channel>
-<programme channel="FX HD" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Jazz Latino">
+<programme channel="Stingray Blues_la"<channel id ="Stingray Jazz Latino_la">
 <display-name>Stingray Jazz Latino</display-name>
 </channel>
-<programme channel="Stingray Jazz Latino" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Jazz Latino">
+<programme channel="Stingray Jazz Latino_la"<channel id ="Stingray Jazz Latino_la">
 <display-name>Stingray Jazz Latino</display-name>
 </channel>
-<programme channel="Stingray Jazz Latino" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Estándares">
-<display-name>Stingray Estándares</display-name>
+<programme channel="Stingray Jazz Latino_la"<channel id ="AXN HD_la">
+<display-name>AXN HD</display-name>
 </channel>
-<programme channel="Stingray Estándares" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Estándares">
-<display-name>Stingray Estándares</display-name>
+<programme channel="AXN HD_la"<channel id ="AXN HD_la">
+<display-name>AXN HD</display-name>
 </channel>
-<programme channel="Stingray Estándares" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Música Ligera">
-<display-name>Stingray Música Ligera</display-name>
+<programme channel="AXN HD_la"<channel id ="AXN HD_la">
+<display-name>AXN HD</display-name>
 </channel>
-<programme channel="Stingray Música Ligera" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Música Ligera">
-<display-name>Stingray Música Ligera</display-name>
+<programme channel="AXN HD_la"<channel id ="AXN HD_la">
+<display-name>AXN HD</display-name>
 </channel>
-<programme channel="Stingray Música Ligera" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Discovery World HD ">
-<display-name>Discovery World HD </display-name>
+<programme channel="AXN HD_la"<channel id ="Stingray Big Band _la">
+<display-name>Stingray Big Band </display-name>
 </channel>
-<programme channel="Discovery World HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Discovery World HD ">
-<display-name>Discovery World HD </display-name>
+<programme channel="Stingray Big Band _la"<channel id ="Stingray Big Band _la">
+<display-name>Stingray Big Band </display-name>
 </channel>
-<programme channel="Discovery World HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Ópera Plus">
+<programme channel="Stingray Big Band _la"<channel id ="Stingray Maestros del Clásico_la">
+<display-name>Stingray Maestros del Clásico</display-name>
+</channel>
+<programme channel="Stingray Maestros del Clásico_la"<channel id ="Stingray Maestros del Clásico_la">
+<display-name>Stingray Maestros del Clásico</display-name>
+</channel>
+<programme channel="Stingray Maestros del Clásico_la"<channel id ="Stingray Ópera Plus_la">
 <display-name>Stingray Ópera Plus</display-name>
 </channel>
-<programme channel="Stingray Ópera Plus" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Stingray Ópera Plus">
+<programme channel="Stingray Ópera Plus_la"<channel id ="Stingray Ópera Plus_la">
 <display-name>Stingray Ópera Plus</display-name>
 </channel>
-<programme channel="Stingray Ópera Plus" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Discovery World HD ">
-<display-name>Discovery World HD </display-name>
-</channel>
-<programme channel="Discovery World HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<channel id ="Discovery World HD ">
-<display-name>Discovery World HD </display-name>
-</channel>
-<programme channel="Discovery World HD " start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
-<programme channel="#" start ="20220331043000 +0500" stop="20220331053000 +0500">
-<title>La herencia</title>
-<desc>La vida de Mariana, una humilde y valiente joven que, tras haber terminado desamparada y solitaria, llega a la vida de la adinerada familia Salvatierra, siendo ella acobijada por Alberto Salvatierra, uno de los empresarios más poderosos de México.</desc>
-</programme>
+<programme channel="Stingray Ópera Plus_la"<programme channel="#_la"

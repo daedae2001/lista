@@ -6,7 +6,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import datetime
-from datetime import datetime
+import sys
+from datetime import datetime, date, timedelta
 canales = []
 canal = []
 horarios = []
@@ -38,11 +39,17 @@ def cambio_hora(fecha, hora_texto, modif_horaria):
     año = fecha.year
     ahora = datetime.now()
     dia2 = dia
+    mes2 = mes
+    año2 = año
     if p1 == 'A.M.' and anterior == 'P.M.':
-        dia2 = fecha.timedelta(days=1).day
+        fecha2 = (fecha+timedelta(days=1))
+        dia2 = (fecha2).day
+        mes2 = (fecha2).month
+        año2 = (fecha2).year
+        pass
 
     res = ' start ="' + str(año*10000000000+mes*100000000+dia *
-                            1000000+h1*10000+m1*100)+' '+modif_horaria+'" stop="'+str(año*10000000000+mes*100000000+dia2 *
+                            1000000+h1*10000+m1*100)+' '+modif_horaria+'" stop="'+str(año2*10000000000+mes2*100000000+dia2 *
                                                                                       1000000+h2*10000+m2*100)+' '+modif_horaria+'">\n'
 
     anterior = p2
@@ -78,37 +85,46 @@ time.sleep(2)
 
 def lee_horarios():
     global texto
-    lista_horarios = driver.find_element_by_xpath(
-        f"/html/body/main/section/div/div/div[2]/div[2]/div/div/div[2]/div[2]/ul/li[{linea}]").get_attribute('outerHTML')
-    salida = 1
+    global linea
+    try:
+        lista_horarios = driver.find_element_by_xpath(
+            f"/html/body/main/section/div/div/div[2]/div[2]/div/div/div[2]/div[2]/ul/li[{linea}]").get_attribute('outerHTML')
+        linea = linea+1
+        salida = 1
 
-    while(salida > 0):
-        resultado = extrae(lista_horarios, 'data-duracion="', '"')
-        lista_horarios = lista_horarios[resultado[1]:]
-        horarios.append(resultado[0])
-        if resultado[1] > 0:
-            resultado = extrae(lista_horarios, '"hora-inicial">', '</span>')
-            lista_horarios = lista_horarios[resultado[1]:]
-            title = extrae(lista_horarios, 'alt="', '"')[0]
-            lista_horarios = lista_horarios[resultado[1]:]
-            #texto = texto+'<channel id ="'+resultado[0]+'">\n'
-            horarios.append(resultado[0])
-            resultado = extrae(lista_horarios, '<p class="fw-medium">', '</p>')
-            lista_horarios = lista_horarios[resultado[1]:]
-            start_stop = cambio_hora(datetime.now(), resultado[0], '+0500')
-            resultado = extrae(lista_horarios, '<img data-src="', '"')
+        while(salida > 0):
+            resultado = extrae(lista_horarios, 'data-duracion="', '"')
             lista_horarios = lista_horarios[resultado[1]:]
             horarios.append(resultado[0])
-            desc = extrae(lista_horarios, '<p>', '</p>')[0]
-            lista_horarios = lista_horarios[resultado[1]:]
-            horarios.append(resultado[0])
+            if resultado[1] > 0:
+                resultado = extrae(
+                    lista_horarios, '"hora-inicial">', '</span>')
+                lista_horarios = lista_horarios[resultado[1]:]
+                title = extrae(lista_horarios, 'alt="', '"')[0]
+                lista_horarios = lista_horarios[resultado[1]:]
+                #texto = texto+'<channel id ="'+resultado[0]+'">\n'
+                horarios.append(resultado[0])
+                resultado = extrae(
+                    lista_horarios, '<p class="fw-medium">', '</p>')
+                lista_horarios = lista_horarios[resultado[1]:]
+                start_stop = cambio_hora(datetime.now(), resultado[0], '+0500')
+                resultado = extrae(lista_horarios, '<img data-src="', '"')
+                lista_horarios = lista_horarios[resultado[1]:]
+                horarios.append(resultado[0])
+                desc = extrae(lista_horarios, '<p>', '</p>')[0]
+                lista_horarios = lista_horarios[resultado[1]:]
+                horarios.append(resultado[0])
 
-        if resultado[1] > 0:
-            salida = 1
-        else:
-            salida = 0
-    texto = texto+start_stop+'<title>'+title + \
-        '</title>\n'+'<desc>'+desc+'</desc>\n</programme>\n'
+            if resultado[1] > 0:
+                salida = 1
+            else:
+                salida = 0
+        texto = texto+start_stop+'<title>'+title + \
+            '</title>\n'+'<desc>'+desc+'</desc>\n</programme>\n'
+        pass
+
+    except:
+        print("Error inesperado:", sys.exc_info()[0])
 
 
 # d0.click()
@@ -124,7 +140,7 @@ while(salida > 0):
     canal.append(resultado[0].replace('"', ''))
     if resultado[1] > 0:
         resultado = extrae(lista_canales, 'alt="', '"')
-        canal_id = resultado[0]
+        canal_id = resultado[0]+'_la'
         texto = texto+'<channel id ="'+canal_id+'">\n'
         lista_canales = lista_canales[resultado[1]:]
         texto = texto+'<display-name>' + \
@@ -134,7 +150,9 @@ while(salida > 0):
         salida = 1
     else:
         salida = 0
-    texto = texto+'<programme channel="'+resultado[0]+'"'
+    #texto = texto+'<channel id ="'+canal_id+'">\n'
+    #texto = texto+'<display-name>' + resultado[0]+'</display-name>\n</channel>\n'
+    texto = texto+'<programme channel="'+resultado[0]+'_la"'
     canales.append(canal)
     canal = []
     lee_horarios()
