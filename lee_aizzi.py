@@ -94,7 +94,8 @@ def lee_horarios(canal):
         salida = 1
 
         while(salida > 0):
-            texto = texto+'<programme channel="'+canal+'_la"'
+            texto = texto+'<programme channel="' + \
+                canal.replace('&amp;', ' y ')+'_la"'
             resultado = extrae(lista_horarios, 'data-duracion="', '"')
             lista_horarios = lista_horarios[resultado[1]:]
             horarios.append(resultado[0])
@@ -113,7 +114,8 @@ def lee_horarios(canal):
                 img = extrae(lista_horarios, '<img data-src="', '"')
                 lista_horarios = lista_horarios[resultado[1]:]
                 horarios.append(resultado[0])
-                desc = extrae(lista_horarios, '<p>', '</p>')[0]
+                desc = extrae(
+                    lista_horarios, '<p>', '</p>')[0].replace('<span class="bold program-label">', '').replace('<span class="bold program-label">Actores:</span> ', '').replace('span class="program-content">', '')
                 lista_horarios = lista_horarios[resultado[1]:]
                 horarios.append(resultado[0])
                 resultado = extrae(lista_horarios, 'program-langs', '">')
@@ -149,8 +151,9 @@ while(salida > 0):
         resultado = extrae(lista_canales, 'alt="', '"')
         canal_id = resultado[0]
         canal.append(canal_id)
-        texto = texto+'<channel id = "'+canal_id.replace('&amp;', ' y ')+'_la">\n<display-name >' + \
-            canal_id+'</display-name >\n</channel>\n'
+        texto = texto+'<channel id = "'+canal_id.replace('&amp;', ' y ')+'_la">\n<display-name>' + \
+            canal_id.replace('&amp;', ' y ')+'_la' + \
+            ' </display-name>\n </channel>\n'
         lista_canales = lista_canales[resultado[1]:]
 
         resultado = extrae(lista_canales, '</l', '>')
