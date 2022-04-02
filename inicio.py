@@ -25,7 +25,7 @@ cols_programmes = ["start", "stop", "channel",
                    "country", "episode-num", "star-rating",
                    "sub-title", "category"]
 rows_programmes = []
-lin = '<?xml version="1.0" encoding="UTF-8"?><tv>\n'
+lin = '<?xml version = "1.0" encoding = "UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd" ><tv generator-info-name = "www.matthuisman.nz" >\n'
 linp = ''
 try:
     xmlparse = Xet.parse('todo.xml')
