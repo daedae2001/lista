@@ -272,9 +272,6 @@
 <channel id="DARK">
 <display-name>DARK_</display-name>
 </channel>
-<channel id="A y E_la">
-<display-name>A y E_la </display-name>
-</channel>
 <channel id="ESBA2200005D6">
 <display-name>Detectives_</display-name>
 </channel>
@@ -4964,39 +4961,6 @@ Act: Tyler Hoechlin, Kate Todd, Graham Kosakoski, Brody Harms.</desc>
 Un sacerdote es excomulgado por el Vaticano para combatir el incremento de casos de posesiones que comenzaron en 2010.
 Dir: Emilio Portes.
 Act: Tobin Bell, Joaquín Cosío, Giovanna Zacarías.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402184000 +0500" stop="20220402190500 +0500">
-<title>Rescate en acción</title>
-<desc>Jamey siente culpable por las víctimas del hundimiento del Titanic.
- Thalia teme que los edificios se vayan a derrumbar.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402195500 +0500" stop="20220402205000 +0500">
-<title>Acumuladores compulsivos</title>
-<desc>Un joven interviene en una disputa familiar. Armado con una AK-47, dispara dos tiros de advertencia para proteger a un niño que necesita ayuda. La fiscalía sostiene que hizo justicia por mano propia. La defensa argumenta que hizo lo correcto.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402214000 +0500" stop="20220402223000 +0500">
-<title>Último día en libertad</title>
-<desc>Una familia intenta vengarse de un asesino. Un delincuente buscado no se detendrá ante nada para evadir a la policía. Un conductor ebrio paga un alto precio por su impactante comportamiento en la corte.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402225500 +0500" stop="20220402232500 +0500">
-<title>Court Cam, acción judicial</title>
-<desc>Francisco explica el papel que juegan las cámaras C5 en la seguridad de la población y ayudan a resolver crímenes.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402235500 +0500" stop="20220402002500 +0500">
-<title>Cam Alert: Captura exitosa</title>
-<desc>En la Alcaldía Gustavo A. Madero, las unidades policiales entran en alerta: una motocicleta ha sido robada. Rodean la zona y, al buscar al sospechoso, encuentran un punto de distribución de droga. Una ambulancia aérea del grupo Cóndores cruza de punta a punta la Alcaldía Miguel Hidalgo para transportar de emergencia a una joven mujer que buscó quitarse la vida provocándose graves heridas en la tráquea.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402005500 +0500" stop="20220402012500 +0500">
-<title>¡Alto! Frontera</title>
-<desc>Asesinan y torturan a un oficial de inteligencia naval, y el NCIS descubre que los agentes de la CIA están siendo asesinados de la misma manera. Kensi recibe una postal amenazante de David Kessler, el sociópata que está obsesionado con ella.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402021500 +0500" stop="20220402041000 +0500">
-<title>En la mente del asesino</title>
-<desc>El huracán Katrina interrumpe la electricidad en el hospital de Nueva Orleans, donde acaba de nacer una bebé prematura. Su padre se esfuerza por lograr que permanezca con vida.</desc>
-</programme>
-<programme channel="A y E_la" start="20220402060000 +0500" stop="20220402074000 +0500">
-<title>Locke</title>
-<desc>nn</desc>
 </programme>
 <programme channel="ESAJ4500019AM" start="20220402164019 +0000" stop="20220402182457 +0000">
 <title>París puede esperar</title>
