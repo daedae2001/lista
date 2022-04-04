@@ -1,7 +1,7 @@
 
 import requests
 import gzip
-
+from os import remove
 mylist = [["es.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml', 'es'],
           ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx'],
           ["smes.xml", 'https://i.mjh.nz/SamsungTVPlus/es.xml', ''],
@@ -66,8 +66,13 @@ except IOError as e:
 else:
     data = f.read()
     f.close()
-
+"""
 if data is not None:
     f = gzip.open('todo.xml' + ".gz", "wb")
     f.write(data)
     f.close()
+    
+"""
+
+for x in mylist:
+    remove(x[0])
