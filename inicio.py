@@ -128,12 +128,14 @@ finally:
     pass
 
 f = open('todon.xml', 'w')
-f.write(lin+linp+'</tv>')
+
+tx = (lin+linp+'</tv>').replace('></desc>', '>nn</desc>')
+f.write(tx)
 f.close()
 f = open('todon1.xml', 'w')
 f.write(lin+linp+'</tv>')
 f.close()
-remove("todo.xml")
+#remove("todo.xml")
 
 #df_channels = pd.DataFrame(rows_channels, columns=cols_channels)
 #df_programmes = pd.DataFrame(rows_programmes, columns=cols_programmes)
