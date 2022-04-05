@@ -55,7 +55,7 @@ locales.close
 primera = insertar_texto(primera, otras)
 
 f = open('todo.xml', 'w', encoding="utf8")
-f.write(primera)
+f.write(primera.replace('></desc>', '>nn</desc>'))
 f.close()
 
 

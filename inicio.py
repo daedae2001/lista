@@ -31,12 +31,12 @@ linp = ''
 try:
     xmlparse = Xet.parse('todo.xml')
     root = xmlparse.getroot()
-    print(root)
+    #print(root)
     i = 0
     for hijo in root:
         if hijo.tag == 'channel':
             i = i+1
-            print(str(i))
+            #print(str(i))
             id = hijo.attrib["id"]
             for nieto in hijo:
                 if nieto.tag == 'display-name':
@@ -61,7 +61,7 @@ try:
         elif hijo.tag == 'programme':
 
             i = i+1
-            print(str(i))
+            #print(str(i))
             start = (hijo.attrib["start"])
             stop = (hijo.attrib["stop"])
             channel = (hijo.attrib["channel"])
@@ -70,7 +70,7 @@ try:
                 if nieto.tag == 'desc':
                     desc = (nieto.text.replace('&amp;', '').replace(
                         '\n\n', '\n').replace('\n\n', '\n').replace('\n\n', '\n').replace(';', '.\n'))
-                    print(desc)
+                    #print(desc)
                 elif nieto.tag == 'title':
                     title = (nieto.text.replace(
                         '&amp;', ' ').replace(';', ' '))
@@ -129,12 +129,12 @@ finally:
 
 f = open('todon.xml', 'w')
 
-tx = (lin+linp+'</tv>').replace('></desc>', '>nn</desc>')
+tx = (lin+linp+'</tv>')
 f.write(tx)
 f.close()
-f = open('todon1.xml', 'w')
-f.write(lin+linp+'</tv>')
-f.close()
+#f = open('todon1.xml', 'w')
+#f.write(lin+linp+'</tv>')
+#f.close()
 remove("todo.xml")
 
 #df_channels = pd.DataFrame(rows_channels, columns=cols_channels)
