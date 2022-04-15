@@ -5,7 +5,7 @@ from os import remove
 mylist = [["es.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml', 'es'],
           ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx'],
           ["smes.xml", 'https://i.mjh.nz/SamsungTVPlus/es.xml', ''],
-          ["mv.xml", 'http://tropical.jungle-team.online/epg/koala3.xml', '']]
+          ["mv.xml", 'https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml', '']]
 mylist_locales = [["aizzi.xml", 'aizzi.xml', '']]
 
 i = 1
