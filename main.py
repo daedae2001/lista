@@ -2,10 +2,7 @@
 import requests
 import gzip
 from os import remove
-mylist = [["es.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml', 'es'],
-          ["mx.xml", 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml', 'mx'],
-          ["smes.xml", 'https://i.mjh.nz/SamsungTVPlus/es.xml', ''],
-          ["mv.xml", 'https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml', '']]
+mylist = [["mv.xml", 'https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml', '']]
 mylist_locales = [["aizzi.xml", 'aizzi.xml', '']]
 
 i = 1
@@ -73,6 +70,7 @@ if data is not None:
     f.close()
     
 """
-
+"""
 for x in mylist:
     remove(x[0])
+"""
